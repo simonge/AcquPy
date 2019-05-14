@@ -1,0 +1,30 @@
+\section{AcquPy}
+AcquPy is the main module which decodes Acqu format files and provides the user with a list of ADC values, Scaler buffers and EPICS buffers per event. Currently this does not work on Compressed files.
+
+\subsection{Quick-Start}
+Sample of basic macros using the AcquPy module
+\subsubsection{Open Data File}
+%\begin{lstlisting}[language=Python]
+import Acqu as aq\\
+aq.openFile('file.dat')\\
+\subsubsection{Run Function on Events}
+%\begin{lstlisting}[language=Python]
+import Acqu as aq\\
+aq.openFile('file.dat')\\
+aq.runFunction(customFunction)\\
+%\end{lstlisting}
+
+\subsection{Dependancies}
+The module requires that other packages have been installed on the system.
+
+\begin{itemize}
+\item numpy (Numerical Python)
+\item sys
+\end{itemize}
+
+Other submodules required in the same directory as Acqu.py are the data format files, currently:
+\begin{itemize}
+\item Mk1Format
+\item Mk2Format  
+\end{itemize}
+
