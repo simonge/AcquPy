@@ -1,0 +1,547 @@
+{
+  "channels": [
+    {
+      "scale": [
+        0.015546
+      ], 
+      "raw": [
+        [], 
+        []
+      ], 
+      "neighbours": [], 
+      "adc": [
+        126
+      ], 
+      "offset": [
+        0.001
+      ], 
+      "position": [
+        51.0, 
+        0.0, 
+        13.048
+      ], 
+      "channel": 0
+    }, 
+    {
+      "scale": [
+        0.016393
+      ], 
+      "raw": [
+        [], 
+        []
+      ], 
+      "neighbours": [], 
+      "adc": [
+        101
+      ], 
+      "offset": [
+        0.001
+      ], 
+      "position": [
+        51.0, 
+        0.0, 
+        28.185
+      ], 
+      "channel": 1
+    }, 
+    {
+      "scale": [
+        0.015951
+      ], 
+      "raw": [
+        [], 
+        []
+      ], 
+      "neighbours": [], 
+      "adc": [
+        127
+      ], 
+      "offset": [
+        0.001
+      ], 
+      "position": [
+        51.0, 
+        0.0, 
+        43.321
+      ], 
+      "channel": 2
+    }, 
+    {
+      "scale": [
+        0.0171
+      ], 
+      "raw": [
+        [], 
+        []
+      ], 
+      "neighbours": [], 
+      "adc": [
+        103
+      ], 
+      "offset": [
+        0.001
+      ], 
+      "position": [
+        51.0, 
+        0.0, 
+        58.458
+      ], 
+      "channel": 3
+    }, 
+    {
+      "scale": [
+        0.020944
+      ], 
+      "raw": [
+        [], 
+        []
+      ], 
+      "neighbours": [], 
+      "adc": [
+        104
+      ], 
+      "offset": [
+        0.001
+      ], 
+      "position": [
+        51.0, 
+        0.0, 
+        73.595
+      ], 
+      "channel": 4
+    }, 
+    {
+      "scale": [
+        0.015531
+      ], 
+      "raw": [
+        [], 
+        []
+      ], 
+      "neighbours": [], 
+      "adc": [
+        105
+      ], 
+      "offset": [
+        0.001
+      ], 
+      "position": [
+        51.0, 
+        0.0, 
+        88.732
+      ], 
+      "channel": 5
+    }, 
+    {
+      "scale": [
+        0.018625
+      ], 
+      "raw": [
+        [], 
+        []
+      ], 
+      "neighbours": [], 
+      "adc": [
+        106
+      ], 
+      "offset": [
+        0.001
+      ], 
+      "position": [
+        51.0, 
+        0.0, 
+        103.869
+      ], 
+      "channel": 6
+    }, 
+    {
+      "scale": [
+        0.017157
+      ], 
+      "raw": [
+        [], 
+        []
+      ], 
+      "neighbours": [], 
+      "adc": [
+        107
+      ], 
+      "offset": [
+        0.001
+      ], 
+      "position": [
+        51.0, 
+        0.0, 
+        119.005
+      ], 
+      "channel": 7
+    }, 
+    {
+      "scale": [
+        0.012428
+      ], 
+      "raw": [
+        [], 
+        []
+      ], 
+      "neighbours": [], 
+      "adc": [
+        108
+      ], 
+      "offset": [
+        0.001
+      ], 
+      "position": [
+        51.0, 
+        0.0, 
+        134.142
+      ], 
+      "channel": 8
+    }, 
+    {
+      "scale": [
+        0.014138
+      ], 
+      "raw": [
+        [], 
+        []
+      ], 
+      "neighbours": [], 
+      "adc": [
+        109
+      ], 
+      "offset": [
+        0.001
+      ], 
+      "position": [
+        51.0, 
+        0.0, 
+        149.279
+      ], 
+      "channel": 9
+    }, 
+    {
+      "scale": [
+        0.01736
+      ], 
+      "raw": [
+        [], 
+        []
+      ], 
+      "neighbours": [], 
+      "adc": [
+        110
+      ], 
+      "offset": [
+        0.001
+      ], 
+      "position": [
+        51.0, 
+        0.0, 
+        164.416
+      ], 
+      "channel": 10
+    }, 
+    {
+      "scale": [
+        0.014436
+      ], 
+      "raw": [
+        [], 
+        []
+      ], 
+      "neighbours": [], 
+      "adc": [
+        111
+      ], 
+      "offset": [
+        0.001
+      ], 
+      "position": [
+        51.0, 
+        0.0, 
+        179.553
+      ], 
+      "channel": 11
+    }, 
+    {
+      "scale": [
+        0.017972
+      ], 
+      "raw": [
+        [], 
+        []
+      ], 
+      "neighbours": [], 
+      "adc": [
+        112
+      ], 
+      "offset": [
+        0.001
+      ], 
+      "position": [
+        51.0, 
+        0.0, 
+        -165.311
+      ], 
+      "channel": 12
+    }, 
+    {
+      "scale": [
+        0.016693
+      ], 
+      "raw": [
+        [], 
+        []
+      ], 
+      "neighbours": [], 
+      "adc": [
+        113
+      ], 
+      "offset": [
+        0.001
+      ], 
+      "position": [
+        51.0, 
+        0.0, 
+        -153.457
+      ], 
+      "channel": 13
+    }, 
+    {
+      "scale": [
+        0.018136
+      ], 
+      "raw": [
+        [], 
+        []
+      ], 
+      "neighbours": [], 
+      "adc": [
+        114
+      ], 
+      "offset": [
+        0.001
+      ], 
+      "position": [
+        51.0, 
+        0.0, 
+        -138.32
+      ], 
+      "channel": 14
+    }, 
+    {
+      "scale": [
+        0.020207
+      ], 
+      "raw": [
+        [], 
+        []
+      ], 
+      "neighbours": [], 
+      "adc": [
+        115
+      ], 
+      "offset": [
+        0.001
+      ], 
+      "position": [
+        51.0, 
+        0.0, 
+        -123.183
+      ], 
+      "channel": 15
+    }, 
+    {
+      "scale": [
+        0.015946
+      ], 
+      "raw": [
+        [], 
+        []
+      ], 
+      "neighbours": [], 
+      "adc": [
+        116
+      ], 
+      "offset": [
+        0.001
+      ], 
+      "position": [
+        51.0, 
+        0.0, 
+        -108.047
+      ], 
+      "channel": 16
+    }, 
+    {
+      "scale": [
+        0.019182
+      ], 
+      "raw": [
+        [], 
+        []
+      ], 
+      "neighbours": [], 
+      "adc": [
+        117
+      ], 
+      "offset": [
+        0.001
+      ], 
+      "position": [
+        51.0, 
+        0.0, 
+        -92.91
+      ], 
+      "channel": 17
+    }, 
+    {
+      "scale": [
+        0.019657
+      ], 
+      "raw": [
+        [], 
+        []
+      ], 
+      "neighbours": [], 
+      "adc": [
+        118
+      ], 
+      "offset": [
+        0.001
+      ], 
+      "position": [
+        51.0, 
+        0.0, 
+        -77.773
+      ], 
+      "channel": 18
+    }, 
+    {
+      "scale": [
+        0.019265
+      ], 
+      "raw": [
+        [], 
+        []
+      ], 
+      "neighbours": [], 
+      "adc": [
+        119
+      ], 
+      "offset": [
+        0.001
+      ], 
+      "position": [
+        51.0, 
+        0.0, 
+        -62.636
+      ], 
+      "channel": 19
+    }, 
+    {
+      "scale": [
+        0.014569
+      ], 
+      "raw": [
+        [], 
+        []
+      ], 
+      "neighbours": [], 
+      "adc": [
+        120
+      ], 
+      "offset": [
+        0.001
+      ], 
+      "position": [
+        51.0, 
+        0.0, 
+        -47.499
+      ], 
+      "channel": 20
+    }, 
+    {
+      "scale": [
+        0.017093
+      ], 
+      "raw": [
+        [], 
+        []
+      ], 
+      "neighbours": [], 
+      "adc": [
+        121
+      ], 
+      "offset": [
+        0.001
+      ], 
+      "position": [
+        51.0, 
+        0.0, 
+        -32.363
+      ], 
+      "channel": 21
+    }, 
+    {
+      "scale": [
+        0.016018
+      ], 
+      "raw": [
+        [], 
+        []
+      ], 
+      "neighbours": [], 
+      "adc": [
+        122
+      ], 
+      "offset": [
+        0.001
+      ], 
+      "position": [
+        51.0, 
+        0.0, 
+        -17.226
+      ], 
+      "channel": 22
+    }, 
+    {
+      "scale": [
+        0.017574
+      ], 
+      "raw": [
+        [], 
+        []
+      ], 
+      "neighbours": [], 
+      "adc": [
+        123
+      ], 
+      "offset": [
+        0.001
+      ], 
+      "position": [
+        51.0, 
+        0.0, 
+        -2.089
+      ], 
+      "channel": 23
+    }
+  ], 
+  "parameters": [
+    "Energy", 
+    "Time"
+  ], 
+  "ignore": [], 
+  "references": [
+    [], 
+    []
+  ], 
+  "detector": "PID", 
+  "startChan": 1, 
+  "calEq": [
+    "[float(y['raw'])*y['scale'][i]+y['offset'][i] for y in x]", 
+    "[y['raw']*y['scale'][i]-y['offset'][i] for y in x]"
+  ]
+}

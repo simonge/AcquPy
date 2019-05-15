@@ -1,0 +1,29 @@
+{
+  "channels": [
+    {
+      "scale": 1, 
+      "raw": [], 
+      "neighbours": [], 
+      "adc": [
+        1055
+      ], 
+      "position": [
+        -50, 
+        -50, 
+        -50
+      ], 
+      "channel": 0
+    }
+  ], 
+  "parameters": [
+    "Energy"
+  ], 
+  "ignore": [], 
+  "references": [
+    []
+  ], 
+  "detector": "Paddle", 
+  "calEq": [
+    "x['raw']"
+  ]
+}

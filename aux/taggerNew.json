@@ -1,0 +1,8113 @@
+{
+  "channels": [
+    {
+      "electronE": 1447.79, 
+      "scale": 0.1, 
+      "Energy": 109.21000000000004, 
+      "ewidth": 5.953, 
+      "raw": [], 
+      "neighbours": [
+        1
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        849
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        0, 
+        1447.79, 
+        109.21000000000004
+      ], 
+      "channel": 0
+    }, 
+    {
+      "electronE": 1442.15, 
+      "scale": 0.1, 
+      "Energy": 114.84999999999991, 
+      "ewidth": 5.975, 
+      "raw": [], 
+      "neighbours": [
+        0, 
+        2
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        832
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        1, 
+        1442.15, 
+        114.84999999999991
+      ], 
+      "channel": 1
+    }, 
+    {
+      "electronE": 1436.06, 
+      "scale": 0.1, 
+      "Energy": 120.94000000000005, 
+      "ewidth": 5.976, 
+      "raw": [], 
+      "neighbours": [
+        1, 
+        3
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        833
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        2, 
+        1436.06, 
+        120.94000000000005
+      ], 
+      "channel": 2
+    }, 
+    {
+      "electronE": 1430.38, 
+      "scale": 0.1, 
+      "Energy": 126.61999999999989, 
+      "ewidth": 5.997, 
+      "raw": [], 
+      "neighbours": [
+        2, 
+        4
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        848
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        3, 
+        1430.38, 
+        126.61999999999989
+      ], 
+      "channel": 3
+    }, 
+    {
+      "electronE": 1424.28, 
+      "scale": 0.1, 
+      "Energy": 132.72000000000003, 
+      "ewidth": 5.996, 
+      "raw": [], 
+      "neighbours": [
+        3, 
+        5
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        817
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        4, 
+        1424.28, 
+        132.72000000000003
+      ], 
+      "channel": 4
+    }, 
+    {
+      "electronE": 1418.56, 
+      "scale": 0.1, 
+      "Energy": 138.44000000000005, 
+      "ewidth": 6.015, 
+      "raw": [], 
+      "neighbours": [
+        4, 
+        6
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        800
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        5, 
+        1418.56, 
+        138.44000000000005
+      ], 
+      "channel": 5
+    }, 
+    {
+      "electronE": 1412.46, 
+      "scale": 0.1, 
+      "Energy": 144.53999999999996, 
+      "ewidth": 6.013, 
+      "raw": [], 
+      "neighbours": [
+        5, 
+        7
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        801
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        6, 
+        1412.46, 
+        144.53999999999996
+      ], 
+      "channel": 6
+    }, 
+    {
+      "electronE": 1406.7, 
+      "scale": 0.1, 
+      "Energy": 150.29999999999995, 
+      "ewidth": 6.032, 
+      "raw": [], 
+      "neighbours": [
+        6, 
+        8
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        816
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        7, 
+        1406.7, 
+        150.29999999999995
+      ], 
+      "channel": 7
+    }, 
+    {
+      "electronE": 1397.75, 
+      "scale": 0.1, 
+      "Energy": 159.25, 
+      "ewidth": 5.908, 
+      "raw": [], 
+      "neighbours": [
+        7, 
+        9
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        977
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        8, 
+        1397.75, 
+        159.25
+      ], 
+      "channel": 8
+    }, 
+    {
+      "electronE": 1392.14, 
+      "scale": 0.1, 
+      "Energy": 164.8599999999999, 
+      "ewidth": 5.925, 
+      "raw": [], 
+      "neighbours": [
+        8, 
+        10
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        960
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        9, 
+        1392.14, 
+        164.8599999999999
+      ], 
+      "channel": 9
+    }, 
+    {
+      "electronE": 1386.1, 
+      "scale": 0.1, 
+      "Energy": 170.9000000000001, 
+      "ewidth": 5.922, 
+      "raw": [], 
+      "neighbours": [
+        9, 
+        11
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        961
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        10, 
+        1386.1, 
+        170.9000000000001
+      ], 
+      "channel": 10
+    }, 
+    {
+      "electronE": 1380.45, 
+      "scale": 0.1, 
+      "Energy": 176.54999999999995, 
+      "ewidth": 5.939, 
+      "raw": [], 
+      "neighbours": [
+        10, 
+        12
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        976
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        11, 
+        1380.45, 
+        176.54999999999995
+      ], 
+      "channel": 11
+    }, 
+    {
+      "electronE": 1374.42, 
+      "scale": 0.1, 
+      "Energy": 182.57999999999993, 
+      "ewidth": 5.934, 
+      "raw": [], 
+      "neighbours": [
+        11, 
+        13
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        945
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        12, 
+        1374.42, 
+        182.57999999999993
+      ], 
+      "channel": 12
+    }, 
+    {
+      "electronE": 1368.74, 
+      "scale": 0.1, 
+      "Energy": 188.26, 
+      "ewidth": 5.949, 
+      "raw": [], 
+      "neighbours": [
+        12, 
+        14
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        928
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        13, 
+        1368.74, 
+        188.26
+      ], 
+      "channel": 13
+    }, 
+    {
+      "electronE": 1362.71, 
+      "scale": 0.1, 
+      "Energy": 194.28999999999996, 
+      "ewidth": 5.944, 
+      "raw": [], 
+      "neighbours": [
+        13, 
+        15
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        929
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        14, 
+        1362.71, 
+        194.28999999999996
+      ], 
+      "channel": 14
+    }, 
+    {
+      "electronE": 1357.0, 
+      "scale": 0.1, 
+      "Energy": 200.0, 
+      "ewidth": 5.958, 
+      "raw": [], 
+      "neighbours": [
+        14, 
+        16
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        944
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        15, 
+        1357.0, 
+        200.0
+      ], 
+      "channel": 15
+    }, 
+    {
+      "electronE": 1348.3, 
+      "scale": 0.1, 
+      "Energy": 208.70000000000005, 
+      "ewidth": 5.838, 
+      "raw": [], 
+      "neighbours": [
+        15, 
+        17
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1105
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        16, 
+        1348.3, 
+        208.70000000000005
+      ], 
+      "channel": 16
+    }, 
+    {
+      "electronE": 1342.74, 
+      "scale": 0.1, 
+      "Energy": 214.26, 
+      "ewidth": 5.851, 
+      "raw": [], 
+      "neighbours": [
+        16, 
+        18
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1088
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        17, 
+        1342.74, 
+        214.26
+      ], 
+      "channel": 17
+    }, 
+    {
+      "electronE": 1336.78, 
+      "scale": 0.1, 
+      "Energy": 220.22000000000003, 
+      "ewidth": 5.846, 
+      "raw": [], 
+      "neighbours": [
+        17, 
+        19
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1089
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        18, 
+        1336.78, 
+        220.22000000000003
+      ], 
+      "channel": 18
+    }, 
+    {
+      "electronE": 1331.19, 
+      "scale": 0.1, 
+      "Energy": 225.80999999999995, 
+      "ewidth": 5.857, 
+      "raw": [], 
+      "neighbours": [
+        18, 
+        20
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1104
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        19, 
+        1331.19, 
+        225.80999999999995
+      ], 
+      "channel": 19
+    }, 
+    {
+      "electronE": 1325.24, 
+      "scale": 0.1, 
+      "Energy": 231.76, 
+      "ewidth": 5.85, 
+      "raw": [], 
+      "neighbours": [
+        19, 
+        21
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1073
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        20, 
+        1325.24, 
+        231.76
+      ], 
+      "channel": 20
+    }, 
+    {
+      "electronE": 1319.62, 
+      "scale": 0.1, 
+      "Energy": 237.3800000000001, 
+      "ewidth": 5.861, 
+      "raw": [], 
+      "neighbours": [
+        20, 
+        22
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1056
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        21, 
+        1319.62, 
+        237.3800000000001
+      ], 
+      "channel": 21
+    }, 
+    {
+      "electronE": 1313.69, 
+      "scale": 0.1, 
+      "Energy": 243.30999999999995, 
+      "ewidth": 5.852, 
+      "raw": [], 
+      "neighbours": [
+        21, 
+        23
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1057
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        22, 
+        1313.69, 
+        243.30999999999995
+      ], 
+      "channel": 22
+    }, 
+    {
+      "electronE": 1308.05, 
+      "scale": 0.1, 
+      "Energy": 248.95000000000005, 
+      "ewidth": 5.861, 
+      "raw": [], 
+      "neighbours": [
+        22, 
+        24
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1072
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        23, 
+        1308.05, 
+        248.95000000000005
+      ], 
+      "channel": 23
+    }, 
+    {
+      "electronE": 1299.64, 
+      "scale": 0.1, 
+      "Energy": 257.3599999999999, 
+      "ewidth": 5.749, 
+      "raw": [], 
+      "neighbours": [
+        23, 
+        25
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        913
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        24, 
+        1299.64, 
+        257.3599999999999
+      ], 
+      "channel": 24
+    }, 
+    {
+      "electronE": 1294.14, 
+      "scale": 0.1, 
+      "Energy": 262.8599999999999, 
+      "ewidth": 5.757, 
+      "raw": [], 
+      "neighbours": [
+        24, 
+        26
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        896
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        25, 
+        1294.14, 
+        262.8599999999999
+      ], 
+      "channel": 25
+    }, 
+    {
+      "electronE": 1288.29, 
+      "scale": 0.1, 
+      "Energy": 268.71000000000004, 
+      "ewidth": 5.749, 
+      "raw": [], 
+      "neighbours": [
+        25, 
+        27
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        897
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        26, 
+        1288.29, 
+        268.71000000000004
+      ], 
+      "channel": 26
+    }, 
+    {
+      "electronE": 1282.77, 
+      "scale": 0.1, 
+      "Energy": 274.23, 
+      "ewidth": 5.755, 
+      "raw": [], 
+      "neighbours": [
+        26, 
+        28
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        912
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        27, 
+        1282.77, 
+        274.23
+      ], 
+      "channel": 27
+    }, 
+    {
+      "electronE": 1276.93, 
+      "scale": 0.1, 
+      "Energy": 280.06999999999994, 
+      "ewidth": 5.746, 
+      "raw": [], 
+      "neighbours": [
+        27, 
+        29
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        881
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        28, 
+        1276.93, 
+        280.06999999999994
+      ], 
+      "channel": 28
+    }, 
+    {
+      "electronE": 1271.4, 
+      "scale": 0.1, 
+      "Energy": 285.5999999999999, 
+      "ewidth": 5.752, 
+      "raw": [], 
+      "neighbours": [
+        28, 
+        30
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        864
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        29, 
+        1271.4, 
+        285.5999999999999
+      ], 
+      "channel": 29
+    }, 
+    {
+      "electronE": 1265.58, 
+      "scale": 0.1, 
+      "Energy": 291.4200000000001, 
+      "ewidth": 5.742, 
+      "raw": [], 
+      "neighbours": [
+        29, 
+        31
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        865
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        30, 
+        1265.58, 
+        291.4200000000001
+      ], 
+      "channel": 30
+    }, 
+    {
+      "electronE": 1260.04, 
+      "scale": 0.1, 
+      "Energy": 296.96000000000004, 
+      "ewidth": 5.746, 
+      "raw": [], 
+      "neighbours": [
+        30, 
+        32
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        880
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        31, 
+        1260.04, 
+        296.96000000000004
+      ], 
+      "channel": 31
+    }, 
+    {
+      "electronE": 1251.95, 
+      "scale": 0.1, 
+      "Energy": 305.04999999999995, 
+      "ewidth": 5.642, 
+      "raw": [], 
+      "neighbours": [
+        31, 
+        33
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1041
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        32, 
+        1251.95, 
+        305.04999999999995
+      ], 
+      "channel": 32
+    }, 
+    {
+      "electronE": 1246.53, 
+      "scale": 0.1, 
+      "Energy": 310.47, 
+      "ewidth": 5.646, 
+      "raw": [], 
+      "neighbours": [
+        32, 
+        34
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1024
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        33, 
+        1246.53, 
+        310.47
+      ], 
+      "channel": 33
+    }, 
+    {
+      "electronE": 1240.8, 
+      "scale": 0.1, 
+      "Energy": 316.20000000000005, 
+      "ewidth": 5.636, 
+      "raw": [], 
+      "neighbours": [
+        33, 
+        35
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1025
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        34, 
+        1240.8, 
+        316.20000000000005
+      ], 
+      "channel": 34
+    }, 
+    {
+      "electronE": 1235.37, 
+      "scale": 0.1, 
+      "Energy": 321.6300000000001, 
+      "ewidth": 5.638, 
+      "raw": [], 
+      "neighbours": [
+        34, 
+        36
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1040
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        35, 
+        1235.37, 
+        321.6300000000001
+      ], 
+      "channel": 35
+    }, 
+    {
+      "electronE": 1229.66, 
+      "scale": 0.1, 
+      "Energy": 327.3399999999999, 
+      "ewidth": 5.627, 
+      "raw": [], 
+      "neighbours": [
+        35, 
+        37
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1009
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        36, 
+        1229.66, 
+        327.3399999999999
+      ], 
+      "channel": 36
+    }, 
+    {
+      "electronE": 1224.23, 
+      "scale": 0.1, 
+      "Energy": 332.77, 
+      "ewidth": 5.629, 
+      "raw": [], 
+      "neighbours": [
+        36, 
+        38
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        992
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        37, 
+        1224.23, 
+        332.77
+      ], 
+      "channel": 37
+    }, 
+    {
+      "electronE": 1218.54, 
+      "scale": 0.1, 
+      "Energy": 338.46000000000004, 
+      "ewidth": 5.616, 
+      "raw": [], 
+      "neighbours": [
+        37, 
+        39
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        993
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        38, 
+        1218.54, 
+        338.46000000000004
+      ], 
+      "channel": 38
+    }, 
+    {
+      "electronE": 1213.1, 
+      "scale": 0.1, 
+      "Energy": 343.9000000000001, 
+      "ewidth": 5.617, 
+      "raw": [], 
+      "neighbours": [
+        38, 
+        40
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1008
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        39, 
+        1213.1, 
+        343.9000000000001
+      ], 
+      "channel": 39
+    }, 
+    {
+      "electronE": 1205.34, 
+      "scale": 0.1, 
+      "Energy": 351.6600000000001, 
+      "ewidth": 5.521, 
+      "raw": [], 
+      "neighbours": [
+        39, 
+        41
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1169
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        40, 
+        1205.34, 
+        351.6600000000001
+      ], 
+      "channel": 40
+    }, 
+    {
+      "electronE": 1200.03, 
+      "scale": 0.1, 
+      "Energy": 356.97, 
+      "ewidth": 5.522, 
+      "raw": [], 
+      "neighbours": [
+        40, 
+        42
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1152
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        41, 
+        1200.03, 
+        356.97
+      ], 
+      "channel": 41
+    }, 
+    {
+      "electronE": 1194.42, 
+      "scale": 0.1, 
+      "Energy": 362.5799999999999, 
+      "ewidth": 5.509, 
+      "raw": [], 
+      "neighbours": [
+        41, 
+        43
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1153
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        42, 
+        1194.42, 
+        362.5799999999999
+      ], 
+      "channel": 42
+    }, 
+    {
+      "electronE": 1189.11, 
+      "scale": 0.1, 
+      "Energy": 367.8900000000001, 
+      "ewidth": 5.508, 
+      "raw": [], 
+      "neighbours": [
+        42, 
+        44
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1168
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        43, 
+        1189.11, 
+        367.8900000000001
+      ], 
+      "channel": 43
+    }, 
+    {
+      "electronE": 1183.53, 
+      "scale": 0.1, 
+      "Energy": 373.47, 
+      "ewidth": 5.495, 
+      "raw": [], 
+      "neighbours": [
+        43, 
+        45
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1137
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        44, 
+        1183.53, 
+        373.47
+      ], 
+      "channel": 44
+    }, 
+    {
+      "electronE": 1178.21, 
+      "scale": 0.1, 
+      "Energy": 378.78999999999996, 
+      "ewidth": 5.493, 
+      "raw": [], 
+      "neighbours": [
+        44, 
+        46
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1120
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        45, 
+        1178.21, 
+        378.78999999999996
+      ], 
+      "channel": 45
+    }, 
+    {
+      "electronE": 1172.66, 
+      "scale": 0.1, 
+      "Energy": 384.3399999999999, 
+      "ewidth": 5.479, 
+      "raw": [], 
+      "neighbours": [
+        45, 
+        47
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1121
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        46, 
+        1172.66, 
+        384.3399999999999
+      ], 
+      "channel": 46
+    }, 
+    {
+      "electronE": 1167.35, 
+      "scale": 0.1, 
+      "Energy": 389.6500000000001, 
+      "ewidth": 5.476, 
+      "raw": [], 
+      "neighbours": [
+        46, 
+        48
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1136
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        47, 
+        1167.35, 
+        389.6500000000001
+      ], 
+      "channel": 47
+    }, 
+    {
+      "electronE": 1159.93, 
+      "scale": 0.1, 
+      "Energy": 397.06999999999994, 
+      "ewidth": 5.391, 
+      "raw": [], 
+      "neighbours": [
+        47, 
+        49
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        851
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        48, 
+        1159.93, 
+        397.06999999999994
+      ], 
+      "channel": 48
+    }, 
+    {
+      "electronE": 1154.72, 
+      "scale": 0.1, 
+      "Energy": 402.28, 
+      "ewidth": 5.387, 
+      "raw": [], 
+      "neighbours": [
+        48, 
+        50
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        834
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        49, 
+        1154.72, 
+        402.28
+      ], 
+      "channel": 49
+    }, 
+    {
+      "electronE": 1149.26, 
+      "scale": 0.1, 
+      "Energy": 407.74, 
+      "ewidth": 5.373, 
+      "raw": [], 
+      "neighbours": [
+        49, 
+        51
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        835
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        50, 
+        1149.26, 
+        407.74
+      ], 
+      "channel": 50
+    }, 
+    {
+      "electronE": 1144.06, 
+      "scale": 0.1, 
+      "Energy": 412.94000000000005, 
+      "ewidth": 5.368, 
+      "raw": [], 
+      "neighbours": [
+        50, 
+        52
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        850
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        51, 
+        1144.06, 
+        412.94000000000005
+      ], 
+      "channel": 51
+    }, 
+    {
+      "electronE": 1138.63, 
+      "scale": 0.1, 
+      "Energy": 418.3699999999999, 
+      "ewidth": 5.354, 
+      "raw": [], 
+      "neighbours": [
+        51, 
+        53
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        819
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        52, 
+        1138.63, 
+        418.3699999999999
+      ], 
+      "channel": 52
+    }, 
+    {
+      "electronE": 1133.44, 
+      "scale": 0.1, 
+      "Energy": 423.55999999999995, 
+      "ewidth": 5.349, 
+      "raw": [], 
+      "neighbours": [
+        52, 
+        54
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        802
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        53, 
+        1133.44, 
+        423.55999999999995
+      ], 
+      "channel": 53
+    }, 
+    {
+      "electronE": 1128.03, 
+      "scale": 0.1, 
+      "Energy": 428.97, 
+      "ewidth": 5.333, 
+      "raw": [], 
+      "neighbours": [
+        53, 
+        55
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        803
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        54, 
+        1128.03, 
+        428.97
+      ], 
+      "channel": 54
+    }, 
+    {
+      "electronE": 1122.85, 
+      "scale": 0.1, 
+      "Energy": 434.1500000000001, 
+      "ewidth": 5.328, 
+      "raw": [], 
+      "neighbours": [
+        54, 
+        56
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        818
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        55, 
+        1122.85, 
+        434.1500000000001
+      ], 
+      "channel": 55
+    }, 
+    {
+      "electronE": 1115.77, 
+      "scale": 0.1, 
+      "Energy": 441.23, 
+      "ewidth": 5.252, 
+      "raw": [], 
+      "neighbours": [
+        55, 
+        57
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        979
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        56, 
+        1115.77, 
+        441.23
+      ], 
+      "channel": 56
+    }, 
+    {
+      "electronE": 1110.68, 
+      "scale": 0.1, 
+      "Energy": 446.31999999999994, 
+      "ewidth": 5.246, 
+      "raw": [], 
+      "neighbours": [
+        56, 
+        58
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        962
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        57, 
+        1110.68, 
+        446.31999999999994
+      ], 
+      "channel": 57
+    }, 
+    {
+      "electronE": 1105.37, 
+      "scale": 0.1, 
+      "Energy": 451.6300000000001, 
+      "ewidth": 5.231, 
+      "raw": [], 
+      "neighbours": [
+        57, 
+        59
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        963
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        58, 
+        1105.37, 
+        451.6300000000001
+      ], 
+      "channel": 58
+    }, 
+    {
+      "electronE": 1100.3, 
+      "scale": 0.1, 
+      "Energy": 456.70000000000005, 
+      "ewidth": 5.224, 
+      "raw": [], 
+      "neighbours": [
+        58, 
+        60
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        978
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        59, 
+        1100.3, 
+        456.70000000000005
+      ], 
+      "channel": 59
+    }, 
+    {
+      "electronE": 1095.01, 
+      "scale": 0.1, 
+      "Energy": 461.99, 
+      "ewidth": 5.208, 
+      "raw": [], 
+      "neighbours": [
+        59, 
+        61
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        947
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        60, 
+        1095.01, 
+        461.99
+      ], 
+      "channel": 60
+    }, 
+    {
+      "electronE": 1089.95, 
+      "scale": 0.1, 
+      "Energy": 467.04999999999995, 
+      "ewidth": 5.2, 
+      "raw": [], 
+      "neighbours": [
+        60, 
+        62
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        930
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        61, 
+        1089.95, 
+        467.04999999999995
+      ], 
+      "channel": 61
+    }, 
+    {
+      "electronE": 1084.7, 
+      "scale": 0.1, 
+      "Energy": 472.29999999999995, 
+      "ewidth": 5.183, 
+      "raw": [], 
+      "neighbours": [
+        61, 
+        63
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        931
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        62, 
+        1084.7, 
+        472.29999999999995
+      ], 
+      "channel": 62
+    }, 
+    {
+      "electronE": 1079.66, 
+      "scale": 0.1, 
+      "Energy": 477.3399999999999, 
+      "ewidth": 5.174, 
+      "raw": [], 
+      "neighbours": [
+        62, 
+        64
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        946
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        63, 
+        1079.66, 
+        477.3399999999999
+      ], 
+      "channel": 63
+    }, 
+    {
+      "electronE": 1072.9, 
+      "scale": 0.1, 
+      "Energy": 484.0999999999999, 
+      "ewidth": 5.11, 
+      "raw": [], 
+      "neighbours": [
+        63, 
+        65
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1107
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        64, 
+        1072.9, 
+        484.0999999999999
+      ], 
+      "channel": 64
+    }, 
+    {
+      "electronE": 1067.94, 
+      "scale": 0.1, 
+      "Energy": 489.05999999999995, 
+      "ewidth": 5.101, 
+      "raw": [], 
+      "neighbours": [
+        64, 
+        66
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1090
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        65, 
+        1067.94, 
+        489.05999999999995
+      ], 
+      "channel": 65
+    }, 
+    {
+      "electronE": 1062.78, 
+      "scale": 0.1, 
+      "Energy": 494.22, 
+      "ewidth": 5.087, 
+      "raw": [], 
+      "neighbours": [
+        65, 
+        67
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1091
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        66, 
+        1062.78, 
+        494.22
+      ], 
+      "channel": 66
+    }, 
+    {
+      "electronE": 1057.84, 
+      "scale": 0.1, 
+      "Energy": 499.1600000000001, 
+      "ewidth": 5.075, 
+      "raw": [], 
+      "neighbours": [
+        66, 
+        68
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1106
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        67, 
+        1057.84, 
+        499.1600000000001
+      ], 
+      "channel": 67
+    }, 
+    {
+      "electronE": 1052.71, 
+      "scale": 0.1, 
+      "Energy": 504.28999999999996, 
+      "ewidth": 5.059, 
+      "raw": [], 
+      "neighbours": [
+        67, 
+        69
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1075
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        68, 
+        1052.71, 
+        504.28999999999996
+      ], 
+      "channel": 68
+    }, 
+    {
+      "electronE": 1047.79, 
+      "scale": 0.1, 
+      "Energy": 509.21000000000004, 
+      "ewidth": 5.049, 
+      "raw": [], 
+      "neighbours": [
+        68, 
+        70
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1058
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        69, 
+        1047.79, 
+        509.21000000000004
+      ], 
+      "channel": 69
+    }, 
+    {
+      "electronE": 1042.69, 
+      "scale": 0.1, 
+      "Energy": 514.31, 
+      "ewidth": 5.031, 
+      "raw": [], 
+      "neighbours": [
+        69, 
+        71
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1059
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        70, 
+        1042.69, 
+        514.31
+      ], 
+      "channel": 70
+    }, 
+    {
+      "electronE": 1037.78, 
+      "scale": 0.1, 
+      "Energy": 519.22, 
+      "ewidth": 5.019, 
+      "raw": [], 
+      "neighbours": [
+        70, 
+        72
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1074
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        71, 
+        1037.78, 
+        519.22
+      ], 
+      "channel": 71
+    }, 
+    {
+      "electronE": 1031.35, 
+      "scale": 0.1, 
+      "Energy": 525.6500000000001, 
+      "ewidth": 4.966, 
+      "raw": [], 
+      "neighbours": [
+        71, 
+        73
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        915
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        72, 
+        1031.35, 
+        525.6500000000001
+      ], 
+      "channel": 72
+    }, 
+    {
+      "electronE": 1026.51, 
+      "scale": 0.1, 
+      "Energy": 530.49, 
+      "ewidth": 4.955, 
+      "raw": [], 
+      "neighbours": [
+        72, 
+        74
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        898
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        73, 
+        1026.51, 
+        530.49
+      ], 
+      "channel": 73
+    }, 
+    {
+      "electronE": 1021.5, 
+      "scale": 0.1, 
+      "Energy": 535.5, 
+      "ewidth": 4.938, 
+      "raw": [], 
+      "neighbours": [
+        73, 
+        75
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        899
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        74, 
+        1021.5, 
+        535.5
+      ], 
+      "channel": 74
+    }, 
+    {
+      "electronE": 1016.7, 
+      "scale": 0.1, 
+      "Energy": 540.3, 
+      "ewidth": 4.926, 
+      "raw": [], 
+      "neighbours": [
+        74, 
+        76
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        914
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        75, 
+        1016.7, 
+        540.3
+      ], 
+      "channel": 75
+    }, 
+    {
+      "electronE": 1011.72, 
+      "scale": 0.1, 
+      "Energy": 545.28, 
+      "ewidth": 4.909, 
+      "raw": [], 
+      "neighbours": [
+        75, 
+        77
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        883
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        76, 
+        1011.72, 
+        545.28
+      ], 
+      "channel": 76
+    }, 
+    {
+      "electronE": 1006.93, 
+      "scale": 0.1, 
+      "Energy": 550.07, 
+      "ewidth": 4.897, 
+      "raw": [], 
+      "neighbours": [
+        76, 
+        78
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        866
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        77, 
+        1006.93, 
+        550.07
+      ], 
+      "channel": 77
+    }, 
+    {
+      "electronE": 1001.99, 
+      "scale": 0.1, 
+      "Energy": 555.01, 
+      "ewidth": 4.878, 
+      "raw": [], 
+      "neighbours": [
+        77, 
+        79
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        867
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        78, 
+        1001.99, 
+        555.01
+      ], 
+      "channel": 78
+    }, 
+    {
+      "electronE": 997.23, 
+      "scale": 0.1, 
+      "Energy": 559.77, 
+      "ewidth": 4.865, 
+      "raw": [], 
+      "neighbours": [
+        78, 
+        80
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        882
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        79, 
+        997.23, 
+        559.77
+      ], 
+      "channel": 79
+    }, 
+    {
+      "electronE": 991.1, 
+      "scale": 0.1, 
+      "Energy": 565.9, 
+      "ewidth": 4.823, 
+      "raw": [], 
+      "neighbours": [
+        79, 
+        81
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1043
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        80, 
+        991.1, 
+        565.9
+      ], 
+      "channel": 80
+    }, 
+    {
+      "electronE": 986.4, 
+      "scale": 0.1, 
+      "Energy": 570.6, 
+      "ewidth": 4.809, 
+      "raw": [], 
+      "neighbours": [
+        80, 
+        82
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1026
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        81, 
+        986.4, 
+        570.6
+      ], 
+      "channel": 81
+    }, 
+    {
+      "electronE": 981.54, 
+      "scale": 0.1, 
+      "Energy": 575.46, 
+      "ewidth": 4.791, 
+      "raw": [], 
+      "neighbours": [
+        81, 
+        83
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1027
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        82, 
+        981.54, 
+        575.46
+      ], 
+      "channel": 82
+    }, 
+    {
+      "electronE": 976.86, 
+      "scale": 0.1, 
+      "Energy": 580.14, 
+      "ewidth": 4.777, 
+      "raw": [], 
+      "neighbours": [
+        82, 
+        84
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1042
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        83, 
+        976.86, 
+        580.14
+      ], 
+      "channel": 83
+    }, 
+    {
+      "electronE": 972.04, 
+      "scale": 0.1, 
+      "Energy": 584.96, 
+      "ewidth": 4.76, 
+      "raw": [], 
+      "neighbours": [
+        83, 
+        85
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1011
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        84, 
+        972.04, 
+        584.96
+      ], 
+      "channel": 84
+    }, 
+    {
+      "electronE": 967.39, 
+      "scale": 0.1, 
+      "Energy": 589.61, 
+      "ewidth": 4.746, 
+      "raw": [], 
+      "neighbours": [
+        84, 
+        86
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        994
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        85, 
+        967.39, 
+        589.61
+      ], 
+      "channel": 85
+    }, 
+    {
+      "electronE": 962.6, 
+      "scale": 0.1, 
+      "Energy": 594.4, 
+      "ewidth": 4.728, 
+      "raw": [], 
+      "neighbours": [
+        85, 
+        87
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        995
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        86, 
+        962.6, 
+        594.4
+      ], 
+      "channel": 86
+    }, 
+    {
+      "electronE": 957.98, 
+      "scale": 0.1, 
+      "Energy": 599.02, 
+      "ewidth": 4.713, 
+      "raw": [], 
+      "neighbours": [
+        86, 
+        88
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1010
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        87, 
+        957.98, 
+        599.02
+      ], 
+      "channel": 87
+    }, 
+    {
+      "electronE": 952.13, 
+      "scale": 0.1, 
+      "Energy": 604.87, 
+      "ewidth": 4.678, 
+      "raw": [], 
+      "neighbours": [
+        87, 
+        89
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1171
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        88, 
+        952.13, 
+        604.87
+      ], 
+      "channel": 88
+    }, 
+    {
+      "electronE": 947.56, 
+      "scale": 0.1, 
+      "Energy": 609.44, 
+      "ewidth": 4.664, 
+      "raw": [], 
+      "neighbours": [
+        88, 
+        90
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1154
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        89, 
+        947.56, 
+        609.44
+      ], 
+      "channel": 89
+    }, 
+    {
+      "electronE": 942.85, 
+      "scale": 0.1, 
+      "Energy": 614.15, 
+      "ewidth": 4.647, 
+      "raw": [], 
+      "neighbours": [
+        89, 
+        91
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1155
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        90, 
+        942.85, 
+        614.15
+      ], 
+      "channel": 90
+    }, 
+    {
+      "electronE": 938.31, 
+      "scale": 0.1, 
+      "Energy": 618.69, 
+      "ewidth": 4.631, 
+      "raw": [], 
+      "neighbours": [
+        90, 
+        92
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1170
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        91, 
+        938.31, 
+        618.69
+      ], 
+      "channel": 91
+    }, 
+    {
+      "electronE": 933.63, 
+      "scale": 0.1, 
+      "Energy": 623.37, 
+      "ewidth": 4.614, 
+      "raw": [], 
+      "neighbours": [
+        91, 
+        93
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1139
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        92, 
+        933.63, 
+        623.37
+      ], 
+      "channel": 92
+    }, 
+    {
+      "electronE": 929.12, 
+      "scale": 0.1, 
+      "Energy": 627.88, 
+      "ewidth": 4.597, 
+      "raw": [], 
+      "neighbours": [
+        92, 
+        94
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1122
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        93, 
+        929.12, 
+        627.88
+      ], 
+      "channel": 93
+    }, 
+    {
+      "electronE": 924.48, 
+      "scale": 0.1, 
+      "Energy": 632.52, 
+      "ewidth": 4.58, 
+      "raw": [], 
+      "neighbours": [
+        93, 
+        95
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1123
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        94, 
+        924.48, 
+        632.52
+      ], 
+      "channel": 94
+    }, 
+    {
+      "electronE": 920.0, 
+      "scale": 0.1, 
+      "Energy": 637.0, 
+      "ewidth": 4.564, 
+      "raw": [], 
+      "neighbours": [
+        94, 
+        96
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1138
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        95, 
+        920.0, 
+        637.0
+      ], 
+      "channel": 95
+    }, 
+    {
+      "electronE": 914.43, 
+      "scale": 0.1, 
+      "Energy": 642.57, 
+      "ewidth": 4.538, 
+      "raw": [], 
+      "neighbours": [
+        95, 
+        97
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        853
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        96, 
+        914.43, 
+        642.57
+      ], 
+      "channel": 96
+    }, 
+    {
+      "electronE": 909.99, 
+      "scale": 0.1, 
+      "Energy": 647.01, 
+      "ewidth": 4.522, 
+      "raw": [], 
+      "neighbours": [
+        96, 
+        98
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        836
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        97, 
+        909.99, 
+        647.01
+      ], 
+      "channel": 97
+    }, 
+    {
+      "electronE": 905.42, 
+      "scale": 0.1, 
+      "Energy": 651.58, 
+      "ewidth": 4.505, 
+      "raw": [], 
+      "neighbours": [
+        97, 
+        99
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        837
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        98, 
+        905.42, 
+        651.58
+      ], 
+      "channel": 98
+    }, 
+    {
+      "electronE": 901.01, 
+      "scale": 0.1, 
+      "Energy": 655.99, 
+      "ewidth": 4.488, 
+      "raw": [], 
+      "neighbours": [
+        98, 
+        100
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        852
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        99, 
+        901.01, 
+        655.99
+      ], 
+      "channel": 99
+    }, 
+    {
+      "electronE": 896.48, 
+      "scale": 0.1, 
+      "Energy": 660.52, 
+      "ewidth": 4.471, 
+      "raw": [], 
+      "neighbours": [
+        99, 
+        101
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        821
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        100, 
+        896.48, 
+        660.52
+      ], 
+      "channel": 100
+    }, 
+    {
+      "electronE": 892.1, 
+      "scale": 0.1, 
+      "Energy": 664.9, 
+      "ewidth": 4.453, 
+      "raw": [], 
+      "neighbours": [
+        100, 
+        102
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        804
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        101, 
+        892.1, 
+        664.9
+      ], 
+      "channel": 101
+    }, 
+    {
+      "electronE": 887.6, 
+      "scale": 0.1, 
+      "Energy": 669.4, 
+      "ewidth": 4.435, 
+      "raw": [], 
+      "neighbours": [
+        101, 
+        103
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        805
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        102, 
+        887.6, 
+        669.4
+      ], 
+      "channel": 102
+    }, 
+    {
+      "electronE": 883.26, 
+      "scale": 0.1, 
+      "Energy": 673.74, 
+      "ewidth": 4.418, 
+      "raw": [], 
+      "neighbours": [
+        102, 
+        104
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        820
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        103, 
+        883.26, 
+        673.74
+      ], 
+      "channel": 103
+    }, 
+    {
+      "electronE": 877.95, 
+      "scale": 0.1, 
+      "Energy": 679.05, 
+      "ewidth": 4.402, 
+      "raw": [], 
+      "neighbours": [
+        103, 
+        105
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        981
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        104, 
+        877.95, 
+        679.05
+      ], 
+      "channel": 104
+    }, 
+    {
+      "electronE": 873.63, 
+      "scale": 0.1, 
+      "Energy": 683.37, 
+      "ewidth": 4.385, 
+      "raw": [], 
+      "neighbours": [
+        104, 
+        106
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        964
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        105, 
+        873.63, 
+        683.37
+      ], 
+      "channel": 105
+    }, 
+    {
+      "electronE": 869.2, 
+      "scale": 0.1, 
+      "Energy": 687.8, 
+      "ewidth": 4.367, 
+      "raw": [], 
+      "neighbours": [
+        105, 
+        107
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        965
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        106, 
+        869.2, 
+        687.8
+      ], 
+      "channel": 106
+    }, 
+    {
+      "electronE": 864.92, 
+      "scale": 0.1, 
+      "Energy": 692.08, 
+      "ewidth": 4.349, 
+      "raw": [], 
+      "neighbours": [
+        106, 
+        108
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        980
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        107, 
+        864.92, 
+        692.08
+      ], 
+      "channel": 107
+    }, 
+    {
+      "electronE": 860.53, 
+      "scale": 0.1, 
+      "Energy": 696.47, 
+      "ewidth": 4.332, 
+      "raw": [], 
+      "neighbours": [
+        107, 
+        109
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        949
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        108, 
+        860.53, 
+        696.47
+      ], 
+      "channel": 108
+    }, 
+    {
+      "electronE": 856.28, 
+      "scale": 0.1, 
+      "Energy": 700.72, 
+      "ewidth": 4.314, 
+      "raw": [], 
+      "neighbours": [
+        108, 
+        110
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        932
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        109, 
+        856.28, 
+        700.72
+      ], 
+      "channel": 109
+    }, 
+    {
+      "electronE": 851.93, 
+      "scale": 0.1, 
+      "Energy": 705.07, 
+      "ewidth": 4.296, 
+      "raw": [], 
+      "neighbours": [
+        109, 
+        111
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        933
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        110, 
+        851.93, 
+        705.07
+      ], 
+      "channel": 110
+    }, 
+    {
+      "electronE": 847.72, 
+      "scale": 0.1, 
+      "Energy": 709.28, 
+      "ewidth": 4.276, 
+      "raw": [], 
+      "neighbours": [
+        110, 
+        112
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        948
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        111, 
+        847.72, 
+        709.28
+      ], 
+      "channel": 111
+    }, 
+    {
+      "electronE": 842.64, 
+      "scale": 0.1, 
+      "Energy": 714.36, 
+      "ewidth": 4.268, 
+      "raw": [], 
+      "neighbours": [
+        111, 
+        113
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1109
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        112, 
+        842.64, 
+        714.36
+      ], 
+      "channel": 112
+    }, 
+    {
+      "electronE": 838.45, 
+      "scale": 0.1, 
+      "Energy": 718.55, 
+      "ewidth": 4.251, 
+      "raw": [], 
+      "neighbours": [
+        112, 
+        114
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1092
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        113, 
+        838.45, 
+        718.55
+      ], 
+      "channel": 113
+    }, 
+    {
+      "electronE": 834.16, 
+      "scale": 0.1, 
+      "Energy": 722.84, 
+      "ewidth": 4.234, 
+      "raw": [], 
+      "neighbours": [
+        113, 
+        115
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1093
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        114, 
+        834.16, 
+        722.84
+      ], 
+      "channel": 114
+    }, 
+    {
+      "electronE": 830.0, 
+      "scale": 0.1, 
+      "Energy": 727.0, 
+      "ewidth": 4.215, 
+      "raw": [], 
+      "neighbours": [
+        114, 
+        116
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1108
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        115, 
+        830.0, 
+        727.0
+      ], 
+      "channel": 115
+    }, 
+    {
+      "electronE": 825.75, 
+      "scale": 0.1, 
+      "Energy": 731.25, 
+      "ewidth": 4.197, 
+      "raw": [], 
+      "neighbours": [
+        115, 
+        117
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1077
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        116, 
+        825.75, 
+        731.25
+      ], 
+      "channel": 116
+    }, 
+    {
+      "electronE": 821.63, 
+      "scale": 0.1, 
+      "Energy": 735.37, 
+      "ewidth": 4.178, 
+      "raw": [], 
+      "neighbours": [
+        116, 
+        118
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1060
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        117, 
+        821.63, 
+        735.37
+      ], 
+      "channel": 117
+    }, 
+    {
+      "electronE": 817.41, 
+      "scale": 0.1, 
+      "Energy": 739.59, 
+      "ewidth": 4.161, 
+      "raw": [], 
+      "neighbours": [
+        117, 
+        119
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1061
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        118, 
+        817.41, 
+        739.59
+      ], 
+      "channel": 118
+    }, 
+    {
+      "electronE": 813.33, 
+      "scale": 0.1, 
+      "Energy": 743.67, 
+      "ewidth": 4.141, 
+      "raw": [], 
+      "neighbours": [
+        118, 
+        120
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1076
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        119, 
+        813.33, 
+        743.67
+      ], 
+      "channel": 119
+    }, 
+    {
+      "electronE": 808.49, 
+      "scale": 0.1, 
+      "Energy": 748.51, 
+      "ewidth": 4.14, 
+      "raw": [], 
+      "neighbours": [
+        119, 
+        121
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        917
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        120, 
+        808.49, 
+        748.51
+      ], 
+      "channel": 120
+    }, 
+    {
+      "electronE": 804.41, 
+      "scale": 0.1, 
+      "Energy": 752.59, 
+      "ewidth": 4.12, 
+      "raw": [], 
+      "neighbours": [
+        120, 
+        122
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        900
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        121, 
+        804.41, 
+        752.59
+      ], 
+      "channel": 121
+    }, 
+    {
+      "electronE": 800.26, 
+      "scale": 0.1, 
+      "Energy": 756.74, 
+      "ewidth": 4.104, 
+      "raw": [], 
+      "neighbours": [
+        121, 
+        123
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        901
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        122, 
+        800.26, 
+        756.74
+      ], 
+      "channel": 122
+    }, 
+    {
+      "electronE": 796.22, 
+      "scale": 0.1, 
+      "Energy": 760.78, 
+      "ewidth": 4.084, 
+      "raw": [], 
+      "neighbours": [
+        122, 
+        124
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        916
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        123, 
+        796.22, 
+        760.78
+      ], 
+      "channel": 123
+    }, 
+    {
+      "electronE": 792.1, 
+      "scale": 0.1, 
+      "Energy": 764.9, 
+      "ewidth": 4.067, 
+      "raw": [], 
+      "neighbours": [
+        123, 
+        125
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        885
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        124, 
+        792.1, 
+        764.9
+      ], 
+      "channel": 124
+    }, 
+    {
+      "electronE": 788.11, 
+      "scale": 0.1, 
+      "Energy": 768.89, 
+      "ewidth": 4.048, 
+      "raw": [], 
+      "neighbours": [
+        124, 
+        126
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        868
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        125, 
+        788.11, 
+        768.89
+      ], 
+      "channel": 125
+    }, 
+    {
+      "electronE": 784.02, 
+      "scale": 0.1, 
+      "Energy": 772.98, 
+      "ewidth": 4.03, 
+      "raw": [], 
+      "neighbours": [
+        125, 
+        127
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        869
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        126, 
+        784.02, 
+        772.98
+      ], 
+      "channel": 126
+    }, 
+    {
+      "electronE": 780.06, 
+      "scale": 0.1, 
+      "Energy": 776.94, 
+      "ewidth": 4.011, 
+      "raw": [], 
+      "neighbours": [
+        126, 
+        128
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        884
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        127, 
+        780.06, 
+        776.94
+      ], 
+      "channel": 127
+    }, 
+    {
+      "electronE": 775.43, 
+      "scale": 0.1, 
+      "Energy": 781.57, 
+      "ewidth": 4.016, 
+      "raw": [], 
+      "neighbours": [
+        127, 
+        129
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1045
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        128, 
+        775.43, 
+        781.57
+      ], 
+      "channel": 128
+    }, 
+    {
+      "electronE": 771.48, 
+      "scale": 0.1, 
+      "Energy": 785.52, 
+      "ewidth": 3.997, 
+      "raw": [], 
+      "neighbours": [
+        128, 
+        130
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1028
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        129, 
+        771.48, 
+        785.52
+      ], 
+      "channel": 129
+    }, 
+    {
+      "electronE": 767.45, 
+      "scale": 0.1, 
+      "Energy": 789.55, 
+      "ewidth": 3.98, 
+      "raw": [], 
+      "neighbours": [
+        129, 
+        131
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1029
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        130, 
+        767.45, 
+        789.55
+      ], 
+      "channel": 130
+    }, 
+    {
+      "electronE": 763.54, 
+      "scale": 0.1, 
+      "Energy": 793.46, 
+      "ewidth": 3.959, 
+      "raw": [], 
+      "neighbours": [
+        130, 
+        132
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1044
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        131, 
+        763.54, 
+        793.46
+      ], 
+      "channel": 131
+    }, 
+    {
+      "electronE": 759.55, 
+      "scale": 0.1, 
+      "Energy": 797.45, 
+      "ewidth": 3.942, 
+      "raw": [], 
+      "neighbours": [
+        131, 
+        133
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1013
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        132, 
+        759.55, 
+        797.45
+      ], 
+      "channel": 132
+    }, 
+    {
+      "electronE": 755.67, 
+      "scale": 0.1, 
+      "Energy": 801.33, 
+      "ewidth": 3.922, 
+      "raw": [], 
+      "neighbours": [
+        132, 
+        134
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        996
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        133, 
+        755.67, 
+        801.33
+      ], 
+      "channel": 133
+    }, 
+    {
+      "electronE": 751.71, 
+      "scale": 0.1, 
+      "Energy": 805.29, 
+      "ewidth": 3.905, 
+      "raw": [], 
+      "neighbours": [
+        133, 
+        135
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        997
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        134, 
+        751.71, 
+        805.29
+      ], 
+      "channel": 134
+    }, 
+    {
+      "electronE": 747.88, 
+      "scale": 0.1, 
+      "Energy": 809.12, 
+      "ewidth": 3.884, 
+      "raw": [], 
+      "neighbours": [
+        134, 
+        136
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1012
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        135, 
+        747.88, 
+        809.12
+      ], 
+      "channel": 135
+    }, 
+    {
+      "electronE": 743.46, 
+      "scale": 0.1, 
+      "Energy": 813.54, 
+      "ewidth": 3.896, 
+      "raw": [], 
+      "neighbours": [
+        135, 
+        137
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1173
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        136, 
+        743.46, 
+        813.54
+      ], 
+      "channel": 136
+    }, 
+    {
+      "electronE": 739.62, 
+      "scale": 0.1, 
+      "Energy": 817.38, 
+      "ewidth": 3.876, 
+      "raw": [], 
+      "neighbours": [
+        136, 
+        138
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1156
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        137, 
+        739.62, 
+        817.38
+      ], 
+      "channel": 137
+    }, 
+    {
+      "electronE": 735.71, 
+      "scale": 0.1, 
+      "Energy": 821.29, 
+      "ewidth": 3.86, 
+      "raw": [], 
+      "neighbours": [
+        137, 
+        139
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1157
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        138, 
+        735.71, 
+        821.29
+      ], 
+      "channel": 138
+    }, 
+    {
+      "electronE": 731.92, 
+      "scale": 0.1, 
+      "Energy": 825.08, 
+      "ewidth": 3.838, 
+      "raw": [], 
+      "neighbours": [
+        138, 
+        140
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1172
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        139, 
+        731.92, 
+        825.08
+      ], 
+      "channel": 139
+    }, 
+    {
+      "electronE": 728.05, 
+      "scale": 0.1, 
+      "Energy": 828.95, 
+      "ewidth": 3.822, 
+      "raw": [], 
+      "neighbours": [
+        139, 
+        141
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1141
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        140, 
+        728.05, 
+        828.95
+      ], 
+      "channel": 140
+    }, 
+    {
+      "electronE": 724.29, 
+      "scale": 0.1, 
+      "Energy": 832.71, 
+      "ewidth": 3.801, 
+      "raw": [], 
+      "neighbours": [
+        140, 
+        142
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1124
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        141, 
+        724.29, 
+        832.71
+      ], 
+      "channel": 141
+    }, 
+    {
+      "electronE": 720.45, 
+      "scale": 0.1, 
+      "Energy": 836.55, 
+      "ewidth": 3.785, 
+      "raw": [], 
+      "neighbours": [
+        141, 
+        143
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1125
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        142, 
+        720.45, 
+        836.55
+      ], 
+      "channel": 142
+    }, 
+    {
+      "electronE": 716.74, 
+      "scale": 0.1, 
+      "Energy": 840.26, 
+      "ewidth": 3.763, 
+      "raw": [], 
+      "neighbours": [
+        142, 
+        144
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1140
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        143, 
+        716.74, 
+        840.26
+      ], 
+      "channel": 143
+    }, 
+    {
+      "electronE": 712.5, 
+      "scale": 0.1, 
+      "Energy": 844.5, 
+      "ewidth": 3.782, 
+      "raw": [], 
+      "neighbours": [
+        143, 
+        145
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        855
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        144, 
+        712.5, 
+        844.5
+      ], 
+      "channel": 144
+    }, 
+    {
+      "electronE": 708.78, 
+      "scale": 0.1, 
+      "Energy": 848.22, 
+      "ewidth": 3.76, 
+      "raw": [], 
+      "neighbours": [
+        144, 
+        146
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        838
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        145, 
+        708.78, 
+        848.22
+      ], 
+      "channel": 145
+    }, 
+    {
+      "electronE": 704.99, 
+      "scale": 0.1, 
+      "Energy": 852.01, 
+      "ewidth": 3.744, 
+      "raw": [], 
+      "neighbours": [
+        145, 
+        147
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        839
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        146, 
+        704.99, 
+        852.01
+      ], 
+      "channel": 146
+    }, 
+    {
+      "electronE": 701.31, 
+      "scale": 0.1, 
+      "Energy": 855.69, 
+      "ewidth": 3.723, 
+      "raw": [], 
+      "neighbours": [
+        146, 
+        148
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        854
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        147, 
+        701.31, 
+        855.69
+      ], 
+      "channel": 147
+    }, 
+    {
+      "electronE": 697.56, 
+      "scale": 0.1, 
+      "Energy": 859.44, 
+      "ewidth": 3.706, 
+      "raw": [], 
+      "neighbours": [
+        147, 
+        149
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        823
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        148, 
+        697.56, 
+        859.44
+      ], 
+      "channel": 148
+    }, 
+    {
+      "electronE": 693.91, 
+      "scale": 0.1, 
+      "Energy": 863.09, 
+      "ewidth": 3.686, 
+      "raw": [], 
+      "neighbours": [
+        148, 
+        150
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        806
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        149, 
+        693.91, 
+        863.09
+      ], 
+      "channel": 149
+    }, 
+    {
+      "electronE": 690.19, 
+      "scale": 0.1, 
+      "Energy": 866.81, 
+      "ewidth": 3.668, 
+      "raw": [], 
+      "neighbours": [
+        149, 
+        151
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        807
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        150, 
+        690.19, 
+        866.81
+      ], 
+      "channel": 150
+    }, 
+    {
+      "electronE": 686.6, 
+      "scale": 0.1, 
+      "Energy": 870.4, 
+      "ewidth": 3.647, 
+      "raw": [], 
+      "neighbours": [
+        150, 
+        152
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        822
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        151, 
+        686.6, 
+        870.4
+      ], 
+      "channel": 151
+    }, 
+    {
+      "electronE": 682.54, 
+      "scale": 0.1, 
+      "Energy": 874.46, 
+      "ewidth": 3.672, 
+      "raw": [], 
+      "neighbours": [
+        151, 
+        153
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        983
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        152, 
+        682.54, 
+        874.46
+      ], 
+      "channel": 152
+    }, 
+    {
+      "electronE": 678.92, 
+      "scale": 0.1, 
+      "Energy": 878.08, 
+      "ewidth": 3.649, 
+      "raw": [], 
+      "neighbours": [
+        152, 
+        154
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        966
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        153, 
+        678.92, 
+        878.08
+      ], 
+      "channel": 153
+    }, 
+    {
+      "electronE": 675.25, 
+      "scale": 0.1, 
+      "Energy": 881.75, 
+      "ewidth": 3.634, 
+      "raw": [], 
+      "neighbours": [
+        153, 
+        155
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        967
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        154, 
+        675.25, 
+        881.75
+      ], 
+      "channel": 154
+    }, 
+    {
+      "electronE": 671.67, 
+      "scale": 0.1, 
+      "Energy": 885.33, 
+      "ewidth": 3.612, 
+      "raw": [], 
+      "neighbours": [
+        154, 
+        156
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        982
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        155, 
+        671.67, 
+        885.33
+      ], 
+      "channel": 155
+    }, 
+    {
+      "electronE": 668.03, 
+      "scale": 0.1, 
+      "Energy": 888.97, 
+      "ewidth": 3.595, 
+      "raw": [], 
+      "neighbours": [
+        155, 
+        157
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        951
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        156, 
+        668.03, 
+        888.97
+      ], 
+      "channel": 156
+    }, 
+    {
+      "electronE": 664.5, 
+      "scale": 0.1, 
+      "Energy": 892.5, 
+      "ewidth": 3.573, 
+      "raw": [], 
+      "neighbours": [
+        156, 
+        158
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        934
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        157, 
+        664.5, 
+        892.5
+      ], 
+      "channel": 157
+    }, 
+    {
+      "electronE": 660.89, 
+      "scale": 0.1, 
+      "Energy": 896.11, 
+      "ewidth": 3.558, 
+      "raw": [], 
+      "neighbours": [
+        157, 
+        159
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        935
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        158, 
+        660.89, 
+        896.11
+      ], 
+      "channel": 158
+    }, 
+    {
+      "electronE": 657.4, 
+      "scale": 0.1, 
+      "Energy": 899.6, 
+      "ewidth": 3.535, 
+      "raw": [], 
+      "neighbours": [
+        158, 
+        160
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        950
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        159, 
+        657.4, 
+        899.6
+      ], 
+      "channel": 159
+    }, 
+    {
+      "electronE": 653.51, 
+      "scale": 0.1, 
+      "Energy": 903.49, 
+      "ewidth": 3.565, 
+      "raw": [], 
+      "neighbours": [
+        159, 
+        161
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1111
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        160, 
+        653.51, 
+        903.49
+      ], 
+      "channel": 160
+    }, 
+    {
+      "electronE": 649.99, 
+      "scale": 0.1, 
+      "Energy": 907.01, 
+      "ewidth": 3.543, 
+      "raw": [], 
+      "neighbours": [
+        160, 
+        162
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1094
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        161, 
+        649.99, 
+        907.01
+      ], 
+      "channel": 161
+    }, 
+    {
+      "electronE": 646.43, 
+      "scale": 0.1, 
+      "Energy": 910.57, 
+      "ewidth": 3.527, 
+      "raw": [], 
+      "neighbours": [
+        161, 
+        163
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1095
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        162, 
+        646.43, 
+        910.57
+      ], 
+      "channel": 162
+    }, 
+    {
+      "electronE": 642.96, 
+      "scale": 0.1, 
+      "Energy": 914.04, 
+      "ewidth": 3.505, 
+      "raw": [], 
+      "neighbours": [
+        162, 
+        164
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1110
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        163, 
+        642.96, 
+        914.04
+      ], 
+      "channel": 163
+    }, 
+    {
+      "electronE": 639.43, 
+      "scale": 0.1, 
+      "Energy": 917.57, 
+      "ewidth": 3.489, 
+      "raw": [], 
+      "neighbours": [
+        163, 
+        165
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1079
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        164, 
+        639.43, 
+        917.57
+      ], 
+      "channel": 164
+    }, 
+    {
+      "electronE": 636.0, 
+      "scale": 0.1, 
+      "Energy": 921.0, 
+      "ewidth": 3.467, 
+      "raw": [], 
+      "neighbours": [
+        164, 
+        166
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1062
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        165, 
+        636.0, 
+        921.0
+      ], 
+      "channel": 165
+    }, 
+    {
+      "electronE": 632.5, 
+      "scale": 0.1, 
+      "Energy": 924.5, 
+      "ewidth": 3.451, 
+      "raw": [], 
+      "neighbours": [
+        165, 
+        167
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1063
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        166, 
+        632.5, 
+        924.5
+      ], 
+      "channel": 166
+    }, 
+    {
+      "electronE": 629.12, 
+      "scale": 0.1, 
+      "Energy": 927.88, 
+      "ewidth": 3.428, 
+      "raw": [], 
+      "neighbours": [
+        166, 
+        168
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1078
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        167, 
+        629.12, 
+        927.88
+      ], 
+      "channel": 167
+    }, 
+    {
+      "electronE": 625.38, 
+      "scale": 0.1, 
+      "Energy": 931.62, 
+      "ewidth": 3.462, 
+      "raw": [], 
+      "neighbours": [
+        167, 
+        169
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        919
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        168, 
+        625.38, 
+        931.62
+      ], 
+      "channel": 168
+    }, 
+    {
+      "electronE": 621.96, 
+      "scale": 0.1, 
+      "Energy": 935.04, 
+      "ewidth": 3.438, 
+      "raw": [], 
+      "neighbours": [
+        168, 
+        170
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        902
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        169, 
+        621.96, 
+        935.04
+      ], 
+      "channel": 169
+    }, 
+    {
+      "electronE": 618.51, 
+      "scale": 0.1, 
+      "Energy": 938.49, 
+      "ewidth": 3.424, 
+      "raw": [], 
+      "neighbours": [
+        169, 
+        171
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        903
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        170, 
+        618.51, 
+        938.49
+      ], 
+      "channel": 170
+    }, 
+    {
+      "electronE": 615.13, 
+      "scale": 0.1, 
+      "Energy": 941.87, 
+      "ewidth": 3.401, 
+      "raw": [], 
+      "neighbours": [
+        170, 
+        172
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        918
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        171, 
+        615.13, 
+        941.87
+      ], 
+      "channel": 171
+    }, 
+    {
+      "electronE": 611.71, 
+      "scale": 0.1, 
+      "Energy": 945.29, 
+      "ewidth": 3.387, 
+      "raw": [], 
+      "neighbours": [
+        171, 
+        173
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        887
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        172, 
+        611.71, 
+        945.29
+      ], 
+      "channel": 172
+    }, 
+    {
+      "electronE": 608.38, 
+      "scale": 0.1, 
+      "Energy": 948.62, 
+      "ewidth": 3.363, 
+      "raw": [], 
+      "neighbours": [
+        172, 
+        174
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        870
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        173, 
+        608.38, 
+        948.62
+      ], 
+      "channel": 173
+    }, 
+    {
+      "electronE": 604.99, 
+      "scale": 0.1, 
+      "Energy": 952.01, 
+      "ewidth": 3.348, 
+      "raw": [], 
+      "neighbours": [
+        173, 
+        175
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        871
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        174, 
+        604.99, 
+        952.01
+      ], 
+      "channel": 174
+    }, 
+    {
+      "electronE": 601.71, 
+      "scale": 0.1, 
+      "Energy": 955.29, 
+      "ewidth": 3.326, 
+      "raw": [], 
+      "neighbours": [
+        174, 
+        176
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        886
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        175, 
+        601.71, 
+        955.29
+      ], 
+      "channel": 175
+    }, 
+    {
+      "electronE": 598.12, 
+      "scale": 0.1, 
+      "Energy": 958.88, 
+      "ewidth": 3.363, 
+      "raw": [], 
+      "neighbours": [
+        175, 
+        177
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1047
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        176, 
+        598.12, 
+        958.88
+      ], 
+      "channel": 176
+    }, 
+    {
+      "electronE": 594.79, 
+      "scale": 0.1, 
+      "Energy": 962.21, 
+      "ewidth": 3.34, 
+      "raw": [], 
+      "neighbours": [
+        176, 
+        178
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1030
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        177, 
+        594.79, 
+        962.21
+      ], 
+      "channel": 177
+    }, 
+    {
+      "electronE": 591.44, 
+      "scale": 0.1, 
+      "Energy": 965.56, 
+      "ewidth": 3.326, 
+      "raw": [], 
+      "neighbours": [
+        177, 
+        179
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1031
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        178, 
+        591.44, 
+        965.56
+      ], 
+      "channel": 178
+    }, 
+    {
+      "electronE": 588.17, 
+      "scale": 0.1, 
+      "Energy": 968.83, 
+      "ewidth": 3.302, 
+      "raw": [], 
+      "neighbours": [
+        178, 
+        180
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1046
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        179, 
+        588.17, 
+        968.83
+      ], 
+      "channel": 179
+    }, 
+    {
+      "electronE": 584.84, 
+      "scale": 0.1, 
+      "Energy": 972.16, 
+      "ewidth": 3.287, 
+      "raw": [], 
+      "neighbours": [
+        179, 
+        181
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1015
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        180, 
+        584.84, 
+        972.16
+      ], 
+      "channel": 180
+    }, 
+    {
+      "electronE": 581.61, 
+      "scale": 0.1, 
+      "Energy": 975.39, 
+      "ewidth": 3.264, 
+      "raw": [], 
+      "neighbours": [
+        180, 
+        182
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        998
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        181, 
+        581.61, 
+        975.39
+      ], 
+      "channel": 181
+    }, 
+    {
+      "electronE": 578.32, 
+      "scale": 0.1, 
+      "Energy": 978.68, 
+      "ewidth": 3.249, 
+      "raw": [], 
+      "neighbours": [
+        181, 
+        183
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        999
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        182, 
+        578.32, 
+        978.68
+      ], 
+      "channel": 182
+    }, 
+    {
+      "electronE": 575.13, 
+      "scale": 0.1, 
+      "Energy": 981.87, 
+      "ewidth": 3.227, 
+      "raw": [], 
+      "neighbours": [
+        182, 
+        184
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1014
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        183, 
+        575.13, 
+        981.87
+      ], 
+      "channel": 183
+    }, 
+    {
+      "electronE": 571.68, 
+      "scale": 0.1, 
+      "Energy": 985.32, 
+      "ewidth": 3.267, 
+      "raw": [], 
+      "neighbours": [
+        183, 
+        185
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1175
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        184, 
+        571.68, 
+        985.32
+      ], 
+      "channel": 184
+    }, 
+    {
+      "electronE": 568.45, 
+      "scale": 0.1, 
+      "Energy": 988.55, 
+      "ewidth": 3.243, 
+      "raw": [], 
+      "neighbours": [
+        184, 
+        186
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1158
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        185, 
+        568.45, 
+        988.55
+      ], 
+      "channel": 185
+    }, 
+    {
+      "electronE": 565.2, 
+      "scale": 0.1, 
+      "Energy": 991.8, 
+      "ewidth": 3.23, 
+      "raw": [], 
+      "neighbours": [
+        185, 
+        187
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1159
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        186, 
+        565.2, 
+        991.8
+      ], 
+      "channel": 186
+    }, 
+    {
+      "electronE": 562.02, 
+      "scale": 0.1, 
+      "Energy": 994.98, 
+      "ewidth": 3.206, 
+      "raw": [], 
+      "neighbours": [
+        186, 
+        188
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1174
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        187, 
+        562.02, 
+        994.98
+      ], 
+      "channel": 187
+    }, 
+    {
+      "electronE": 558.79, 
+      "scale": 0.1, 
+      "Energy": 998.21, 
+      "ewidth": 3.191, 
+      "raw": [], 
+      "neighbours": [
+        187, 
+        189
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1143
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        188, 
+        558.79, 
+        998.21
+      ], 
+      "channel": 188
+    }, 
+    {
+      "electronE": 555.65, 
+      "scale": 0.1, 
+      "Energy": 1001.35, 
+      "ewidth": 3.168, 
+      "raw": [], 
+      "neighbours": [
+        188, 
+        190
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1126
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        189, 
+        555.65, 
+        1001.35
+      ], 
+      "channel": 189
+    }, 
+    {
+      "electronE": 552.45, 
+      "scale": 0.1, 
+      "Energy": 1004.55, 
+      "ewidth": 3.154, 
+      "raw": [], 
+      "neighbours": [
+        189, 
+        191
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1127
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        190, 
+        552.45, 
+        1004.55
+      ], 
+      "channel": 190
+    }, 
+    {
+      "electronE": 549.37, 
+      "scale": 0.1, 
+      "Energy": 1007.63, 
+      "ewidth": 3.13, 
+      "raw": [], 
+      "neighbours": [
+        190, 
+        192
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1142
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        191, 
+        549.37, 
+        1007.63
+      ], 
+      "channel": 191
+    }, 
+    {
+      "electronE": 546.04, 
+      "scale": 0.1, 
+      "Energy": 1010.96, 
+      "ewidth": 3.176, 
+      "raw": [], 
+      "neighbours": [
+        191, 
+        193
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        857
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        192, 
+        546.04, 
+        1010.96
+      ], 
+      "channel": 192
+    }, 
+    {
+      "electronE": 542.91, 
+      "scale": 0.1, 
+      "Energy": 1014.09, 
+      "ewidth": 3.151, 
+      "raw": [], 
+      "neighbours": [
+        192, 
+        194
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        840
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        193, 
+        542.91, 
+        1014.09
+      ], 
+      "channel": 193
+    }, 
+    {
+      "electronE": 539.75, 
+      "scale": 0.1, 
+      "Energy": 1017.25, 
+      "ewidth": 3.137, 
+      "raw": [], 
+      "neighbours": [
+        193, 
+        195
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        841
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        194, 
+        539.75, 
+        1017.25
+      ], 
+      "channel": 194
+    }, 
+    {
+      "electronE": 536.65, 
+      "scale": 0.1, 
+      "Energy": 1020.35, 
+      "ewidth": 3.113, 
+      "raw": [], 
+      "neighbours": [
+        194, 
+        196
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        856
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        195, 
+        536.65, 
+        1020.35
+      ], 
+      "channel": 195
+    }, 
+    {
+      "electronE": 533.52, 
+      "scale": 0.1, 
+      "Energy": 1023.48, 
+      "ewidth": 3.099, 
+      "raw": [], 
+      "neighbours": [
+        195, 
+        197
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        825
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        196, 
+        533.52, 
+        1023.48
+      ], 
+      "channel": 196
+    }, 
+    {
+      "electronE": 530.48, 
+      "scale": 0.1, 
+      "Energy": 1026.52, 
+      "ewidth": 3.075, 
+      "raw": [], 
+      "neighbours": [
+        196, 
+        198
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        808
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        197, 
+        530.48, 
+        1026.52
+      ], 
+      "channel": 197
+    }, 
+    {
+      "electronE": 527.37, 
+      "scale": 0.1, 
+      "Energy": 1029.63, 
+      "ewidth": 3.062, 
+      "raw": [], 
+      "neighbours": [
+        197, 
+        199
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        809
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        198, 
+        527.37, 
+        1029.63
+      ], 
+      "channel": 198
+    }, 
+    {
+      "electronE": 524.38, 
+      "scale": 0.1, 
+      "Energy": 1032.62, 
+      "ewidth": 3.038, 
+      "raw": [], 
+      "neighbours": [
+        198, 
+        200
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        824
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        199, 
+        524.38, 
+        1032.62
+      ], 
+      "channel": 199
+    }, 
+    {
+      "electronE": 521.18, 
+      "scale": 0.1, 
+      "Energy": 1035.8200000000002, 
+      "ewidth": 3.085, 
+      "raw": [], 
+      "neighbours": [
+        199, 
+        201
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        985
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        200, 
+        521.18, 
+        1035.8200000000002
+      ], 
+      "channel": 200
+    }, 
+    {
+      "electronE": 518.13, 
+      "scale": 0.1, 
+      "Energy": 1038.87, 
+      "ewidth": 3.061, 
+      "raw": [], 
+      "neighbours": [
+        200, 
+        202
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        968
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        201, 
+        518.13, 
+        1038.87
+      ], 
+      "channel": 201
+    }, 
+    {
+      "electronE": 515.06, 
+      "scale": 0.1, 
+      "Energy": 1041.94, 
+      "ewidth": 3.047, 
+      "raw": [], 
+      "neighbours": [
+        201, 
+        203
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        969
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        202, 
+        515.06, 
+        1041.94
+      ], 
+      "channel": 202
+    }, 
+    {
+      "electronE": 512.06, 
+      "scale": 0.1, 
+      "Energy": 1044.94, 
+      "ewidth": 3.023, 
+      "raw": [], 
+      "neighbours": [
+        202, 
+        204
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        984
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        203, 
+        512.06, 
+        1044.94
+      ], 
+      "channel": 203
+    }, 
+    {
+      "electronE": 509.01, 
+      "scale": 0.1, 
+      "Energy": 1047.99, 
+      "ewidth": 3.01, 
+      "raw": [], 
+      "neighbours": [
+        203, 
+        205
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        953
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        204, 
+        509.01, 
+        1047.99
+      ], 
+      "channel": 204
+    }, 
+    {
+      "electronE": 506.06, 
+      "scale": 0.1, 
+      "Energy": 1050.94, 
+      "ewidth": 2.985, 
+      "raw": [], 
+      "neighbours": [
+        204, 
+        206
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        936
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        205, 
+        506.06, 
+        1050.94
+      ], 
+      "channel": 205
+    }, 
+    {
+      "electronE": 503.04, 
+      "scale": 0.1, 
+      "Energy": 1053.96, 
+      "ewidth": 2.972, 
+      "raw": [], 
+      "neighbours": [
+        205, 
+        207
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        937
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        206, 
+        503.04, 
+        1053.96
+      ], 
+      "channel": 206
+    }, 
+    {
+      "electronE": 500.14, 
+      "scale": 0.1, 
+      "Energy": 1056.8600000000001, 
+      "ewidth": 2.947, 
+      "raw": [], 
+      "neighbours": [
+        206, 
+        208
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        952
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        207, 
+        500.14, 
+        1056.8600000000001
+      ], 
+      "channel": 207
+    }, 
+    {
+      "electronE": 497.05, 
+      "scale": 0.1, 
+      "Energy": 1059.95, 
+      "ewidth": 2.999, 
+      "raw": [], 
+      "neighbours": [
+        207, 
+        209
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1113
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        208, 
+        497.05, 
+        1059.95
+      ], 
+      "channel": 208
+    }, 
+    {
+      "electronE": 494.09, 
+      "scale": 0.1, 
+      "Energy": 1062.91, 
+      "ewidth": 2.974, 
+      "raw": [], 
+      "neighbours": [
+        208, 
+        210
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1096
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        209, 
+        494.09, 
+        1062.91
+      ], 
+      "channel": 209
+    }, 
+    {
+      "electronE": 491.11, 
+      "scale": 0.1, 
+      "Energy": 1065.8899999999999, 
+      "ewidth": 2.961, 
+      "raw": [], 
+      "neighbours": [
+        209, 
+        211
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1097
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        210, 
+        491.11, 
+        1065.8899999999999
+      ], 
+      "channel": 210
+    }, 
+    {
+      "electronE": 488.19, 
+      "scale": 0.1, 
+      "Energy": 1068.81, 
+      "ewidth": 2.936, 
+      "raw": [], 
+      "neighbours": [
+        210, 
+        212
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1112
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        211, 
+        488.19, 
+        1068.81
+      ], 
+      "channel": 211
+    }, 
+    {
+      "electronE": 485.24, 
+      "scale": 0.1, 
+      "Energy": 1071.76, 
+      "ewidth": 2.923, 
+      "raw": [], 
+      "neighbours": [
+        211, 
+        213
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1081
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        212, 
+        485.24, 
+        1071.76
+      ], 
+      "channel": 212
+    }, 
+    {
+      "electronE": 482.37, 
+      "scale": 0.1, 
+      "Energy": 1074.63, 
+      "ewidth": 2.898, 
+      "raw": [], 
+      "neighbours": [
+        212, 
+        214
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1064
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        213, 
+        482.37, 
+        1074.63
+      ], 
+      "channel": 213
+    }, 
+    {
+      "electronE": 479.44, 
+      "scale": 0.1, 
+      "Energy": 1077.56, 
+      "ewidth": 2.885, 
+      "raw": [], 
+      "neighbours": [
+        213, 
+        215
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1065
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        214, 
+        479.44, 
+        1077.56
+      ], 
+      "channel": 214
+    }, 
+    {
+      "electronE": 476.62, 
+      "scale": 0.1, 
+      "Energy": 1080.38, 
+      "ewidth": 2.859, 
+      "raw": [], 
+      "neighbours": [
+        214, 
+        216
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1080
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        215, 
+        476.62, 
+        1080.38
+      ], 
+      "channel": 215
+    }, 
+    {
+      "electronE": 473.65, 
+      "scale": 0.1, 
+      "Energy": 1083.35, 
+      "ewidth": 2.913, 
+      "raw": [], 
+      "neighbours": [
+        215, 
+        217
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        921
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        216, 
+        473.65, 
+        1083.35
+      ], 
+      "channel": 216
+    }, 
+    {
+      "electronE": 470.77, 
+      "scale": 0.1, 
+      "Energy": 1086.23, 
+      "ewidth": 2.888, 
+      "raw": [], 
+      "neighbours": [
+        216, 
+        218
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        904
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        217, 
+        470.77, 
+        1086.23
+      ], 
+      "channel": 217
+    }, 
+    {
+      "electronE": 467.87, 
+      "scale": 0.1, 
+      "Energy": 1089.13, 
+      "ewidth": 2.875, 
+      "raw": [], 
+      "neighbours": [
+        217, 
+        219
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        905
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        218, 
+        467.87, 
+        1089.13
+      ], 
+      "channel": 218
+    }, 
+    {
+      "electronE": 465.04, 
+      "scale": 0.1, 
+      "Energy": 1091.96, 
+      "ewidth": 2.85, 
+      "raw": [], 
+      "neighbours": [
+        218, 
+        220
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        920
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        219, 
+        465.04, 
+        1091.96
+      ], 
+      "channel": 219
+    }, 
+    {
+      "electronE": 462.17, 
+      "scale": 0.1, 
+      "Energy": 1094.83, 
+      "ewidth": 2.838, 
+      "raw": [], 
+      "neighbours": [
+        219, 
+        221
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        889
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        220, 
+        462.17, 
+        1094.83
+      ], 
+      "channel": 220
+    }, 
+    {
+      "electronE": 459.39, 
+      "scale": 0.1, 
+      "Energy": 1097.6100000000001, 
+      "ewidth": 2.812, 
+      "raw": [], 
+      "neighbours": [
+        220, 
+        222
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        872
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        221, 
+        459.39, 
+        1097.6100000000001
+      ], 
+      "channel": 221
+    }, 
+    {
+      "electronE": 456.55, 
+      "scale": 0.1, 
+      "Energy": 1100.45, 
+      "ewidth": 2.799, 
+      "raw": [], 
+      "neighbours": [
+        221, 
+        223
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        873
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        222, 
+        456.55, 
+        1100.45
+      ], 
+      "channel": 222
+    }, 
+    {
+      "electronE": 453.82, 
+      "scale": 0.1, 
+      "Energy": 1103.18, 
+      "ewidth": 2.775, 
+      "raw": [], 
+      "neighbours": [
+        222, 
+        224
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        888
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        223, 
+        453.82, 
+        1103.18
+      ], 
+      "channel": 223
+    }, 
+    {
+      "electronE": 450.95, 
+      "scale": 0.1, 
+      "Energy": 1106.05, 
+      "ewidth": 2.831, 
+      "raw": [], 
+      "neighbours": [
+        223, 
+        225
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1049
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        224, 
+        450.95, 
+        1106.05
+      ], 
+      "channel": 224
+    }, 
+    {
+      "electronE": 448.15, 
+      "scale": 0.1, 
+      "Energy": 1108.85, 
+      "ewidth": 2.806, 
+      "raw": [], 
+      "neighbours": [
+        224, 
+        226
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1032
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        225, 
+        448.15, 
+        1108.85
+      ], 
+      "channel": 225
+    }, 
+    {
+      "electronE": 445.34, 
+      "scale": 0.1, 
+      "Energy": 1111.66, 
+      "ewidth": 2.794, 
+      "raw": [], 
+      "neighbours": [
+        225, 
+        227
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1033
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        226, 
+        445.34, 
+        1111.66
+      ], 
+      "channel": 226
+    }, 
+    {
+      "electronE": 442.59, 
+      "scale": 0.1, 
+      "Energy": 1114.41, 
+      "ewidth": 2.768, 
+      "raw": [], 
+      "neighbours": [
+        226, 
+        228
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1048
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        227, 
+        442.59, 
+        1114.41
+      ], 
+      "channel": 227
+    }, 
+    {
+      "electronE": 439.8, 
+      "scale": 0.1, 
+      "Energy": 1117.2, 
+      "ewidth": 2.755, 
+      "raw": [], 
+      "neighbours": [
+        227, 
+        229
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1017
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        228, 
+        439.8, 
+        1117.2
+      ], 
+      "channel": 228
+    }, 
+    {
+      "electronE": 437.1, 
+      "scale": 0.1, 
+      "Energy": 1119.9, 
+      "ewidth": 2.729, 
+      "raw": [], 
+      "neighbours": [
+        228, 
+        230
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1000
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        229, 
+        437.1, 
+        1119.9
+      ], 
+      "channel": 229
+    }, 
+    {
+      "electronE": 434.34, 
+      "scale": 0.1, 
+      "Energy": 1122.66, 
+      "ewidth": 2.717, 
+      "raw": [], 
+      "neighbours": [
+        229, 
+        231
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1001
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        230, 
+        434.34, 
+        1122.66
+      ], 
+      "channel": 230
+    }, 
+    {
+      "electronE": 431.69, 
+      "scale": 0.1, 
+      "Energy": 1125.31, 
+      "ewidth": 2.693, 
+      "raw": [], 
+      "neighbours": [
+        230, 
+        232
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1016
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        231, 
+        431.69, 
+        1125.31
+      ], 
+      "channel": 231
+    }, 
+    {
+      "electronE": 428.92, 
+      "scale": 0.1, 
+      "Energy": 1128.08, 
+      "ewidth": 2.75, 
+      "raw": [], 
+      "neighbours": [
+        231, 
+        233
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1177
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        232, 
+        428.92, 
+        1128.08
+      ], 
+      "channel": 232
+    }, 
+    {
+      "electronE": 426.21, 
+      "scale": 0.1, 
+      "Energy": 1130.79, 
+      "ewidth": 2.723, 
+      "raw": [], 
+      "neighbours": [
+        232, 
+        234
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1160
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        233, 
+        426.21, 
+        1130.79
+      ], 
+      "channel": 233
+    }, 
+    {
+      "electronE": 423.47, 
+      "scale": 0.1, 
+      "Energy": 1133.53, 
+      "ewidth": 2.712, 
+      "raw": [], 
+      "neighbours": [
+        233, 
+        235
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1161
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        234, 
+        423.47, 
+        1133.53
+      ], 
+      "channel": 234
+    }, 
+    {
+      "electronE": 420.81, 
+      "scale": 0.1, 
+      "Energy": 1136.19, 
+      "ewidth": 2.687, 
+      "raw": [], 
+      "neighbours": [
+        234, 
+        236
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1176
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        235, 
+        420.81, 
+        1136.19
+      ], 
+      "channel": 235
+    }, 
+    {
+      "electronE": 418.1, 
+      "scale": 0.1, 
+      "Energy": 1138.9, 
+      "ewidth": 2.674, 
+      "raw": [], 
+      "neighbours": [
+        235, 
+        237
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1145
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        236, 
+        418.1, 
+        1138.9
+      ], 
+      "channel": 236
+    }, 
+    {
+      "electronE": 415.48, 
+      "scale": 0.1, 
+      "Energy": 1141.52, 
+      "ewidth": 2.648, 
+      "raw": [], 
+      "neighbours": [
+        236, 
+        238
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1128
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        237, 
+        415.48, 
+        1141.52
+      ], 
+      "channel": 237
+    }, 
+    {
+      "electronE": 412.8, 
+      "scale": 0.1, 
+      "Energy": 1144.2, 
+      "ewidth": 2.637, 
+      "raw": [], 
+      "neighbours": [
+        237, 
+        239
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1129
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        238, 
+        412.8, 
+        1144.2
+      ], 
+      "channel": 238
+    }, 
+    {
+      "electronE": 410.24, 
+      "scale": 0.1, 
+      "Energy": 1146.76, 
+      "ewidth": 2.61, 
+      "raw": [], 
+      "neighbours": [
+        238, 
+        240
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1144
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        239, 
+        410.24, 
+        1146.76
+      ], 
+      "channel": 239
+    }, 
+    {
+      "electronE": 407.57, 
+      "scale": 0.1, 
+      "Energy": 1149.43, 
+      "ewidth": 2.671, 
+      "raw": [], 
+      "neighbours": [
+        239, 
+        241
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        859
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        240, 
+        407.57, 
+        1149.43
+      ], 
+      "channel": 240
+    }, 
+    {
+      "electronE": 404.93, 
+      "scale": 0.1, 
+      "Energy": 1152.07, 
+      "ewidth": 2.645, 
+      "raw": [], 
+      "neighbours": [
+        240, 
+        242
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        842
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        241, 
+        404.93, 
+        1152.07
+      ], 
+      "channel": 241
+    }, 
+    {
+      "electronE": 402.28, 
+      "scale": 0.1, 
+      "Energy": 1154.72, 
+      "ewidth": 2.632, 
+      "raw": [], 
+      "neighbours": [
+        241, 
+        243
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        843
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        242, 
+        402.28, 
+        1154.72
+      ], 
+      "channel": 242
+    }, 
+    {
+      "electronE": 399.69, 
+      "scale": 0.1, 
+      "Energy": 1157.31, 
+      "ewidth": 2.605, 
+      "raw": [], 
+      "neighbours": [
+        242, 
+        244
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        858
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        243, 
+        399.69, 
+        1157.31
+      ], 
+      "channel": 243
+    }, 
+    {
+      "electronE": 397.06, 
+      "scale": 0.1, 
+      "Energy": 1159.94, 
+      "ewidth": 2.595, 
+      "raw": [], 
+      "neighbours": [
+        243, 
+        245
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        827
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        244, 
+        397.06, 
+        1159.94
+      ], 
+      "channel": 244
+    }, 
+    {
+      "electronE": 394.53, 
+      "scale": 0.1, 
+      "Energy": 1162.47, 
+      "ewidth": 2.569, 
+      "raw": [], 
+      "neighbours": [
+        244, 
+        246
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        810
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        245, 
+        394.53, 
+        1162.47
+      ], 
+      "channel": 245
+    }, 
+    {
+      "electronE": 391.92, 
+      "scale": 0.1, 
+      "Energy": 1165.08, 
+      "ewidth": 2.557, 
+      "raw": [], 
+      "neighbours": [
+        245, 
+        247
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        811
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        246, 
+        391.92, 
+        1165.08
+      ], 
+      "channel": 246
+    }, 
+    {
+      "electronE": 389.44, 
+      "scale": 0.1, 
+      "Energy": 1167.56, 
+      "ewidth": 2.531, 
+      "raw": [], 
+      "neighbours": [
+        246, 
+        248
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        826
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        247, 
+        389.44, 
+        1167.56
+      ], 
+      "channel": 247
+    }, 
+    {
+      "electronE": 386.87, 
+      "scale": 0.1, 
+      "Energy": 1170.13, 
+      "ewidth": 2.591, 
+      "raw": [], 
+      "neighbours": [
+        247, 
+        249
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        987
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        248, 
+        386.87, 
+        1170.13
+      ], 
+      "channel": 248
+    }, 
+    {
+      "electronE": 384.3, 
+      "scale": 0.1, 
+      "Energy": 1172.7, 
+      "ewidth": 2.566, 
+      "raw": [], 
+      "neighbours": [
+        248, 
+        250
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        970
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        249, 
+        384.3, 
+        1172.7
+      ], 
+      "channel": 249
+    }, 
+    {
+      "electronE": 381.73, 
+      "scale": 0.1, 
+      "Energy": 1175.27, 
+      "ewidth": 2.554, 
+      "raw": [], 
+      "neighbours": [
+        249, 
+        251
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        971
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        250, 
+        381.73, 
+        1175.27
+      ], 
+      "channel": 250
+    }, 
+    {
+      "electronE": 379.22, 
+      "scale": 0.1, 
+      "Energy": 1177.78, 
+      "ewidth": 2.527, 
+      "raw": [], 
+      "neighbours": [
+        250, 
+        252
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        986
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        251, 
+        379.22, 
+        1177.78
+      ], 
+      "channel": 251
+    }, 
+    {
+      "electronE": 376.67, 
+      "scale": 0.1, 
+      "Energy": 1180.33, 
+      "ewidth": 2.517, 
+      "raw": [], 
+      "neighbours": [
+        251, 
+        253
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        955
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        252, 
+        376.67, 
+        1180.33
+      ], 
+      "channel": 252
+    }, 
+    {
+      "electronE": 374.21, 
+      "scale": 0.1, 
+      "Energy": 1182.79, 
+      "ewidth": 2.49, 
+      "raw": [], 
+      "neighbours": [
+        252, 
+        254
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        938
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        253, 
+        374.21, 
+        1182.79
+      ], 
+      "channel": 253
+    }, 
+    {
+      "electronE": 371.68, 
+      "scale": 0.1, 
+      "Energy": 1185.32, 
+      "ewidth": 2.479, 
+      "raw": [], 
+      "neighbours": [
+        253, 
+        255
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        939
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        254, 
+        371.68, 
+        1185.32
+      ], 
+      "channel": 254
+    }, 
+    {
+      "electronE": 369.28, 
+      "scale": 0.1, 
+      "Energy": 1187.72, 
+      "ewidth": 2.453, 
+      "raw": [], 
+      "neighbours": [
+        254, 
+        256
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        954
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        255, 
+        369.28, 
+        1187.72
+      ], 
+      "channel": 255
+    }, 
+    {
+      "electronE": 366.8, 
+      "scale": 0.1, 
+      "Energy": 1190.2, 
+      "ewidth": 2.516, 
+      "raw": [], 
+      "neighbours": [
+        255, 
+        257
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1115
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        256, 
+        366.8, 
+        1190.2
+      ], 
+      "channel": 256
+    }, 
+    {
+      "electronE": 364.32, 
+      "scale": 0.1, 
+      "Energy": 1192.68, 
+      "ewidth": 2.489, 
+      "raw": [], 
+      "neighbours": [
+        256, 
+        258
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1098
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        257, 
+        364.32, 
+        1192.68
+      ], 
+      "channel": 257
+    }, 
+    {
+      "electronE": 361.82, 
+      "scale": 0.1, 
+      "Energy": 1195.18, 
+      "ewidth": 2.476, 
+      "raw": [], 
+      "neighbours": [
+        257, 
+        259
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1099
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        258, 
+        361.82, 
+        1195.18
+      ], 
+      "channel": 258
+    }, 
+    {
+      "electronE": 359.39, 
+      "scale": 0.1, 
+      "Energy": 1197.6100000000001, 
+      "ewidth": 2.449, 
+      "raw": [], 
+      "neighbours": [
+        258, 
+        260
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1114
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        259, 
+        359.39, 
+        1197.6100000000001
+      ], 
+      "channel": 259
+    }, 
+    {
+      "electronE": 356.91, 
+      "scale": 0.1, 
+      "Energy": 1200.09, 
+      "ewidth": 2.438, 
+      "raw": [], 
+      "neighbours": [
+        259, 
+        261
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1083
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        260, 
+        356.91, 
+        1200.09
+      ], 
+      "channel": 260
+    }, 
+    {
+      "electronE": 354.54, 
+      "scale": 0.1, 
+      "Energy": 1202.46, 
+      "ewidth": 2.415, 
+      "raw": [], 
+      "neighbours": [
+        260, 
+        262
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1066
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        261, 
+        354.54, 
+        1202.46
+      ], 
+      "channel": 261
+    }, 
+    {
+      "electronE": 352.08, 
+      "scale": 0.1, 
+      "Energy": 1204.92, 
+      "ewidth": 2.402, 
+      "raw": [], 
+      "neighbours": [
+        261, 
+        263
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1067
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        262, 
+        352.08, 
+        1204.92
+      ], 
+      "channel": 262
+    }, 
+    {
+      "electronE": 349.76, 
+      "scale": 0.1, 
+      "Energy": 1207.24, 
+      "ewidth": 2.376, 
+      "raw": [], 
+      "neighbours": [
+        262, 
+        264
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1082
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        263, 
+        349.76, 
+        1207.24
+      ], 
+      "channel": 263
+    }, 
+    {
+      "electronE": 347.37, 
+      "scale": 0.1, 
+      "Energy": 1209.63, 
+      "ewidth": 2.438, 
+      "raw": [], 
+      "neighbours": [
+        263, 
+        265
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        923
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        264, 
+        347.37, 
+        1209.63
+      ], 
+      "channel": 264
+    }, 
+    {
+      "electronE": 344.96, 
+      "scale": 0.1, 
+      "Energy": 1212.04, 
+      "ewidth": 2.412, 
+      "raw": [], 
+      "neighbours": [
+        264, 
+        266
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        906
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        265, 
+        344.96, 
+        1212.04
+      ], 
+      "channel": 265
+    }, 
+    {
+      "electronE": 342.54, 
+      "scale": 0.1, 
+      "Energy": 1214.46, 
+      "ewidth": 2.401, 
+      "raw": [], 
+      "neighbours": [
+        265, 
+        267
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        907
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        266, 
+        342.54, 
+        1214.46
+      ], 
+      "channel": 266
+    }, 
+    {
+      "electronE": 340.18, 
+      "scale": 0.1, 
+      "Energy": 1216.82, 
+      "ewidth": 2.375, 
+      "raw": [], 
+      "neighbours": [
+        266, 
+        268
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        922
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        267, 
+        340.18, 
+        1216.82
+      ], 
+      "channel": 267
+    }, 
+    {
+      "electronE": 337.79, 
+      "scale": 0.1, 
+      "Energy": 1219.21, 
+      "ewidth": 2.362, 
+      "raw": [], 
+      "neighbours": [
+        267, 
+        269
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        891
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        268, 
+        337.79, 
+        1219.21
+      ], 
+      "channel": 268
+    }, 
+    {
+      "electronE": 335.48, 
+      "scale": 0.1, 
+      "Energy": 1221.52, 
+      "ewidth": 2.336, 
+      "raw": [], 
+      "neighbours": [
+        268, 
+        270
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        874
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        269, 
+        335.48, 
+        1221.52
+      ], 
+      "channel": 269
+    }, 
+    {
+      "electronE": 333.11, 
+      "scale": 0.1, 
+      "Energy": 1223.8899999999999, 
+      "ewidth": 2.325, 
+      "raw": [], 
+      "neighbours": [
+        269, 
+        271
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        875
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        270, 
+        333.11, 
+        1223.8899999999999
+      ], 
+      "channel": 270
+    }, 
+    {
+      "electronE": 330.86, 
+      "scale": 0.1, 
+      "Energy": 1226.1399999999999, 
+      "ewidth": 2.299, 
+      "raw": [], 
+      "neighbours": [
+        270, 
+        272
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        890
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        271, 
+        330.86, 
+        1226.1399999999999
+      ], 
+      "channel": 271
+    }, 
+    {
+      "electronE": 328.56, 
+      "scale": 0.1, 
+      "Energy": 1228.44, 
+      "ewidth": 2.363, 
+      "raw": [], 
+      "neighbours": [
+        271, 
+        273
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1051
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        272, 
+        328.56, 
+        1228.44
+      ], 
+      "channel": 272
+    }, 
+    {
+      "electronE": 326.22, 
+      "scale": 0.1, 
+      "Energy": 1230.78, 
+      "ewidth": 2.334, 
+      "raw": [], 
+      "neighbours": [
+        272, 
+        274
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1034
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        273, 
+        326.22, 
+        1230.78
+      ], 
+      "channel": 273
+    }, 
+    {
+      "electronE": 323.88, 
+      "scale": 0.1, 
+      "Energy": 1233.12, 
+      "ewidth": 2.325, 
+      "raw": [], 
+      "neighbours": [
+        273, 
+        275
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1035
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        274, 
+        323.88, 
+        1233.12
+      ], 
+      "channel": 274
+    }, 
+    {
+      "electronE": 321.6, 
+      "scale": 0.1, 
+      "Energy": 1235.4, 
+      "ewidth": 2.298, 
+      "raw": [], 
+      "neighbours": [
+        274, 
+        276
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1050
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        275, 
+        321.6, 
+        1235.4
+      ], 
+      "channel": 275
+    }, 
+    {
+      "electronE": 319.28, 
+      "scale": 0.1, 
+      "Energy": 1237.72, 
+      "ewidth": 2.285, 
+      "raw": [], 
+      "neighbours": [
+        275, 
+        277
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1019
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        276, 
+        319.28, 
+        1237.72
+      ], 
+      "channel": 276
+    }, 
+    {
+      "electronE": 317.05, 
+      "scale": 0.1, 
+      "Energy": 1239.95, 
+      "ewidth": 2.259, 
+      "raw": [], 
+      "neighbours": [
+        276, 
+        278
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1002
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        277, 
+        317.05, 
+        1239.95
+      ], 
+      "channel": 277
+    }, 
+    {
+      "electronE": 314.75, 
+      "scale": 0.1, 
+      "Energy": 1242.25, 
+      "ewidth": 2.25, 
+      "raw": [], 
+      "neighbours": [
+        277, 
+        279
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1003
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        278, 
+        314.75, 
+        1242.25
+      ], 
+      "channel": 278
+    }, 
+    {
+      "electronE": 312.58, 
+      "scale": 0.1, 
+      "Energy": 1244.42, 
+      "ewidth": 2.222, 
+      "raw": [], 
+      "neighbours": [
+        278, 
+        280
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1018
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        279, 
+        312.58, 
+        1244.42
+      ], 
+      "channel": 279
+    }, 
+    {
+      "electronE": 310.36, 
+      "scale": 0.1, 
+      "Energy": 1246.6399999999999, 
+      "ewidth": 2.288, 
+      "raw": [], 
+      "neighbours": [
+        279, 
+        281
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1179
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        280, 
+        310.36, 
+        1246.6399999999999
+      ], 
+      "channel": 280
+    }, 
+    {
+      "electronE": 308.1, 
+      "scale": 0.1, 
+      "Energy": 1248.9, 
+      "ewidth": 2.259, 
+      "raw": [], 
+      "neighbours": [
+        280, 
+        282
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1162
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        281, 
+        308.1, 
+        1248.9
+      ], 
+      "channel": 281
+    }, 
+    {
+      "electronE": 305.84, 
+      "scale": 0.1, 
+      "Energy": 1251.16, 
+      "ewidth": 2.249, 
+      "raw": [], 
+      "neighbours": [
+        281, 
+        283
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1163
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        282, 
+        305.84, 
+        1251.16
+      ], 
+      "channel": 282
+    }, 
+    {
+      "electronE": 303.63, 
+      "scale": 0.1, 
+      "Energy": 1253.37, 
+      "ewidth": 2.221, 
+      "raw": [], 
+      "neighbours": [
+        282, 
+        284
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1178
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        283, 
+        303.63, 
+        1253.37
+      ], 
+      "channel": 283
+    }, 
+    {
+      "electronE": 301.38, 
+      "scale": 0.1, 
+      "Energy": 1255.62, 
+      "ewidth": 2.212, 
+      "raw": [], 
+      "neighbours": [
+        283, 
+        285
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1147
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        284, 
+        301.38, 
+        1255.62
+      ], 
+      "channel": 284
+    }, 
+    {
+      "electronE": 299.24, 
+      "scale": 0.1, 
+      "Energy": 1257.76, 
+      "ewidth": 2.185, 
+      "raw": [], 
+      "neighbours": [
+        284, 
+        286
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1130
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        285, 
+        299.24, 
+        1257.76
+      ], 
+      "channel": 285
+    }, 
+    {
+      "electronE": 297.01, 
+      "scale": 0.1, 
+      "Energy": 1259.99, 
+      "ewidth": 2.174, 
+      "raw": [], 
+      "neighbours": [
+        285, 
+        287
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1131
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        286, 
+        297.01, 
+        1259.99
+      ], 
+      "channel": 286
+    }, 
+    {
+      "electronE": 294.92, 
+      "scale": 0.1, 
+      "Energy": 1262.08, 
+      "ewidth": 2.147, 
+      "raw": [], 
+      "neighbours": [
+        286, 
+        288
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1146
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        287, 
+        294.92, 
+        1262.08
+      ], 
+      "channel": 287
+    }, 
+    {
+      "electronE": 292.78, 
+      "scale": 0.1, 
+      "Energy": 1264.22, 
+      "ewidth": 2.213, 
+      "raw": [], 
+      "neighbours": [
+        287, 
+        289
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        861
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        288, 
+        292.78, 
+        1264.22
+      ], 
+      "channel": 288
+    }, 
+    {
+      "electronE": 290.6, 
+      "scale": 0.1, 
+      "Energy": 1266.4, 
+      "ewidth": 2.184, 
+      "raw": [], 
+      "neighbours": [
+        288, 
+        290
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        844
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        289, 
+        290.6, 
+        1266.4
+      ], 
+      "channel": 289
+    }, 
+    {
+      "electronE": 288.4, 
+      "scale": 0.1, 
+      "Energy": 1268.6, 
+      "ewidth": 2.175, 
+      "raw": [], 
+      "neighbours": [
+        289, 
+        291
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        845
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        290, 
+        288.4, 
+        1268.6
+      ], 
+      "channel": 290
+    }, 
+    {
+      "electronE": 286.28, 
+      "scale": 0.1, 
+      "Energy": 1270.72, 
+      "ewidth": 2.148, 
+      "raw": [], 
+      "neighbours": [
+        290, 
+        292
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        860
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        291, 
+        286.28, 
+        1270.72
+      ], 
+      "channel": 291
+    }, 
+    {
+      "electronE": 284.1, 
+      "scale": 0.1, 
+      "Energy": 1272.9, 
+      "ewidth": 2.137, 
+      "raw": [], 
+      "neighbours": [
+        291, 
+        293
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        829
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        292, 
+        284.1, 
+        1272.9
+      ], 
+      "channel": 292
+    }, 
+    {
+      "electronE": 282.03, 
+      "scale": 0.1, 
+      "Energy": 1274.97, 
+      "ewidth": 2.109, 
+      "raw": [], 
+      "neighbours": [
+        292, 
+        294
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        812
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        293, 
+        282.03, 
+        1274.97
+      ], 
+      "channel": 293
+    }, 
+    {
+      "electronE": 279.88, 
+      "scale": 0.1, 
+      "Energy": 1277.12, 
+      "ewidth": 2.1, 
+      "raw": [], 
+      "neighbours": [
+        293, 
+        295
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        813
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        294, 
+        279.88, 
+        1277.12
+      ], 
+      "channel": 294
+    }, 
+    {
+      "electronE": 277.86, 
+      "scale": 0.1, 
+      "Energy": 1279.1399999999999, 
+      "ewidth": 2.072, 
+      "raw": [], 
+      "neighbours": [
+        294, 
+        296
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        828
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        295, 
+        277.86, 
+        1279.1399999999999
+      ], 
+      "channel": 295
+    }, 
+    {
+      "electronE": 275.81, 
+      "scale": 0.1, 
+      "Energy": 1281.19, 
+      "ewidth": 2.137, 
+      "raw": [], 
+      "neighbours": [
+        295, 
+        297
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        989
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        296, 
+        275.81, 
+        1281.19
+      ], 
+      "channel": 296
+    }, 
+    {
+      "electronE": 273.7, 
+      "scale": 0.1, 
+      "Energy": 1283.3, 
+      "ewidth": 2.109, 
+      "raw": [], 
+      "neighbours": [
+        296, 
+        298
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        972
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        297, 
+        273.7, 
+        1283.3
+      ], 
+      "channel": 297
+    }, 
+    {
+      "electronE": 271.58, 
+      "scale": 0.1, 
+      "Energy": 1285.42, 
+      "ewidth": 2.098, 
+      "raw": [], 
+      "neighbours": [
+        297, 
+        299
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        973
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        298, 
+        271.58, 
+        1285.42
+      ], 
+      "channel": 298
+    }, 
+    {
+      "electronE": 269.53, 
+      "scale": 0.1, 
+      "Energy": 1287.47, 
+      "ewidth": 2.073, 
+      "raw": [], 
+      "neighbours": [
+        298, 
+        300
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        988
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        299, 
+        269.53, 
+        1287.47
+      ], 
+      "channel": 299
+    }, 
+    {
+      "electronE": 267.43, 
+      "scale": 0.1, 
+      "Energy": 1289.57, 
+      "ewidth": 2.063, 
+      "raw": [], 
+      "neighbours": [
+        299, 
+        301
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        957
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        300, 
+        267.43, 
+        1289.57
+      ], 
+      "channel": 300
+    }, 
+    {
+      "electronE": 265.44, 
+      "scale": 0.1, 
+      "Energy": 1291.56, 
+      "ewidth": 2.034, 
+      "raw": [], 
+      "neighbours": [
+        300, 
+        302
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        940
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        301, 
+        265.44, 
+        1291.56
+      ], 
+      "channel": 301
+    }, 
+    {
+      "electronE": 263.35, 
+      "scale": 0.1, 
+      "Energy": 1293.65, 
+      "ewidth": 2.026, 
+      "raw": [], 
+      "neighbours": [
+        301, 
+        303
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        941
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        302, 
+        263.35, 
+        1293.65
+      ], 
+      "channel": 302
+    }, 
+    {
+      "electronE": 261.42, 
+      "scale": 0.1, 
+      "Energy": 1295.58, 
+      "ewidth": 1.997, 
+      "raw": [], 
+      "neighbours": [
+        302, 
+        304
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        956
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        303, 
+        261.42, 
+        1295.58
+      ], 
+      "channel": 303
+    }, 
+    {
+      "electronE": 259.45, 
+      "scale": 0.1, 
+      "Energy": 1297.55, 
+      "ewidth": 2.063, 
+      "raw": [], 
+      "neighbours": [
+        303, 
+        305
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1117
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        304, 
+        259.45, 
+        1297.55
+      ], 
+      "channel": 304
+    }, 
+    {
+      "electronE": 257.41, 
+      "scale": 0.1, 
+      "Energy": 1299.59, 
+      "ewidth": 2.033, 
+      "raw": [], 
+      "neighbours": [
+        304, 
+        306
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1100
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        305, 
+        257.41, 
+        1299.59
+      ], 
+      "channel": 305
+    }, 
+    {
+      "electronE": 255.37, 
+      "scale": 0.1, 
+      "Energy": 1301.63, 
+      "ewidth": 2.024, 
+      "raw": [], 
+      "neighbours": [
+        305, 
+        307
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1101
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        306, 
+        255.37, 
+        1301.63
+      ], 
+      "channel": 306
+    }, 
+    {
+      "electronE": 253.4, 
+      "scale": 0.1, 
+      "Energy": 1303.6, 
+      "ewidth": 1.995, 
+      "raw": [], 
+      "neighbours": [
+        306, 
+        308
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1116
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        307, 
+        253.4, 
+        1303.6
+      ], 
+      "channel": 307
+    }, 
+    {
+      "electronE": 251.37, 
+      "scale": 0.1, 
+      "Energy": 1305.63, 
+      "ewidth": 1.987, 
+      "raw": [], 
+      "neighbours": [
+        307, 
+        309
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1085
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        308, 
+        251.37, 
+        1305.63
+      ], 
+      "channel": 308
+    }, 
+    {
+      "electronE": 249.45, 
+      "scale": 0.1, 
+      "Energy": 1307.55, 
+      "ewidth": 1.959, 
+      "raw": [], 
+      "neighbours": [
+        308, 
+        310
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1068
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        309, 
+        249.45, 
+        1307.55
+      ], 
+      "channel": 309
+    }, 
+    {
+      "electronE": 247.44, 
+      "scale": 0.1, 
+      "Energy": 1309.56, 
+      "ewidth": 1.952, 
+      "raw": [], 
+      "neighbours": [
+        309, 
+        311
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1069
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        310, 
+        247.44, 
+        1309.56
+      ], 
+      "channel": 310
+    }, 
+    {
+      "electronE": 245.58, 
+      "scale": 0.1, 
+      "Energy": 1311.42, 
+      "ewidth": 1.923, 
+      "raw": [], 
+      "neighbours": [
+        310, 
+        312
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1084
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        311, 
+        245.58, 
+        1311.42
+      ], 
+      "channel": 311
+    }, 
+    {
+      "electronE": 243.69, 
+      "scale": 0.1, 
+      "Energy": 1313.31, 
+      "ewidth": 1.987, 
+      "raw": [], 
+      "neighbours": [
+        311, 
+        313
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        925
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        312, 
+        243.69, 
+        1313.31
+      ], 
+      "channel": 312
+    }, 
+    {
+      "electronE": 241.73, 
+      "scale": 0.1, 
+      "Energy": 1315.27, 
+      "ewidth": 1.957, 
+      "raw": [], 
+      "neighbours": [
+        312, 
+        314
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        908
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        313, 
+        241.73, 
+        1315.27
+      ], 
+      "channel": 313
+    }, 
+    {
+      "electronE": 239.77, 
+      "scale": 0.1, 
+      "Energy": 1317.23, 
+      "ewidth": 1.95, 
+      "raw": [], 
+      "neighbours": [
+        313, 
+        315
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        909
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        314, 
+        239.77, 
+        1317.23
+      ], 
+      "channel": 314
+    }, 
+    {
+      "electronE": 237.87, 
+      "scale": 0.1, 
+      "Energy": 1319.13, 
+      "ewidth": 1.923, 
+      "raw": [], 
+      "neighbours": [
+        314, 
+        316
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        924
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        315, 
+        237.87, 
+        1319.13
+      ], 
+      "channel": 315
+    }, 
+    {
+      "electronE": 235.91, 
+      "scale": 0.1, 
+      "Energy": 1321.09, 
+      "ewidth": 1.913, 
+      "raw": [], 
+      "neighbours": [
+        315, 
+        317
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        893
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        316, 
+        235.91, 
+        1321.09
+      ], 
+      "channel": 316
+    }, 
+    {
+      "electronE": 234.07, 
+      "scale": 0.1, 
+      "Energy": 1322.93, 
+      "ewidth": 1.884, 
+      "raw": [], 
+      "neighbours": [
+        316, 
+        318
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        876
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        317, 
+        234.07, 
+        1322.93
+      ], 
+      "channel": 317
+    }, 
+    {
+      "electronE": 232.13, 
+      "scale": 0.1, 
+      "Energy": 1324.87, 
+      "ewidth": 1.876, 
+      "raw": [], 
+      "neighbours": [
+        317, 
+        319
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        877
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        318, 
+        232.13, 
+        1324.87
+      ], 
+      "channel": 318
+    }, 
+    {
+      "electronE": 230.35, 
+      "scale": 0.1, 
+      "Energy": 1326.65, 
+      "ewidth": 1.848, 
+      "raw": [], 
+      "neighbours": [
+        318, 
+        320
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        892
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        319, 
+        230.35, 
+        1326.65
+      ], 
+      "channel": 319
+    }, 
+    {
+      "electronE": 228.55, 
+      "scale": 0.1, 
+      "Energy": 1328.45, 
+      "ewidth": 1.912, 
+      "raw": [], 
+      "neighbours": [
+        319, 
+        321
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1053
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        320, 
+        228.55, 
+        1328.45
+      ], 
+      "channel": 320
+    }, 
+    {
+      "electronE": 226.66, 
+      "scale": 0.1, 
+      "Energy": 1330.34, 
+      "ewidth": 1.881, 
+      "raw": [], 
+      "neighbours": [
+        320, 
+        322
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1036
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        321, 
+        226.66, 
+        1330.34
+      ], 
+      "channel": 321
+    }, 
+    {
+      "electronE": 224.77, 
+      "scale": 0.1, 
+      "Energy": 1332.23, 
+      "ewidth": 1.876, 
+      "raw": [], 
+      "neighbours": [
+        321, 
+        323
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1037
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        322, 
+        224.77, 
+        1332.23
+      ], 
+      "channel": 322
+    }, 
+    {
+      "electronE": 222.95, 
+      "scale": 0.1, 
+      "Energy": 1334.05, 
+      "ewidth": 1.845, 
+      "raw": [], 
+      "neighbours": [
+        322, 
+        324
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1052
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        323, 
+        222.95, 
+        1334.05
+      ], 
+      "channel": 323
+    }, 
+    {
+      "electronE": 221.07, 
+      "scale": 0.1, 
+      "Energy": 1335.93, 
+      "ewidth": 1.838, 
+      "raw": [], 
+      "neighbours": [
+        323, 
+        325
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1021
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        324, 
+        221.07, 
+        1335.93
+      ], 
+      "channel": 324
+    }, 
+    {
+      "electronE": 219.3, 
+      "scale": 0.1, 
+      "Energy": 1337.7, 
+      "ewidth": 1.81, 
+      "raw": [], 
+      "neighbours": [
+        324, 
+        326
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1004
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        325, 
+        219.3, 
+        1337.7
+      ], 
+      "channel": 325
+    }, 
+    {
+      "electronE": 217.43, 
+      "scale": 0.1, 
+      "Energy": 1339.57, 
+      "ewidth": 1.803, 
+      "raw": [], 
+      "neighbours": [
+        325, 
+        327
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1005
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        326, 
+        217.43, 
+        1339.57
+      ], 
+      "channel": 326
+    }, 
+    {
+      "electronE": 215.73, 
+      "scale": 0.1, 
+      "Energy": 1341.27, 
+      "ewidth": 1.774, 
+      "raw": [], 
+      "neighbours": [
+        326, 
+        328
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1020
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        327, 
+        215.73, 
+        1341.27
+      ], 
+      "channel": 327
+    }, 
+    {
+      "electronE": 212.5, 
+      "scale": 0.1, 
+      "Energy": 1344.5, 
+      "ewidth": 3.713, 
+      "raw": [], 
+      "neighbours": [
+        327, 
+        329
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1132
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        328, 
+        212.5, 
+        1344.5
+      ], 
+      "channel": 328
+    }, 
+    {
+      "electronE": 208.83, 
+      "scale": 0.1, 
+      "Energy": 1348.17, 
+      "ewidth": 3.643, 
+      "raw": [], 
+      "neighbours": [
+        328, 
+        330
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1133
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        329, 
+        208.83, 
+        1348.17
+      ], 
+      "channel": 329
+    }, 
+    {
+      "electronE": 205.23, 
+      "scale": 0.1, 
+      "Energy": 1351.77, 
+      "ewidth": 3.568, 
+      "raw": [], 
+      "neighbours": [
+        329, 
+        331
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1149
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        330, 
+        205.23, 
+        1351.77
+      ], 
+      "channel": 330
+    }, 
+    {
+      "electronE": 201.71, 
+      "scale": 0.1, 
+      "Energy": 1355.29, 
+      "ewidth": 3.499, 
+      "raw": [], 
+      "neighbours": [
+        330, 
+        332
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1148
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        331, 
+        201.71, 
+        1355.29
+      ], 
+      "channel": 331
+    }, 
+    {
+      "electronE": 198.19, 
+      "scale": 0.1, 
+      "Energy": 1358.81, 
+      "ewidth": 3.599, 
+      "raw": [], 
+      "neighbours": [
+        331, 
+        333
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        814
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        332, 
+        198.19, 
+        1358.81
+      ], 
+      "channel": 332
+    }, 
+    {
+      "electronE": 194.64, 
+      "scale": 0.1, 
+      "Energy": 1362.3600000000001, 
+      "ewidth": 3.529, 
+      "raw": [], 
+      "neighbours": [
+        332, 
+        334
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        815
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        333, 
+        194.64, 
+        1362.3600000000001
+      ], 
+      "channel": 333
+    }, 
+    {
+      "electronE": 191.16, 
+      "scale": 0.1, 
+      "Energy": 1365.84, 
+      "ewidth": 3.45, 
+      "raw": [], 
+      "neighbours": [
+        333, 
+        335
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        831
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        334, 
+        191.16, 
+        1365.84
+      ], 
+      "channel": 334
+    }, 
+    {
+      "electronE": 187.75, 
+      "scale": 0.1, 
+      "Energy": 1369.25, 
+      "ewidth": 3.381, 
+      "raw": [], 
+      "neighbours": [
+        334, 
+        336
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        830
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        335, 
+        187.75, 
+        1369.25
+      ], 
+      "channel": 335
+    }, 
+    {
+      "electronE": 184.32, 
+      "scale": 0.1, 
+      "Energy": 1372.68, 
+      "ewidth": 3.506, 
+      "raw": [], 
+      "neighbours": [
+        335, 
+        337
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        878
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        336, 
+        184.32, 
+        1372.68
+      ], 
+      "channel": 336
+    }, 
+    {
+      "electronE": 180.86, 
+      "scale": 0.1, 
+      "Energy": 1376.1399999999999, 
+      "ewidth": 3.432, 
+      "raw": [], 
+      "neighbours": [
+        336, 
+        338
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        879
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        337, 
+        180.86, 
+        1376.1399999999999
+      ], 
+      "channel": 337
+    }, 
+    {
+      "electronE": 177.47, 
+      "scale": 0.1, 
+      "Energy": 1379.53, 
+      "ewidth": 3.36, 
+      "raw": [], 
+      "neighbours": [
+        337, 
+        339
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        895
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        338, 
+        177.47, 
+        1379.53
+      ], 
+      "channel": 338
+    }, 
+    {
+      "electronE": 174.16, 
+      "scale": 0.1, 
+      "Energy": 1382.84, 
+      "ewidth": 3.287, 
+      "raw": [], 
+      "neighbours": [
+        338, 
+        340
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        894
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        339, 
+        174.16, 
+        1382.84
+      ], 
+      "channel": 339
+    }, 
+    {
+      "electronE": 171.01, 
+      "scale": 0.1, 
+      "Energy": 1385.99, 
+      "ewidth": 3.03, 
+      "raw": [], 
+      "neighbours": [
+        339, 
+        341
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        942
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        340, 
+        171.01, 
+        1385.99
+      ], 
+      "channel": 340
+    }, 
+    {
+      "electronE": 168.02, 
+      "scale": 0.1, 
+      "Energy": 1388.98, 
+      "ewidth": 2.967, 
+      "raw": [], 
+      "neighbours": [
+        340, 
+        342
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        943
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        341, 
+        168.02, 
+        1388.98
+      ], 
+      "channel": 341
+    }, 
+    {
+      "electronE": 165.09, 
+      "scale": 0.1, 
+      "Energy": 1391.91, 
+      "ewidth": 2.904, 
+      "raw": [], 
+      "neighbours": [
+        341, 
+        343
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        959
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        342, 
+        165.09, 
+        1391.91
+      ], 
+      "channel": 342
+    }, 
+    {
+      "electronE": 162.22, 
+      "scale": 0.1, 
+      "Energy": 1394.78, 
+      "ewidth": 2.84, 
+      "raw": [], 
+      "neighbours": [
+        342, 
+        344
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        958
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        343, 
+        162.22, 
+        1394.78
+      ], 
+      "channel": 343
+    }, 
+    {
+      "electronE": 159.27, 
+      "scale": 0.1, 
+      "Energy": 1397.73, 
+      "ewidth": 3.065, 
+      "raw": [], 
+      "neighbours": [
+        343, 
+        345
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1006
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        344, 
+        159.27, 
+        1397.73
+      ], 
+      "channel": 344
+    }, 
+    {
+      "electronE": 156.25, 
+      "scale": 0.1, 
+      "Energy": 1400.75, 
+      "ewidth": 3.002, 
+      "raw": [], 
+      "neighbours": [
+        344, 
+        346
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1007
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        345, 
+        156.25, 
+        1400.75
+      ], 
+      "channel": 345
+    }, 
+    {
+      "electronE": 153.28, 
+      "scale": 0.1, 
+      "Energy": 1403.72, 
+      "ewidth": 2.936, 
+      "raw": [], 
+      "neighbours": [
+        345, 
+        347
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1023
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        346, 
+        153.28, 
+        1403.72
+      ], 
+      "channel": 346
+    }, 
+    {
+      "electronE": 150.39, 
+      "scale": 0.1, 
+      "Energy": 1406.6100000000001, 
+      "ewidth": 2.866, 
+      "raw": [], 
+      "neighbours": [
+        346, 
+        348
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        1022
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        347, 
+        150.39, 
+        1406.6100000000001
+      ], 
+      "channel": 347
+    }, 
+    {
+      "electronE": 147.69, 
+      "scale": 0.1, 
+      "Energy": 1409.31, 
+      "ewidth": 2.575, 
+      "raw": [], 
+      "neighbours": [
+        347, 
+        349
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1070
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        348, 
+        147.69, 
+        1409.31
+      ], 
+      "channel": 348
+    }, 
+    {
+      "electronE": 145.14, 
+      "scale": 0.1, 
+      "Energy": 1411.8600000000001, 
+      "ewidth": 2.523, 
+      "raw": [], 
+      "neighbours": [
+        348, 
+        350
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1071
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        349, 
+        145.14, 
+        1411.8600000000001
+      ], 
+      "channel": 349
+    }, 
+    {
+      "electronE": 142.66, 
+      "scale": 0.1, 
+      "Energy": 1414.34, 
+      "ewidth": 2.467, 
+      "raw": [], 
+      "neighbours": [
+        349, 
+        351
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1087
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        350, 
+        142.66, 
+        1414.34
+      ], 
+      "channel": 350
+    }, 
+    {
+      "electronE": 140.23, 
+      "scale": 0.1, 
+      "Energy": 1416.77, 
+      "ewidth": 2.41, 
+      "raw": [], 
+      "neighbours": [
+        350, 
+        352
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1086
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        351, 
+        140.23, 
+        1416.77
+      ], 
+      "channel": 351
+    }, 
+    {
+      "electronE": 137.73, 
+      "scale": 0.1, 
+      "Energy": 1419.27, 
+      "ewidth": 2.592, 
+      "raw": [], 
+      "neighbours": [
+        351, 
+        353
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1134
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        352, 
+        137.73, 
+        1419.27
+      ], 
+      "channel": 352
+    }, 
+    {
+      "electronE": 135.17, 
+      "scale": 0.1, 
+      "Energy": 1421.83, 
+      "ewidth": 2.534, 
+      "raw": [], 
+      "neighbours": [
+        352, 
+        354
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1135
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        353, 
+        135.17, 
+        1421.83
+      ], 
+      "channel": 353
+    }, 
+    {
+      "electronE": 132.67, 
+      "scale": 0.1, 
+      "Energy": 1424.33, 
+      "ewidth": 2.48, 
+      "raw": [], 
+      "neighbours": [
+        353, 
+        355
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1151
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        354, 
+        132.67, 
+        1424.33
+      ], 
+      "channel": 354
+    }, 
+    {
+      "electronE": 130.22, 
+      "scale": 0.1, 
+      "Energy": 1426.78, 
+      "ewidth": 2.419, 
+      "raw": [], 
+      "neighbours": [
+        354, 
+        356
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1150
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        355, 
+        130.22, 
+        1426.78
+      ], 
+      "channel": 355
+    }, 
+    {
+      "electronE": 127.96, 
+      "scale": 0.1, 
+      "Energy": 1429.04, 
+      "ewidth": 2.125, 
+      "raw": [], 
+      "neighbours": [
+        355, 
+        357
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1164
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        356, 
+        127.96, 
+        1429.04
+      ], 
+      "channel": 356
+    }, 
+    {
+      "electronE": 125.87, 
+      "scale": 0.1, 
+      "Energy": 1431.13, 
+      "ewidth": 2.08, 
+      "raw": [], 
+      "neighbours": [
+        356, 
+        358
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1165
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        357, 
+        125.87, 
+        1431.13
+      ], 
+      "channel": 357
+    }, 
+    {
+      "electronE": 123.82, 
+      "scale": 0.1, 
+      "Energy": 1433.18, 
+      "ewidth": 2.034, 
+      "raw": [], 
+      "neighbours": [
+        357, 
+        359
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1181
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        358, 
+        123.82, 
+        1433.18
+      ], 
+      "channel": 358
+    }, 
+    {
+      "electronE": 121.81, 
+      "scale": 0.1, 
+      "Energy": 1435.19, 
+      "ewidth": 1.988, 
+      "raw": [], 
+      "neighbours": [
+        358, 
+        360
+      ], 
+      "referenceID": 2, 
+      "adc": [
+        1180
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        359, 
+        121.81, 
+        1435.19
+      ], 
+      "channel": 359
+    }, 
+    {
+      "electronE": 119.75, 
+      "scale": 0.1, 
+      "Energy": 1437.25, 
+      "ewidth": 2.141, 
+      "raw": [], 
+      "neighbours": [
+        359, 
+        361
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        846
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        360, 
+        119.75, 
+        1437.25
+      ], 
+      "channel": 360
+    }, 
+    {
+      "electronE": 117.64, 
+      "scale": 0.1, 
+      "Energy": 1439.36, 
+      "ewidth": 2.094, 
+      "raw": [], 
+      "neighbours": [
+        360, 
+        362
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        847
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        361, 
+        117.64, 
+        1439.36
+      ], 
+      "channel": 361
+    }, 
+    {
+      "electronE": 115.58, 
+      "scale": 0.1, 
+      "Energy": 1441.42, 
+      "ewidth": 2.045, 
+      "raw": [], 
+      "neighbours": [
+        361, 
+        363
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        863
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        362, 
+        115.58, 
+        1441.42
+      ], 
+      "channel": 362
+    }, 
+    {
+      "electronE": 113.56, 
+      "scale": 0.1, 
+      "Energy": 1443.44, 
+      "ewidth": 1.998, 
+      "raw": [], 
+      "neighbours": [
+        362, 
+        364
+      ], 
+      "referenceID": 0, 
+      "adc": [
+        862
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        363, 
+        113.56, 
+        1443.44
+      ], 
+      "channel": 363
+    }, 
+    {
+      "electronE": 111.68, 
+      "scale": 0.1, 
+      "Energy": 1445.32, 
+      "ewidth": 1.759, 
+      "raw": [], 
+      "neighbours": [
+        363, 
+        365
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        974
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        364, 
+        111.68, 
+        1445.32
+      ], 
+      "channel": 364
+    }, 
+    {
+      "electronE": 109.95, 
+      "scale": 0.1, 
+      "Energy": 1447.05, 
+      "ewidth": 1.721, 
+      "raw": [], 
+      "neighbours": [
+        364, 
+        366
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        975
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        365, 
+        109.95, 
+        1447.05
+      ], 
+      "channel": 365
+    }, 
+    {
+      "electronE": 108.25, 
+      "scale": 0.1, 
+      "Energy": 1448.75, 
+      "ewidth": 1.683, 
+      "raw": [], 
+      "neighbours": [
+        365, 
+        367
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        993
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        366, 
+        108.25, 
+        1448.75
+      ], 
+      "channel": 366
+    }, 
+    {
+      "electronE": 106.6, 
+      "scale": 0.1, 
+      "Energy": 1450.4, 
+      "ewidth": 1.642, 
+      "raw": [], 
+      "neighbours": [
+        366
+      ], 
+      "referenceID": 1, 
+      "adc": [
+        992
+      ], 
+      "offset": -4050.0, 
+      "position": [
+        367, 
+        106.6, 
+        1450.4
+      ], 
+      "channel": 367
+    }
+  ], 
+  "parameters": [
+    "Time"
+  ], 
+  "ignore": [], 
+  "references": [
+    [
+      927, 
+      1055, 
+      1183
+    ]
+  ], 
+  "detector": "Tagger", 
+  "calEq": [
+    "[(y['raw']-y['offset']-ref[int(y['referenceID'])])*y['scale'] for y in x]"
+  ]
+}

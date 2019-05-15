@@ -1,0 +1,7759 @@
+{
+  "channels": [
+    {
+      "electronE": 105.5, 
+      "scale": 0.117, 
+      "Energy": 1402.5, 
+      "ewidth": 1.9, 
+      "raw": [], 
+      "neighbours": [
+        1
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1438
+      ], 
+      "offset": -2739.0, 
+      "position": [
+        0, 
+        105.5, 
+        1402.5
+      ], 
+      "channel": 0
+    }, 
+    {
+      "electronE": 107.5, 
+      "scale": 0.117, 
+      "Energy": 1400.5, 
+      "ewidth": 2.0, 
+      "raw": [], 
+      "neighbours": [
+        0, 
+        2
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1432
+      ], 
+      "offset": -2735.0, 
+      "position": [
+        1, 
+        107.5, 
+        1400.5
+      ], 
+      "channel": 1
+    }, 
+    {
+      "electronE": 109.5, 
+      "scale": 0.117, 
+      "Energy": 1398.5, 
+      "ewidth": 2.1, 
+      "raw": [], 
+      "neighbours": [
+        1, 
+        3
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1454
+      ], 
+      "offset": -2739.0, 
+      "position": [
+        2, 
+        109.5, 
+        1398.5
+      ], 
+      "channel": 2
+    }, 
+    {
+      "electronE": 111.6, 
+      "scale": 0.117, 
+      "Energy": 1396.4, 
+      "ewidth": 2.2, 
+      "raw": [], 
+      "neighbours": [
+        2, 
+        4
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1448
+      ], 
+      "offset": -2747.0, 
+      "position": [
+        3, 
+        111.6, 
+        1396.4
+      ], 
+      "channel": 3
+    }, 
+    {
+      "electronE": 113.8, 
+      "scale": 0.117, 
+      "Energy": 1394.2, 
+      "ewidth": 2.3, 
+      "raw": [], 
+      "neighbours": [
+        3, 
+        5
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1439
+      ], 
+      "offset": -2742.0, 
+      "position": [
+        4, 
+        113.8, 
+        1394.2
+      ], 
+      "channel": 4
+    }, 
+    {
+      "electronE": 116.0, 
+      "scale": 0.117, 
+      "Energy": 1392.0, 
+      "ewidth": 2.3, 
+      "raw": [], 
+      "neighbours": [
+        4, 
+        6
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1433
+      ], 
+      "offset": -2737.0, 
+      "position": [
+        5, 
+        116.0, 
+        1392.0
+      ], 
+      "channel": 5
+    }, 
+    {
+      "electronE": 118.4, 
+      "scale": 0.117, 
+      "Energy": 1389.6, 
+      "ewidth": 2.4, 
+      "raw": [], 
+      "neighbours": [
+        5, 
+        7
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1455
+      ], 
+      "offset": -2745.0, 
+      "position": [
+        6, 
+        118.4, 
+        1389.6
+      ], 
+      "channel": 6
+    }, 
+    {
+      "electronE": 120.8, 
+      "scale": 0.117, 
+      "Energy": 1387.2, 
+      "ewidth": 2.5, 
+      "raw": [], 
+      "neighbours": [
+        6, 
+        8
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1449
+      ], 
+      "offset": -2745.0, 
+      "position": [
+        7, 
+        120.8, 
+        1387.2
+      ], 
+      "channel": 7
+    }, 
+    {
+      "electronE": 123.4, 
+      "scale": 0.117, 
+      "Energy": 1384.6, 
+      "ewidth": 2.6, 
+      "raw": [], 
+      "neighbours": [
+        7, 
+        9
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1440
+      ], 
+      "offset": -2740.0, 
+      "position": [
+        8, 
+        123.4, 
+        1384.6
+      ], 
+      "channel": 8
+    }, 
+    {
+      "electronE": 126.0, 
+      "scale": 0.117, 
+      "Energy": 1382.0, 
+      "ewidth": 2.7, 
+      "raw": [], 
+      "neighbours": [
+        8, 
+        10
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1434
+      ], 
+      "offset": -2749.0, 
+      "position": [
+        9, 
+        126.0, 
+        1382.0
+      ], 
+      "channel": 9
+    }, 
+    {
+      "electronE": 128.7, 
+      "scale": 0.117, 
+      "Energy": 1379.3, 
+      "ewidth": 2.8, 
+      "raw": [], 
+      "neighbours": [
+        9, 
+        11
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1456
+      ], 
+      "offset": -2727.0, 
+      "position": [
+        10, 
+        128.7, 
+        1379.3
+      ], 
+      "channel": 10
+    }, 
+    {
+      "electronE": 131.4, 
+      "scale": 0.117, 
+      "Energy": 1376.6, 
+      "ewidth": 2.8, 
+      "raw": [], 
+      "neighbours": [
+        10, 
+        12
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1450
+      ], 
+      "offset": -2743.0, 
+      "position": [
+        11, 
+        131.4, 
+        1376.6
+      ], 
+      "channel": 11
+    }, 
+    {
+      "electronE": 134.3, 
+      "scale": 0.117, 
+      "Energy": 1373.7, 
+      "ewidth": 2.9, 
+      "raw": [], 
+      "neighbours": [
+        11, 
+        13
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1441
+      ], 
+      "offset": -2743.0, 
+      "position": [
+        12, 
+        134.3, 
+        1373.7
+      ], 
+      "channel": 12
+    }, 
+    {
+      "electronE": 137.2, 
+      "scale": 0.117, 
+      "Energy": 1370.8, 
+      "ewidth": 3.0, 
+      "raw": [], 
+      "neighbours": [
+        12, 
+        14
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1435
+      ], 
+      "offset": -2746.0, 
+      "position": [
+        13, 
+        137.2, 
+        1370.8
+      ], 
+      "channel": 13
+    }, 
+    {
+      "electronE": 140.1, 
+      "scale": 0.117, 
+      "Energy": 1367.9, 
+      "ewidth": 3.0, 
+      "raw": [], 
+      "neighbours": [
+        13, 
+        15
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1457
+      ], 
+      "offset": -2729.0, 
+      "position": [
+        14, 
+        140.1, 
+        1367.9
+      ], 
+      "channel": 14
+    }, 
+    {
+      "electronE": 143.2, 
+      "scale": 0.117, 
+      "Energy": 1364.8, 
+      "ewidth": 3.1, 
+      "raw": [], 
+      "neighbours": [
+        14, 
+        16
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1451
+      ], 
+      "offset": -2750.0, 
+      "position": [
+        15, 
+        143.2, 
+        1364.8
+      ], 
+      "channel": 15
+    }, 
+    {
+      "electronE": 146.2, 
+      "scale": 0.117, 
+      "Energy": 1361.8, 
+      "ewidth": 3.1, 
+      "raw": [], 
+      "neighbours": [
+        15, 
+        17
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1442
+      ], 
+      "offset": -2752.0, 
+      "position": [
+        16, 
+        146.2, 
+        1361.8
+      ], 
+      "channel": 16
+    }, 
+    {
+      "electronE": 149.3, 
+      "scale": 0.117, 
+      "Energy": 1358.7, 
+      "ewidth": 3.2, 
+      "raw": [], 
+      "neighbours": [
+        16, 
+        18
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1436
+      ], 
+      "offset": -2741.0, 
+      "position": [
+        17, 
+        149.3, 
+        1358.7
+      ], 
+      "channel": 17
+    }, 
+    {
+      "electronE": 152.5, 
+      "scale": 0.117, 
+      "Energy": 1355.5, 
+      "ewidth": 3.2, 
+      "raw": [], 
+      "neighbours": [
+        17, 
+        19
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1458
+      ], 
+      "offset": -2740.0, 
+      "position": [
+        18, 
+        152.5, 
+        1355.5
+      ], 
+      "channel": 18
+    }, 
+    {
+      "electronE": 155.6, 
+      "scale": 0.117, 
+      "Energy": 1352.4, 
+      "ewidth": 3.2, 
+      "raw": [], 
+      "neighbours": [
+        18, 
+        20
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1452
+      ], 
+      "offset": -2744.0, 
+      "position": [
+        19, 
+        155.6, 
+        1352.4
+      ], 
+      "channel": 19
+    }, 
+    {
+      "electronE": 158.8, 
+      "scale": 0.117, 
+      "Energy": 1349.2, 
+      "ewidth": 3.2, 
+      "raw": [], 
+      "neighbours": [
+        19, 
+        21
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1443
+      ], 
+      "offset": -2746.0, 
+      "position": [
+        20, 
+        158.8, 
+        1349.2
+      ], 
+      "channel": 20
+    }, 
+    {
+      "electronE": 161.9, 
+      "scale": 0.117, 
+      "Energy": 1346.1, 
+      "ewidth": 3.2, 
+      "raw": [], 
+      "neighbours": [
+        20, 
+        22
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1437
+      ], 
+      "offset": -2743.0, 
+      "position": [
+        21, 
+        161.9, 
+        1346.1
+      ], 
+      "channel": 21
+    }, 
+    {
+      "electronE": 165.1, 
+      "scale": 0.117, 
+      "Energy": 1342.9, 
+      "ewidth": 3.2, 
+      "raw": [], 
+      "neighbours": [
+        21, 
+        23
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1459
+      ], 
+      "offset": -2738.0, 
+      "position": [
+        22, 
+        165.1, 
+        1342.9
+      ], 
+      "channel": 22
+    }, 
+    {
+      "electronE": 168.2, 
+      "scale": 0.117, 
+      "Energy": 1339.8, 
+      "ewidth": 3.2, 
+      "raw": [], 
+      "neighbours": [
+        22, 
+        24
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1453
+      ], 
+      "offset": -2744.0, 
+      "position": [
+        23, 
+        168.2, 
+        1339.8
+      ], 
+      "channel": 23
+    }, 
+    {
+      "electronE": 171.3, 
+      "scale": 0.117, 
+      "Energy": 1336.7, 
+      "ewidth": 3.1, 
+      "raw": [], 
+      "neighbours": [
+        23, 
+        25
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1444
+      ], 
+      "offset": -2744.0, 
+      "position": [
+        24, 
+        171.3, 
+        1336.7
+      ], 
+      "channel": 24
+    }, 
+    {
+      "electronE": 174.4, 
+      "scale": 0.117, 
+      "Energy": 1333.6, 
+      "ewidth": 3.1, 
+      "raw": [], 
+      "neighbours": [
+        24, 
+        26
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1460
+      ], 
+      "offset": -2736.0, 
+      "position": [
+        25, 
+        174.4, 
+        1333.6
+      ], 
+      "channel": 25
+    }, 
+    {
+      "electronE": 177.4, 
+      "scale": 0.117, 
+      "Energy": 1330.6, 
+      "ewidth": 3.0, 
+      "raw": [], 
+      "neighbours": [
+        25, 
+        27
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1445
+      ], 
+      "offset": -2746.0, 
+      "position": [
+        26, 
+        177.4, 
+        1330.6
+      ], 
+      "channel": 26
+    }, 
+    {
+      "electronE": 180.3, 
+      "scale": 0.117, 
+      "Energy": 1327.7, 
+      "ewidth": 3.0, 
+      "raw": [], 
+      "neighbours": [
+        26, 
+        28
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1461
+      ], 
+      "offset": -2744.0, 
+      "position": [
+        27, 
+        180.3, 
+        1327.7
+      ], 
+      "channel": 27
+    }, 
+    {
+      "electronE": 183.2, 
+      "scale": 0.117, 
+      "Energy": 1324.8, 
+      "ewidth": 2.9, 
+      "raw": [], 
+      "neighbours": [
+        27, 
+        29
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1446
+      ], 
+      "offset": -2740.0, 
+      "position": [
+        28, 
+        183.2, 
+        1324.8
+      ], 
+      "channel": 28
+    }, 
+    {
+      "electronE": 186.1, 
+      "scale": 0.117, 
+      "Energy": 1321.9, 
+      "ewidth": 2.9, 
+      "raw": [], 
+      "neighbours": [
+        28, 
+        30
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1462
+      ], 
+      "offset": -2726.0, 
+      "position": [
+        29, 
+        186.1, 
+        1321.9
+      ], 
+      "channel": 29
+    }, 
+    {
+      "electronE": 188.9, 
+      "scale": 0.117, 
+      "Energy": 1319.1, 
+      "ewidth": 2.8, 
+      "raw": [], 
+      "neighbours": [
+        29, 
+        31
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1447
+      ], 
+      "offset": -2738.0, 
+      "position": [
+        30, 
+        188.9, 
+        1319.1
+      ], 
+      "channel": 30
+    }, 
+    {
+      "electronE": 191.7, 
+      "scale": 0.117, 
+      "Energy": 1316.3, 
+      "ewidth": 2.7, 
+      "raw": [], 
+      "neighbours": [
+        30, 
+        32
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1463
+      ], 
+      "offset": -2730.0, 
+      "position": [
+        31, 
+        191.7, 
+        1316.3
+      ], 
+      "channel": 31
+    }, 
+    {
+      "electronE": 194.4, 
+      "scale": 0.117, 
+      "Energy": 1313.6, 
+      "ewidth": 2.7, 
+      "raw": [], 
+      "neighbours": [
+        31, 
+        33
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1464
+      ], 
+      "offset": -2753.0, 
+      "position": [
+        32, 
+        194.4, 
+        1313.6
+      ], 
+      "channel": 32
+    }, 
+    {
+      "electronE": 197.1, 
+      "scale": 0.117, 
+      "Energy": 1310.9, 
+      "ewidth": 2.7, 
+      "raw": [], 
+      "neighbours": [
+        32, 
+        34
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1480
+      ], 
+      "offset": -2756.0, 
+      "position": [
+        33, 
+        197.1, 
+        1310.9
+      ], 
+      "channel": 33
+    }, 
+    {
+      "electronE": 199.8, 
+      "scale": 0.117, 
+      "Energy": 1308.2, 
+      "ewidth": 2.7, 
+      "raw": [], 
+      "neighbours": [
+        33, 
+        35
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1465
+      ], 
+      "offset": -2757.0, 
+      "position": [
+        34, 
+        199.8, 
+        1308.2
+      ], 
+      "channel": 34
+    }, 
+    {
+      "electronE": 202.5, 
+      "scale": 0.117, 
+      "Energy": 1305.5, 
+      "ewidth": 2.8, 
+      "raw": [], 
+      "neighbours": [
+        34, 
+        36
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1481
+      ], 
+      "offset": -2752.0, 
+      "position": [
+        35, 
+        202.5, 
+        1305.5
+      ], 
+      "channel": 35
+    }, 
+    {
+      "electronE": 205.3, 
+      "scale": 0.117, 
+      "Energy": 1302.7, 
+      "ewidth": 2.8, 
+      "raw": [], 
+      "neighbours": [
+        35, 
+        37
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1466
+      ], 
+      "offset": -2757.0, 
+      "position": [
+        36, 
+        205.3, 
+        1302.7
+      ], 
+      "channel": 36
+    }, 
+    {
+      "electronE": 208.0, 
+      "scale": 0.117, 
+      "Energy": 1300.0, 
+      "ewidth": 2.8, 
+      "raw": [], 
+      "neighbours": [
+        36, 
+        38
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1482
+      ], 
+      "offset": -2756.0, 
+      "position": [
+        37, 
+        208.0, 
+        1300.0
+      ], 
+      "channel": 37
+    }, 
+    {
+      "electronE": 210.8, 
+      "scale": 0.117, 
+      "Energy": 1297.2, 
+      "ewidth": 2.8, 
+      "raw": [], 
+      "neighbours": [
+        37, 
+        39
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1467
+      ], 
+      "offset": -2753.0, 
+      "position": [
+        38, 
+        210.8, 
+        1297.2
+      ], 
+      "channel": 38
+    }, 
+    {
+      "electronE": 213.6, 
+      "scale": 0.117, 
+      "Energy": 1294.4, 
+      "ewidth": 2.8, 
+      "raw": [], 
+      "neighbours": [
+        38, 
+        40
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1483
+      ], 
+      "offset": -2750.0, 
+      "position": [
+        39, 
+        213.6, 
+        1294.4
+      ], 
+      "channel": 39
+    }, 
+    {
+      "electronE": 216.4, 
+      "scale": 0.117, 
+      "Energy": 1291.6, 
+      "ewidth": 2.9, 
+      "raw": [], 
+      "neighbours": [
+        39, 
+        41
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1468
+      ], 
+      "offset": -2754.0, 
+      "position": [
+        40, 
+        216.4, 
+        1291.6
+      ], 
+      "channel": 40
+    }, 
+    {
+      "electronE": 219.2, 
+      "scale": 0.117, 
+      "Energy": 1288.8, 
+      "ewidth": 2.9, 
+      "raw": [], 
+      "neighbours": [
+        40, 
+        42
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1484
+      ], 
+      "offset": -2754.0, 
+      "position": [
+        41, 
+        219.2, 
+        1288.8
+      ], 
+      "channel": 41
+    }, 
+    {
+      "electronE": 222.0, 
+      "scale": 0.117, 
+      "Energy": 1286.0, 
+      "ewidth": 2.9, 
+      "raw": [], 
+      "neighbours": [
+        41, 
+        43
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1469
+      ], 
+      "offset": -2752.0, 
+      "position": [
+        42, 
+        222.0, 
+        1286.0
+      ], 
+      "channel": 42
+    }, 
+    {
+      "electronE": 224.8, 
+      "scale": 0.117, 
+      "Energy": 1283.2, 
+      "ewidth": 3.0, 
+      "raw": [], 
+      "neighbours": [
+        42, 
+        44
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1485
+      ], 
+      "offset": -2755.0, 
+      "position": [
+        43, 
+        224.8, 
+        1283.2
+      ], 
+      "channel": 43
+    }, 
+    {
+      "electronE": 227.7, 
+      "scale": 0.117, 
+      "Energy": 1280.3, 
+      "ewidth": 3.0, 
+      "raw": [], 
+      "neighbours": [
+        43, 
+        45
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1470
+      ], 
+      "offset": -2748.0, 
+      "position": [
+        44, 
+        227.7, 
+        1280.3
+      ], 
+      "channel": 44
+    }, 
+    {
+      "electronE": 230.5, 
+      "scale": 0.117, 
+      "Energy": 1277.5, 
+      "ewidth": 3.0, 
+      "raw": [], 
+      "neighbours": [
+        44, 
+        46
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1486
+      ], 
+      "offset": -2755.0, 
+      "position": [
+        45, 
+        230.5, 
+        1277.5
+      ], 
+      "channel": 45
+    }, 
+    {
+      "electronE": 233.4, 
+      "scale": 0.117, 
+      "Energy": 1274.6, 
+      "ewidth": 3.0, 
+      "raw": [], 
+      "neighbours": [
+        45, 
+        47
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1471
+      ], 
+      "offset": -2745.0, 
+      "position": [
+        46, 
+        233.4, 
+        1274.6
+      ], 
+      "channel": 46
+    }, 
+    {
+      "electronE": 236.2, 
+      "scale": 0.117, 
+      "Energy": 1271.8, 
+      "ewidth": 3.1, 
+      "raw": [], 
+      "neighbours": [
+        46, 
+        48
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1487
+      ], 
+      "offset": -2757.0, 
+      "position": [
+        47, 
+        236.2, 
+        1271.8
+      ], 
+      "channel": 47
+    }, 
+    {
+      "electronE": 239.1, 
+      "scale": 0.117, 
+      "Energy": 1268.9, 
+      "ewidth": 3.0, 
+      "raw": [], 
+      "neighbours": [
+        47, 
+        49
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1472
+      ], 
+      "offset": -2746.0, 
+      "position": [
+        48, 
+        239.1, 
+        1268.9
+      ], 
+      "channel": 48
+    }, 
+    {
+      "electronE": 242.0, 
+      "scale": 0.117, 
+      "Energy": 1266.0, 
+      "ewidth": 3.0, 
+      "raw": [], 
+      "neighbours": [
+        48, 
+        50
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1488
+      ], 
+      "offset": -2741.0, 
+      "position": [
+        49, 
+        242.0, 
+        1266.0
+      ], 
+      "channel": 49
+    }, 
+    {
+      "electronE": 244.9, 
+      "scale": 0.117, 
+      "Energy": 1263.1, 
+      "ewidth": 3.0, 
+      "raw": [], 
+      "neighbours": [
+        49, 
+        51
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1473
+      ], 
+      "offset": -2750.0, 
+      "position": [
+        50, 
+        244.9, 
+        1263.1
+      ], 
+      "channel": 50
+    }, 
+    {
+      "electronE": 247.8, 
+      "scale": 0.117, 
+      "Energy": 1260.2, 
+      "ewidth": 3.0, 
+      "raw": [], 
+      "neighbours": [
+        50, 
+        52
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1489
+      ], 
+      "offset": -2734.0, 
+      "position": [
+        51, 
+        247.8, 
+        1260.2
+      ], 
+      "channel": 51
+    }, 
+    {
+      "electronE": 250.7, 
+      "scale": 0.117, 
+      "Energy": 1257.3, 
+      "ewidth": 3.1, 
+      "raw": [], 
+      "neighbours": [
+        51, 
+        53
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1474
+      ], 
+      "offset": -2752.0, 
+      "position": [
+        52, 
+        250.7, 
+        1257.3
+      ], 
+      "channel": 52
+    }, 
+    {
+      "electronE": 253.7, 
+      "scale": 0.117, 
+      "Energy": 1254.3, 
+      "ewidth": 3.1, 
+      "raw": [], 
+      "neighbours": [
+        52, 
+        54
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1490
+      ], 
+      "offset": -2741.0, 
+      "position": [
+        53, 
+        253.7, 
+        1254.3
+      ], 
+      "channel": 53
+    }, 
+    {
+      "electronE": 256.6, 
+      "scale": 0.117, 
+      "Energy": 1251.4, 
+      "ewidth": 3.1, 
+      "raw": [], 
+      "neighbours": [
+        53, 
+        55
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1475
+      ], 
+      "offset": -2749.0, 
+      "position": [
+        54, 
+        256.6, 
+        1251.4
+      ], 
+      "channel": 54
+    }, 
+    {
+      "electronE": 259.6, 
+      "scale": 0.117, 
+      "Energy": 1248.4, 
+      "ewidth": 3.1, 
+      "raw": [], 
+      "neighbours": [
+        54, 
+        56
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1491
+      ], 
+      "offset": -2742.0, 
+      "position": [
+        55, 
+        259.6, 
+        1248.4
+      ], 
+      "channel": 55
+    }, 
+    {
+      "electronE": 262.6, 
+      "scale": 0.117, 
+      "Energy": 1245.4, 
+      "ewidth": 3.1, 
+      "raw": [], 
+      "neighbours": [
+        55, 
+        57
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1476
+      ], 
+      "offset": -2751.0, 
+      "position": [
+        56, 
+        262.6, 
+        1245.4
+      ], 
+      "channel": 56
+    }, 
+    {
+      "electronE": 265.5, 
+      "scale": 0.117, 
+      "Energy": 1242.5, 
+      "ewidth": 3.1, 
+      "raw": [], 
+      "neighbours": [
+        56, 
+        58
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1492
+      ], 
+      "offset": -2733.0, 
+      "position": [
+        57, 
+        265.5, 
+        1242.5
+      ], 
+      "channel": 57
+    }, 
+    {
+      "electronE": 268.5, 
+      "scale": 0.117, 
+      "Energy": 1239.5, 
+      "ewidth": 3.1, 
+      "raw": [], 
+      "neighbours": [
+        57, 
+        59
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1477
+      ], 
+      "offset": -2743.0, 
+      "position": [
+        58, 
+        268.5, 
+        1239.5
+      ], 
+      "channel": 58
+    }, 
+    {
+      "electronE": 271.5, 
+      "scale": 0.117, 
+      "Energy": 1236.5, 
+      "ewidth": 3.1, 
+      "raw": [], 
+      "neighbours": [
+        58, 
+        60
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1493
+      ], 
+      "offset": -2736.0, 
+      "position": [
+        59, 
+        271.5, 
+        1236.5
+      ], 
+      "channel": 59
+    }, 
+    {
+      "electronE": 274.5, 
+      "scale": 0.117, 
+      "Energy": 1233.5, 
+      "ewidth": 3.1, 
+      "raw": [], 
+      "neighbours": [
+        59, 
+        61
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1478
+      ], 
+      "offset": -2733.0, 
+      "position": [
+        60, 
+        274.5, 
+        1233.5
+      ], 
+      "channel": 60
+    }, 
+    {
+      "electronE": 277.5, 
+      "scale": 0.117, 
+      "Energy": 1230.5, 
+      "ewidth": 3.2, 
+      "raw": [], 
+      "neighbours": [
+        60, 
+        62
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1494
+      ], 
+      "offset": -2739.0, 
+      "position": [
+        61, 
+        277.5, 
+        1230.5
+      ], 
+      "channel": 61
+    }, 
+    {
+      "electronE": 280.6, 
+      "scale": 0.117, 
+      "Energy": 1227.4, 
+      "ewidth": 3.2, 
+      "raw": [], 
+      "neighbours": [
+        61, 
+        63
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1479
+      ], 
+      "offset": -2742.0, 
+      "position": [
+        62, 
+        280.6, 
+        1227.4
+      ], 
+      "channel": 62
+    }, 
+    {
+      "electronE": 283.6, 
+      "scale": 0.117, 
+      "Energy": 1224.4, 
+      "ewidth": 3.2, 
+      "raw": [], 
+      "neighbours": [
+        62, 
+        64
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1495
+      ], 
+      "offset": -2732.0, 
+      "position": [
+        63, 
+        283.6, 
+        1224.4
+      ], 
+      "channel": 63
+    }, 
+    {
+      "electronE": 286.7, 
+      "scale": 0.117, 
+      "Energy": 1221.3, 
+      "ewidth": 3.3, 
+      "raw": [], 
+      "neighbours": [
+        63, 
+        65
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1496
+      ], 
+      "offset": -2748.0, 
+      "position": [
+        64, 
+        286.7, 
+        1221.3
+      ], 
+      "channel": 64
+    }, 
+    {
+      "electronE": 289.8, 
+      "scale": 0.117, 
+      "Energy": 1218.2, 
+      "ewidth": 3.3, 
+      "raw": [], 
+      "neighbours": [
+        64, 
+        66
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1512
+      ], 
+      "offset": -2748.0, 
+      "position": [
+        65, 
+        289.8, 
+        1218.2
+      ], 
+      "channel": 65
+    }, 
+    {
+      "electronE": 292.8, 
+      "scale": 0.117, 
+      "Energy": 1215.2, 
+      "ewidth": 3.3, 
+      "raw": [], 
+      "neighbours": [
+        65, 
+        67
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1497
+      ], 
+      "offset": -2749.0, 
+      "position": [
+        66, 
+        292.8, 
+        1215.2
+      ], 
+      "channel": 66
+    }, 
+    {
+      "electronE": 296.0, 
+      "scale": 0.117, 
+      "Energy": 1212.0, 
+      "ewidth": 3.3, 
+      "raw": [], 
+      "neighbours": [
+        66, 
+        68
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1513
+      ], 
+      "offset": -2751.0, 
+      "position": [
+        67, 
+        296.0, 
+        1212.0
+      ], 
+      "channel": 67
+    }, 
+    {
+      "electronE": 299.0, 
+      "scale": 0.117, 
+      "Energy": 1209.0, 
+      "ewidth": 3.2, 
+      "raw": [], 
+      "neighbours": [
+        67, 
+        69
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1498
+      ], 
+      "offset": -2752.0, 
+      "position": [
+        68, 
+        299.0, 
+        1209.0
+      ], 
+      "channel": 68
+    }, 
+    {
+      "electronE": 302.2, 
+      "scale": 0.117, 
+      "Energy": 1205.8, 
+      "ewidth": 3.2, 
+      "raw": [], 
+      "neighbours": [
+        68, 
+        70
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1514
+      ], 
+      "offset": -2753.0, 
+      "position": [
+        69, 
+        302.2, 
+        1205.8
+      ], 
+      "channel": 69
+    }, 
+    {
+      "electronE": 305.3, 
+      "scale": 0.117, 
+      "Energy": 1202.7, 
+      "ewidth": 3.3, 
+      "raw": [], 
+      "neighbours": [
+        69, 
+        71
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1499
+      ], 
+      "offset": -2750.0, 
+      "position": [
+        70, 
+        305.3, 
+        1202.7
+      ], 
+      "channel": 70
+    }, 
+    {
+      "electronE": 308.4, 
+      "scale": 0.117, 
+      "Energy": 1199.6, 
+      "ewidth": 3.3, 
+      "raw": [], 
+      "neighbours": [
+        70, 
+        72
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1515
+      ], 
+      "offset": -2752.0, 
+      "position": [
+        71, 
+        308.4, 
+        1199.6
+      ], 
+      "channel": 71
+    }, 
+    {
+      "electronE": 311.6, 
+      "scale": 0.117, 
+      "Energy": 1196.4, 
+      "ewidth": 3.3, 
+      "raw": [], 
+      "neighbours": [
+        71, 
+        73
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1500
+      ], 
+      "offset": -2748.0, 
+      "position": [
+        72, 
+        311.6, 
+        1196.4
+      ], 
+      "channel": 72
+    }, 
+    {
+      "electronE": 314.7, 
+      "scale": 0.117, 
+      "Energy": 1193.3, 
+      "ewidth": 3.4, 
+      "raw": [], 
+      "neighbours": [
+        72, 
+        74
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1516
+      ], 
+      "offset": -2749.0, 
+      "position": [
+        73, 
+        314.7, 
+        1193.3
+      ], 
+      "channel": 73
+    }, 
+    {
+      "electronE": 317.9, 
+      "scale": 0.117, 
+      "Energy": 1190.1, 
+      "ewidth": 3.4, 
+      "raw": [], 
+      "neighbours": [
+        73, 
+        75
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1501
+      ], 
+      "offset": -2742.0, 
+      "position": [
+        74, 
+        317.9, 
+        1190.1
+      ], 
+      "channel": 74
+    }, 
+    {
+      "electronE": 321.1, 
+      "scale": 0.117, 
+      "Energy": 1186.9, 
+      "ewidth": 3.4, 
+      "raw": [], 
+      "neighbours": [
+        74, 
+        76
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1517
+      ], 
+      "offset": -2753.0, 
+      "position": [
+        75, 
+        321.1, 
+        1186.9
+      ], 
+      "channel": 75
+    }, 
+    {
+      "electronE": 324.3, 
+      "scale": 0.117, 
+      "Energy": 1183.7, 
+      "ewidth": 3.4, 
+      "raw": [], 
+      "neighbours": [
+        75, 
+        77
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1502
+      ], 
+      "offset": -2740.0, 
+      "position": [
+        76, 
+        324.3, 
+        1183.7
+      ], 
+      "channel": 76
+    }, 
+    {
+      "electronE": 327.5, 
+      "scale": 0.117, 
+      "Energy": 1180.5, 
+      "ewidth": 3.3, 
+      "raw": [], 
+      "neighbours": [
+        76, 
+        78
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1518
+      ], 
+      "offset": -2744.0, 
+      "position": [
+        77, 
+        327.5, 
+        1180.5
+      ], 
+      "channel": 77
+    }, 
+    {
+      "electronE": 330.7, 
+      "scale": 0.117, 
+      "Energy": 1177.3, 
+      "ewidth": 3.4, 
+      "raw": [], 
+      "neighbours": [
+        77, 
+        79
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1503
+      ], 
+      "offset": -2741.0, 
+      "position": [
+        78, 
+        330.7, 
+        1177.3
+      ], 
+      "channel": 78
+    }, 
+    {
+      "electronE": 334.0, 
+      "scale": 0.117, 
+      "Energy": 1174.0, 
+      "ewidth": 3.4, 
+      "raw": [], 
+      "neighbours": [
+        78, 
+        80
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1519
+      ], 
+      "offset": -2750.0, 
+      "position": [
+        79, 
+        334.0, 
+        1174.0
+      ], 
+      "channel": 79
+    }, 
+    {
+      "electronE": 337.2, 
+      "scale": 0.117, 
+      "Energy": 1170.8, 
+      "ewidth": 3.4, 
+      "raw": [], 
+      "neighbours": [
+        79, 
+        81
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1504
+      ], 
+      "offset": -2743.0, 
+      "position": [
+        80, 
+        337.2, 
+        1170.8
+      ], 
+      "channel": 80
+    }, 
+    {
+      "electronE": 340.5, 
+      "scale": 0.117, 
+      "Energy": 1167.5, 
+      "ewidth": 3.4, 
+      "raw": [], 
+      "neighbours": [
+        80, 
+        82
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1520
+      ], 
+      "offset": -2741.0, 
+      "position": [
+        81, 
+        340.5, 
+        1167.5
+      ], 
+      "channel": 81
+    }, 
+    {
+      "electronE": 343.7, 
+      "scale": 0.117, 
+      "Energy": 1164.3, 
+      "ewidth": 3.5, 
+      "raw": [], 
+      "neighbours": [
+        81, 
+        83
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1505
+      ], 
+      "offset": -2743.0, 
+      "position": [
+        82, 
+        343.7, 
+        1164.3
+      ], 
+      "channel": 82
+    }, 
+    {
+      "electronE": 347.0, 
+      "scale": 0.117, 
+      "Energy": 1161.0, 
+      "ewidth": 3.5, 
+      "raw": [], 
+      "neighbours": [
+        82, 
+        84
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1521
+      ], 
+      "offset": -2736.0, 
+      "position": [
+        83, 
+        347.0, 
+        1161.0
+      ], 
+      "channel": 83
+    }, 
+    {
+      "electronE": 350.3, 
+      "scale": 0.117, 
+      "Energy": 1157.7, 
+      "ewidth": 3.5, 
+      "raw": [], 
+      "neighbours": [
+        83, 
+        85
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1506
+      ], 
+      "offset": -2749.0, 
+      "position": [
+        84, 
+        350.3, 
+        1157.7
+      ], 
+      "channel": 84
+    }, 
+    {
+      "electronE": 353.6, 
+      "scale": 0.117, 
+      "Energy": 1154.4, 
+      "ewidth": 3.5, 
+      "raw": [], 
+      "neighbours": [
+        84, 
+        86
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1522
+      ], 
+      "offset": -2739.0, 
+      "position": [
+        85, 
+        353.6, 
+        1154.4
+      ], 
+      "channel": 85
+    }, 
+    {
+      "electronE": 356.9, 
+      "scale": 0.117, 
+      "Energy": 1151.1, 
+      "ewidth": 3.4, 
+      "raw": [], 
+      "neighbours": [
+        85, 
+        87
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1507
+      ], 
+      "offset": -2745.0, 
+      "position": [
+        86, 
+        356.9, 
+        1151.1
+      ], 
+      "channel": 86
+    }, 
+    {
+      "electronE": 360.2, 
+      "scale": 0.117, 
+      "Energy": 1147.8, 
+      "ewidth": 3.5, 
+      "raw": [], 
+      "neighbours": [
+        86, 
+        88
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1523
+      ], 
+      "offset": -2742.0, 
+      "position": [
+        87, 
+        360.2, 
+        1147.8
+      ], 
+      "channel": 87
+    }, 
+    {
+      "electronE": 363.5, 
+      "scale": 0.117, 
+      "Energy": 1144.5, 
+      "ewidth": 3.5, 
+      "raw": [], 
+      "neighbours": [
+        87, 
+        89
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1508
+      ], 
+      "offset": -2750.0, 
+      "position": [
+        88, 
+        363.5, 
+        1144.5
+      ], 
+      "channel": 88
+    }, 
+    {
+      "electronE": 366.9, 
+      "scale": 0.117, 
+      "Energy": 1141.1, 
+      "ewidth": 3.5, 
+      "raw": [], 
+      "neighbours": [
+        88, 
+        90
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1524
+      ], 
+      "offset": -2735.0, 
+      "position": [
+        89, 
+        366.9, 
+        1141.1
+      ], 
+      "channel": 89
+    }, 
+    {
+      "electronE": 370.2, 
+      "scale": 0.117, 
+      "Energy": 1137.8, 
+      "ewidth": 3.6, 
+      "raw": [], 
+      "neighbours": [
+        89, 
+        91
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1509
+      ], 
+      "offset": -2731.0, 
+      "position": [
+        90, 
+        370.2, 
+        1137.8
+      ], 
+      "channel": 90
+    }, 
+    {
+      "electronE": 373.6, 
+      "scale": 0.117, 
+      "Energy": 1134.4, 
+      "ewidth": 3.6, 
+      "raw": [], 
+      "neighbours": [
+        90, 
+        92
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1525
+      ], 
+      "offset": -2737.0, 
+      "position": [
+        91, 
+        373.6, 
+        1134.4
+      ], 
+      "channel": 91
+    }, 
+    {
+      "electronE": 377.0, 
+      "scale": 0.117, 
+      "Energy": 1131.0, 
+      "ewidth": 3.6, 
+      "raw": [], 
+      "neighbours": [
+        91, 
+        93
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1510
+      ], 
+      "offset": -2728.0, 
+      "position": [
+        92, 
+        377.0, 
+        1131.0
+      ], 
+      "channel": 92
+    }, 
+    {
+      "electronE": 380.4, 
+      "scale": 0.117, 
+      "Energy": 1127.6, 
+      "ewidth": 3.6, 
+      "raw": [], 
+      "neighbours": [
+        92, 
+        94
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1526
+      ], 
+      "offset": -2731.0, 
+      "position": [
+        93, 
+        380.4, 
+        1127.6
+      ], 
+      "channel": 93
+    }, 
+    {
+      "electronE": 383.8, 
+      "scale": 0.117, 
+      "Energy": 1124.2, 
+      "ewidth": 3.6, 
+      "raw": [], 
+      "neighbours": [
+        93, 
+        95
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1511
+      ], 
+      "offset": -2731.0, 
+      "position": [
+        94, 
+        383.8, 
+        1124.2
+      ], 
+      "channel": 94
+    }, 
+    {
+      "electronE": 387.2, 
+      "scale": 0.117, 
+      "Energy": 1120.8, 
+      "ewidth": 3.6, 
+      "raw": [], 
+      "neighbours": [
+        94, 
+        96
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1527
+      ], 
+      "offset": -2728.0, 
+      "position": [
+        95, 
+        387.2, 
+        1120.8
+      ], 
+      "channel": 95
+    }, 
+    {
+      "electronE": 390.6, 
+      "scale": 0.117, 
+      "Energy": 1117.4, 
+      "ewidth": 3.6, 
+      "raw": [], 
+      "neighbours": [
+        95, 
+        97
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1528
+      ], 
+      "offset": -2736.0, 
+      "position": [
+        96, 
+        390.6, 
+        1117.4
+      ], 
+      "channel": 96
+    }, 
+    {
+      "electronE": 394.0, 
+      "scale": 0.117, 
+      "Energy": 1114.0, 
+      "ewidth": 3.6, 
+      "raw": [], 
+      "neighbours": [
+        96, 
+        98
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1544
+      ], 
+      "offset": -2751.0, 
+      "position": [
+        97, 
+        394.0, 
+        1114.0
+      ], 
+      "channel": 97
+    }, 
+    {
+      "electronE": 397.5, 
+      "scale": 0.117, 
+      "Energy": 1110.5, 
+      "ewidth": 3.6, 
+      "raw": [], 
+      "neighbours": [
+        97, 
+        99
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1529
+      ], 
+      "offset": -2748.0, 
+      "position": [
+        98, 
+        397.5, 
+        1110.5
+      ], 
+      "channel": 98
+    }, 
+    {
+      "electronE": 400.9, 
+      "scale": 0.117, 
+      "Energy": 1107.1, 
+      "ewidth": 3.7, 
+      "raw": [], 
+      "neighbours": [
+        98, 
+        100
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1545
+      ], 
+      "offset": -2745.0, 
+      "position": [
+        99, 
+        400.9, 
+        1107.1
+      ], 
+      "channel": 99
+    }, 
+    {
+      "electronE": 404.4, 
+      "scale": 0.117, 
+      "Energy": 1103.6, 
+      "ewidth": 3.7, 
+      "raw": [], 
+      "neighbours": [
+        99, 
+        101
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1530
+      ], 
+      "offset": -2749.0, 
+      "position": [
+        100, 
+        404.4, 
+        1103.6
+      ], 
+      "channel": 100
+    }, 
+    {
+      "electronE": 407.9, 
+      "scale": 0.117, 
+      "Energy": 1100.1, 
+      "ewidth": 3.7, 
+      "raw": [], 
+      "neighbours": [
+        100, 
+        102
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1546
+      ], 
+      "offset": -2748.0, 
+      "position": [
+        101, 
+        407.9, 
+        1100.1
+      ], 
+      "channel": 101
+    }, 
+    {
+      "electronE": 411.3, 
+      "scale": 0.117, 
+      "Energy": 1096.7, 
+      "ewidth": 3.8, 
+      "raw": [], 
+      "neighbours": [
+        101, 
+        103
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1531
+      ], 
+      "offset": -2737.0, 
+      "position": [
+        102, 
+        411.3, 
+        1096.7
+      ], 
+      "channel": 102
+    }, 
+    {
+      "electronE": 414.9, 
+      "scale": 0.117, 
+      "Energy": 1093.1, 
+      "ewidth": 3.7, 
+      "raw": [], 
+      "neighbours": [
+        102, 
+        104
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1547
+      ], 
+      "offset": -2737.0, 
+      "position": [
+        103, 
+        414.9, 
+        1093.1
+      ], 
+      "channel": 103
+    }, 
+    {
+      "electronE": 418.3, 
+      "scale": 0.117, 
+      "Energy": 1089.7, 
+      "ewidth": 3.7, 
+      "raw": [], 
+      "neighbours": [
+        103, 
+        105
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1532
+      ], 
+      "offset": -2736.0, 
+      "position": [
+        104, 
+        418.3, 
+        1089.7
+      ], 
+      "channel": 104
+    }, 
+    {
+      "electronE": 421.9, 
+      "scale": 0.117, 
+      "Energy": 1086.1, 
+      "ewidth": 3.7, 
+      "raw": [], 
+      "neighbours": [
+        104, 
+        106
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1548
+      ], 
+      "offset": -2745.0, 
+      "position": [
+        105, 
+        421.9, 
+        1086.1
+      ], 
+      "channel": 105
+    }, 
+    {
+      "electronE": 425.4, 
+      "scale": 0.117, 
+      "Energy": 1082.6, 
+      "ewidth": 3.7, 
+      "raw": [], 
+      "neighbours": [
+        105, 
+        107
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1533
+      ], 
+      "offset": -2737.0, 
+      "position": [
+        106, 
+        425.4, 
+        1082.6
+      ], 
+      "channel": 106
+    }, 
+    {
+      "electronE": 428.9, 
+      "scale": 0.117, 
+      "Energy": 1079.1, 
+      "ewidth": 3.7, 
+      "raw": [], 
+      "neighbours": [
+        106, 
+        108
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1549
+      ], 
+      "offset": -2737.0, 
+      "position": [
+        107, 
+        428.9, 
+        1079.1
+      ], 
+      "channel": 107
+    }, 
+    {
+      "electronE": 432.5, 
+      "scale": 0.117, 
+      "Energy": 1075.5, 
+      "ewidth": 3.8, 
+      "raw": [], 
+      "neighbours": [
+        107, 
+        109
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1534
+      ], 
+      "offset": -2733.0, 
+      "position": [
+        108, 
+        432.5, 
+        1075.5
+      ], 
+      "channel": 108
+    }, 
+    {
+      "electronE": 436.0, 
+      "scale": 0.117, 
+      "Energy": 1072.0, 
+      "ewidth": 3.8, 
+      "raw": [], 
+      "neighbours": [
+        108, 
+        110
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1550
+      ], 
+      "offset": -2733.0, 
+      "position": [
+        109, 
+        436.0, 
+        1072.0
+      ], 
+      "channel": 109
+    }, 
+    {
+      "electronE": 439.6, 
+      "scale": 0.117, 
+      "Energy": 1068.4, 
+      "ewidth": 3.8, 
+      "raw": [], 
+      "neighbours": [
+        109, 
+        111
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1535
+      ], 
+      "offset": -2729.0, 
+      "position": [
+        110, 
+        439.6, 
+        1068.4
+      ], 
+      "channel": 110
+    }, 
+    {
+      "electronE": 443.2, 
+      "scale": 0.117, 
+      "Energy": 1064.8, 
+      "ewidth": 3.9, 
+      "raw": [], 
+      "neighbours": [
+        110, 
+        112
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1551
+      ], 
+      "offset": -2737.0, 
+      "position": [
+        111, 
+        443.2, 
+        1064.8
+      ], 
+      "channel": 111
+    }, 
+    {
+      "electronE": 446.7, 
+      "scale": 0.117, 
+      "Energy": 1061.3, 
+      "ewidth": 3.9, 
+      "raw": [], 
+      "neighbours": [
+        111, 
+        113
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1536
+      ], 
+      "offset": -2733.0, 
+      "position": [
+        112, 
+        446.7, 
+        1061.3
+      ], 
+      "channel": 112
+    }, 
+    {
+      "electronE": 450.4, 
+      "scale": 0.117, 
+      "Energy": 1057.6, 
+      "ewidth": 3.8, 
+      "raw": [], 
+      "neighbours": [
+        112, 
+        114
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1552
+      ], 
+      "offset": -2724.0, 
+      "position": [
+        113, 
+        450.4, 
+        1057.6
+      ], 
+      "channel": 113
+    }, 
+    {
+      "electronE": 453.9, 
+      "scale": 0.117, 
+      "Energy": 1054.1, 
+      "ewidth": 3.8, 
+      "raw": [], 
+      "neighbours": [
+        113, 
+        115
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1537
+      ], 
+      "offset": -2738.0, 
+      "position": [
+        114, 
+        453.9, 
+        1054.1
+      ], 
+      "channel": 114
+    }, 
+    {
+      "electronE": 457.6, 
+      "scale": 0.117, 
+      "Energy": 1050.4, 
+      "ewidth": 3.8, 
+      "raw": [], 
+      "neighbours": [
+        114, 
+        116
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1553
+      ], 
+      "offset": -2725.0, 
+      "position": [
+        115, 
+        457.6, 
+        1050.4
+      ], 
+      "channel": 115
+    }, 
+    {
+      "electronE": 461.2, 
+      "scale": 0.117, 
+      "Energy": 1046.8, 
+      "ewidth": 3.9, 
+      "raw": [], 
+      "neighbours": [
+        115, 
+        117
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1538
+      ], 
+      "offset": -2740.0, 
+      "position": [
+        116, 
+        461.2, 
+        1046.8
+      ], 
+      "channel": 116
+    }, 
+    {
+      "electronE": 464.8, 
+      "scale": 0.117, 
+      "Energy": 1043.2, 
+      "ewidth": 3.9, 
+      "raw": [], 
+      "neighbours": [
+        116, 
+        118
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1554
+      ], 
+      "offset": -2733.0, 
+      "position": [
+        117, 
+        464.8, 
+        1043.2
+      ], 
+      "channel": 117
+    }, 
+    {
+      "electronE": 468.5, 
+      "scale": 0.117, 
+      "Energy": 1039.5, 
+      "ewidth": 3.9, 
+      "raw": [], 
+      "neighbours": [
+        117, 
+        119
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1539
+      ], 
+      "offset": -2734.0, 
+      "position": [
+        118, 
+        468.5, 
+        1039.5
+      ], 
+      "channel": 118
+    }, 
+    {
+      "electronE": 472.1, 
+      "scale": 0.117, 
+      "Energy": 1035.9, 
+      "ewidth": 3.9, 
+      "raw": [], 
+      "neighbours": [
+        118, 
+        120
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1555
+      ], 
+      "offset": -2735.0, 
+      "position": [
+        119, 
+        472.1, 
+        1035.9
+      ], 
+      "channel": 119
+    }, 
+    {
+      "electronE": 475.8, 
+      "scale": 0.117, 
+      "Energy": 1032.2, 
+      "ewidth": 4.0, 
+      "raw": [], 
+      "neighbours": [
+        119, 
+        121
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1540
+      ], 
+      "offset": -2742.0, 
+      "position": [
+        120, 
+        475.8, 
+        1032.2
+      ], 
+      "channel": 120
+    }, 
+    {
+      "electronE": 479.4, 
+      "scale": 0.117, 
+      "Energy": 1028.6, 
+      "ewidth": 4.0, 
+      "raw": [], 
+      "neighbours": [
+        120, 
+        122
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1556
+      ], 
+      "offset": -2728.0, 
+      "position": [
+        121, 
+        479.4, 
+        1028.6
+      ], 
+      "channel": 121
+    }, 
+    {
+      "electronE": 483.1, 
+      "scale": 0.117, 
+      "Energy": 1024.9, 
+      "ewidth": 4.0, 
+      "raw": [], 
+      "neighbours": [
+        121, 
+        123
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1541
+      ], 
+      "offset": -2733.0, 
+      "position": [
+        122, 
+        483.1, 
+        1024.9
+      ], 
+      "channel": 122
+    }, 
+    {
+      "electronE": 486.9, 
+      "scale": 0.117, 
+      "Energy": 1021.1, 
+      "ewidth": 4.0, 
+      "raw": [], 
+      "neighbours": [
+        122, 
+        124
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1557
+      ], 
+      "offset": -2727.0, 
+      "position": [
+        123, 
+        486.9, 
+        1021.1
+      ], 
+      "channel": 123
+    }, 
+    {
+      "electronE": 490.5, 
+      "scale": 0.117, 
+      "Energy": 1017.5, 
+      "ewidth": 3.9, 
+      "raw": [], 
+      "neighbours": [
+        123, 
+        125
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1542
+      ], 
+      "offset": -2725.0, 
+      "position": [
+        124, 
+        490.5, 
+        1017.5
+      ], 
+      "channel": 124
+    }, 
+    {
+      "electronE": 494.2, 
+      "scale": 0.117, 
+      "Energy": 1013.8, 
+      "ewidth": 3.9, 
+      "raw": [], 
+      "neighbours": [
+        124, 
+        126
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1558
+      ], 
+      "offset": -2728.0, 
+      "position": [
+        125, 
+        494.2, 
+        1013.8
+      ], 
+      "channel": 125
+    }, 
+    {
+      "electronE": 497.9, 
+      "scale": 0.117, 
+      "Energy": 1010.1, 
+      "ewidth": 4.0, 
+      "raw": [], 
+      "neighbours": [
+        125, 
+        127
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1543
+      ], 
+      "offset": -2737.0, 
+      "position": [
+        126, 
+        497.9, 
+        1010.1
+      ], 
+      "channel": 126
+    }, 
+    {
+      "electronE": 501.7, 
+      "scale": 0.117, 
+      "Energy": 1006.3, 
+      "ewidth": 4.0, 
+      "raw": [], 
+      "neighbours": [
+        126, 
+        128
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1559
+      ], 
+      "offset": -2724.0, 
+      "position": [
+        127, 
+        501.7, 
+        1006.3
+      ], 
+      "channel": 127
+    }, 
+    {
+      "electronE": 505.4, 
+      "scale": 0.117, 
+      "Energy": 1002.6, 
+      "ewidth": 4.0, 
+      "raw": [], 
+      "neighbours": [
+        127, 
+        129
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1560
+      ], 
+      "offset": -2713.0, 
+      "position": [
+        128, 
+        505.4, 
+        1002.6
+      ], 
+      "channel": 128
+    }, 
+    {
+      "electronE": 509.1, 
+      "scale": 0.117, 
+      "Energy": 998.9, 
+      "ewidth": 4.0, 
+      "raw": [], 
+      "neighbours": [
+        128, 
+        130
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1576
+      ], 
+      "offset": -2724.0, 
+      "position": [
+        129, 
+        509.1, 
+        998.9
+      ], 
+      "channel": 129
+    }, 
+    {
+      "electronE": 512.9, 
+      "scale": 0.117, 
+      "Energy": 995.1, 
+      "ewidth": 4.1, 
+      "raw": [], 
+      "neighbours": [
+        129, 
+        131
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1561
+      ], 
+      "offset": -2722.0, 
+      "position": [
+        130, 
+        512.9, 
+        995.1
+      ], 
+      "channel": 130
+    }, 
+    {
+      "electronE": 516.7, 
+      "scale": 0.117, 
+      "Energy": 991.3, 
+      "ewidth": 4.1, 
+      "raw": [], 
+      "neighbours": [
+        130, 
+        132
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1577
+      ], 
+      "offset": -2724.0, 
+      "position": [
+        131, 
+        516.7, 
+        991.3
+      ], 
+      "channel": 131
+    }, 
+    {
+      "electronE": 520.4, 
+      "scale": 0.117, 
+      "Energy": 987.6, 
+      "ewidth": 4.1, 
+      "raw": [], 
+      "neighbours": [
+        131, 
+        133
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1562
+      ], 
+      "offset": -2725.0, 
+      "position": [
+        132, 
+        520.4, 
+        987.6
+      ], 
+      "channel": 132
+    }, 
+    {
+      "electronE": 524.3, 
+      "scale": 0.117, 
+      "Energy": 983.7, 
+      "ewidth": 4.1, 
+      "raw": [], 
+      "neighbours": [
+        132, 
+        134
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1578
+      ], 
+      "offset": -2725.0, 
+      "position": [
+        133, 
+        524.3, 
+        983.7
+      ], 
+      "channel": 133
+    }, 
+    {
+      "electronE": 528.0, 
+      "scale": 0.117, 
+      "Energy": 980.0, 
+      "ewidth": 4.0, 
+      "raw": [], 
+      "neighbours": [
+        133, 
+        135
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1563
+      ], 
+      "offset": -2724.0, 
+      "position": [
+        134, 
+        528.0, 
+        980.0
+      ], 
+      "channel": 134
+    }, 
+    {
+      "electronE": 531.8, 
+      "scale": 0.117, 
+      "Energy": 976.2, 
+      "ewidth": 4.0, 
+      "raw": [], 
+      "neighbours": [
+        134, 
+        136
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1579
+      ], 
+      "offset": -2725.0, 
+      "position": [
+        135, 
+        531.8, 
+        976.2
+      ], 
+      "channel": 135
+    }, 
+    {
+      "electronE": 535.6, 
+      "scale": 0.117, 
+      "Energy": 972.4, 
+      "ewidth": 4.1, 
+      "raw": [], 
+      "neighbours": [
+        135, 
+        137
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1564
+      ], 
+      "offset": -2728.0, 
+      "position": [
+        136, 
+        535.6, 
+        972.4
+      ], 
+      "channel": 136
+    }, 
+    {
+      "electronE": 539.4, 
+      "scale": 0.117, 
+      "Energy": 968.6, 
+      "ewidth": 4.1, 
+      "raw": [], 
+      "neighbours": [
+        136, 
+        138
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1580
+      ], 
+      "offset": -2727.0, 
+      "position": [
+        137, 
+        539.4, 
+        968.6
+      ], 
+      "channel": 137
+    }, 
+    {
+      "electronE": 543.2, 
+      "scale": 0.117, 
+      "Energy": 964.8, 
+      "ewidth": 4.1, 
+      "raw": [], 
+      "neighbours": [
+        137, 
+        139
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1565
+      ], 
+      "offset": -2726.0, 
+      "position": [
+        138, 
+        543.2, 
+        964.8
+      ], 
+      "channel": 138
+    }, 
+    {
+      "electronE": 547.1, 
+      "scale": 0.117, 
+      "Energy": 960.9, 
+      "ewidth": 4.1, 
+      "raw": [], 
+      "neighbours": [
+        138, 
+        140
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1581
+      ], 
+      "offset": -2726.0, 
+      "position": [
+        139, 
+        547.1, 
+        960.9
+      ], 
+      "channel": 139
+    }, 
+    {
+      "electronE": 550.9, 
+      "scale": 0.117, 
+      "Energy": 957.1, 
+      "ewidth": 4.2, 
+      "raw": [], 
+      "neighbours": [
+        139, 
+        141
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1566
+      ], 
+      "offset": -2723.0, 
+      "position": [
+        140, 
+        550.9, 
+        957.1
+      ], 
+      "channel": 140
+    }, 
+    {
+      "electronE": 554.8, 
+      "scale": 0.117, 
+      "Energy": 953.2, 
+      "ewidth": 4.2, 
+      "raw": [], 
+      "neighbours": [
+        140, 
+        142
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1582
+      ], 
+      "offset": -2726.0, 
+      "position": [
+        141, 
+        554.8, 
+        953.2
+      ], 
+      "channel": 141
+    }, 
+    {
+      "electronE": 558.6, 
+      "scale": 0.117, 
+      "Energy": 949.4, 
+      "ewidth": 4.2, 
+      "raw": [], 
+      "neighbours": [
+        141, 
+        143
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1567
+      ], 
+      "offset": -2721.0, 
+      "position": [
+        142, 
+        558.6, 
+        949.4
+      ], 
+      "channel": 142
+    }, 
+    {
+      "electronE": 562.5, 
+      "scale": 0.117, 
+      "Energy": 945.5, 
+      "ewidth": 4.3, 
+      "raw": [], 
+      "neighbours": [
+        142, 
+        144
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1583
+      ], 
+      "offset": -2729.0, 
+      "position": [
+        143, 
+        562.5, 
+        945.5
+      ], 
+      "channel": 143
+    }, 
+    {
+      "electronE": 566.4, 
+      "scale": 0.117, 
+      "Energy": 941.6, 
+      "ewidth": 4.2, 
+      "raw": [], 
+      "neighbours": [
+        143, 
+        145
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1568
+      ], 
+      "offset": -2723.0, 
+      "position": [
+        144, 
+        566.4, 
+        941.6
+      ], 
+      "channel": 144
+    }, 
+    {
+      "electronE": 570.2, 
+      "scale": 0.117, 
+      "Energy": 937.8, 
+      "ewidth": 4.1, 
+      "raw": [], 
+      "neighbours": [
+        144, 
+        146
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1584
+      ], 
+      "offset": -2720.0, 
+      "position": [
+        145, 
+        570.2, 
+        937.8
+      ], 
+      "channel": 145
+    }, 
+    {
+      "electronE": 574.1, 
+      "scale": 0.117, 
+      "Energy": 933.9, 
+      "ewidth": 4.1, 
+      "raw": [], 
+      "neighbours": [
+        145, 
+        147
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1569
+      ], 
+      "offset": -2724.0, 
+      "position": [
+        146, 
+        574.1, 
+        933.9
+      ], 
+      "channel": 146
+    }, 
+    {
+      "electronE": 578.0, 
+      "scale": 0.117, 
+      "Energy": 930.0, 
+      "ewidth": 4.2, 
+      "raw": [], 
+      "neighbours": [
+        146, 
+        148
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1585
+      ], 
+      "offset": -2717.0, 
+      "position": [
+        147, 
+        578.0, 
+        930.0
+      ], 
+      "channel": 147
+    }, 
+    {
+      "electronE": 581.9, 
+      "scale": 0.117, 
+      "Energy": 926.1, 
+      "ewidth": 4.2, 
+      "raw": [], 
+      "neighbours": [
+        147, 
+        149
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1570
+      ], 
+      "offset": -2727.0, 
+      "position": [
+        148, 
+        581.9, 
+        926.1
+      ], 
+      "channel": 148
+    }, 
+    {
+      "electronE": 585.8, 
+      "scale": 0.117, 
+      "Energy": 922.2, 
+      "ewidth": 4.2, 
+      "raw": [], 
+      "neighbours": [
+        148, 
+        150
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1586
+      ], 
+      "offset": -2723.0, 
+      "position": [
+        149, 
+        585.8, 
+        922.2
+      ], 
+      "channel": 149
+    }, 
+    {
+      "electronE": 589.7, 
+      "scale": 0.117, 
+      "Energy": 918.3, 
+      "ewidth": 4.2, 
+      "raw": [], 
+      "neighbours": [
+        149, 
+        151
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1571
+      ], 
+      "offset": -2725.0, 
+      "position": [
+        150, 
+        589.7, 
+        918.3
+      ], 
+      "channel": 150
+    }, 
+    {
+      "electronE": 593.7, 
+      "scale": 0.117, 
+      "Energy": 914.3, 
+      "ewidth": 4.3, 
+      "raw": [], 
+      "neighbours": [
+        150, 
+        152
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1587
+      ], 
+      "offset": -2721.0, 
+      "position": [
+        151, 
+        593.7, 
+        914.3
+      ], 
+      "channel": 151
+    }, 
+    {
+      "electronE": 597.6, 
+      "scale": 0.117, 
+      "Energy": 910.4, 
+      "ewidth": 4.3, 
+      "raw": [], 
+      "neighbours": [
+        151, 
+        153
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1572
+      ], 
+      "offset": -2729.0, 
+      "position": [
+        152, 
+        597.6, 
+        910.4
+      ], 
+      "channel": 152
+    }, 
+    {
+      "electronE": 601.5, 
+      "scale": 0.117, 
+      "Energy": 906.5, 
+      "ewidth": 4.3, 
+      "raw": [], 
+      "neighbours": [
+        152, 
+        154
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1588
+      ], 
+      "offset": -2718.0, 
+      "position": [
+        153, 
+        601.5, 
+        906.5
+      ], 
+      "channel": 153
+    }, 
+    {
+      "electronE": 605.5, 
+      "scale": 0.117, 
+      "Energy": 902.5, 
+      "ewidth": 4.4, 
+      "raw": [], 
+      "neighbours": [
+        153, 
+        155
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1573
+      ], 
+      "offset": -2724.0, 
+      "position": [
+        154, 
+        605.5, 
+        902.5
+      ], 
+      "channel": 154
+    }, 
+    {
+      "electronE": 609.5, 
+      "scale": 0.117, 
+      "Energy": 898.5, 
+      "ewidth": 4.3, 
+      "raw": [], 
+      "neighbours": [
+        154, 
+        156
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1589
+      ], 
+      "offset": -2718.0, 
+      "position": [
+        155, 
+        609.5, 
+        898.5
+      ], 
+      "channel": 155
+    }, 
+    {
+      "electronE": 613.4, 
+      "scale": 0.117, 
+      "Energy": 894.6, 
+      "ewidth": 4.2, 
+      "raw": [], 
+      "neighbours": [
+        155, 
+        157
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1574
+      ], 
+      "offset": -2717.0, 
+      "position": [
+        156, 
+        613.4, 
+        894.6
+      ], 
+      "channel": 156
+    }, 
+    {
+      "electronE": 617.4, 
+      "scale": 0.117, 
+      "Energy": 890.6, 
+      "ewidth": 4.2, 
+      "raw": [], 
+      "neighbours": [
+        156, 
+        158
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1590
+      ], 
+      "offset": -2714.0, 
+      "position": [
+        157, 
+        617.4, 
+        890.6
+      ], 
+      "channel": 157
+    }, 
+    {
+      "electronE": 621.3, 
+      "scale": 0.117, 
+      "Energy": 886.7, 
+      "ewidth": 4.3, 
+      "raw": [], 
+      "neighbours": [
+        157, 
+        159
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1575
+      ], 
+      "offset": -2718.0, 
+      "position": [
+        158, 
+        621.3, 
+        886.7
+      ], 
+      "channel": 158
+    }, 
+    {
+      "electronE": 625.3, 
+      "scale": 0.117, 
+      "Energy": 882.7, 
+      "ewidth": 4.3, 
+      "raw": [], 
+      "neighbours": [
+        158, 
+        160
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1591
+      ], 
+      "offset": -2716.0, 
+      "position": [
+        159, 
+        625.3, 
+        882.7
+      ], 
+      "channel": 159
+    }, 
+    {
+      "electronE": 629.3, 
+      "scale": 0.117, 
+      "Energy": 878.7, 
+      "ewidth": 4.3, 
+      "raw": [], 
+      "neighbours": [
+        159, 
+        161
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1592
+      ], 
+      "offset": -2714.0, 
+      "position": [
+        160, 
+        629.3, 
+        878.7
+      ], 
+      "channel": 160
+    }, 
+    {
+      "electronE": 633.3, 
+      "scale": 0.117, 
+      "Energy": 874.7, 
+      "ewidth": 4.3, 
+      "raw": [], 
+      "neighbours": [
+        160, 
+        162
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1608
+      ], 
+      "offset": -2726.0, 
+      "position": [
+        161, 
+        633.3, 
+        874.7
+      ], 
+      "channel": 161
+    }, 
+    {
+      "electronE": 637.3, 
+      "scale": 0.117, 
+      "Energy": 870.7, 
+      "ewidth": 4.4, 
+      "raw": [], 
+      "neighbours": [
+        161, 
+        163
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1593
+      ], 
+      "offset": -2718.0, 
+      "position": [
+        162, 
+        637.3, 
+        870.7
+      ], 
+      "channel": 162
+    }, 
+    {
+      "electronE": 641.3, 
+      "scale": 0.117, 
+      "Energy": 866.7, 
+      "ewidth": 4.4, 
+      "raw": [], 
+      "neighbours": [
+        162, 
+        164
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1609
+      ], 
+      "offset": -2722.0, 
+      "position": [
+        163, 
+        641.3, 
+        866.7
+      ], 
+      "channel": 163
+    }, 
+    {
+      "electronE": 645.3, 
+      "scale": 0.117, 
+      "Energy": 862.7, 
+      "ewidth": 4.4, 
+      "raw": [], 
+      "neighbours": [
+        163, 
+        165
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1594
+      ], 
+      "offset": -2720.0, 
+      "position": [
+        164, 
+        645.3, 
+        862.7
+      ], 
+      "channel": 164
+    }, 
+    {
+      "electronE": 649.3, 
+      "scale": 0.117, 
+      "Energy": 858.7, 
+      "ewidth": 4.5, 
+      "raw": [], 
+      "neighbours": [
+        164, 
+        166
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1610
+      ], 
+      "offset": -2717.0, 
+      "position": [
+        165, 
+        649.3, 
+        858.7
+      ], 
+      "channel": 165
+    }, 
+    {
+      "electronE": 653.4, 
+      "scale": 0.117, 
+      "Energy": 854.6, 
+      "ewidth": 4.4, 
+      "raw": [], 
+      "neighbours": [
+        165, 
+        167
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1595
+      ], 
+      "offset": -2719.0, 
+      "position": [
+        166, 
+        653.4, 
+        854.6
+      ], 
+      "channel": 166
+    }, 
+    {
+      "electronE": 657.4, 
+      "scale": 0.117, 
+      "Energy": 850.6, 
+      "ewidth": 4.3, 
+      "raw": [], 
+      "neighbours": [
+        166, 
+        168
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1611
+      ], 
+      "offset": -2722.0, 
+      "position": [
+        167, 
+        657.4, 
+        850.6
+      ], 
+      "channel": 167
+    }, 
+    {
+      "electronE": 661.4, 
+      "scale": 0.117, 
+      "Energy": 846.6, 
+      "ewidth": 4.3, 
+      "raw": [], 
+      "neighbours": [
+        167, 
+        169
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1596
+      ], 
+      "offset": -2720.0, 
+      "position": [
+        168, 
+        661.4, 
+        846.6
+      ], 
+      "channel": 168
+    }, 
+    {
+      "electronE": 665.5, 
+      "scale": 0.117, 
+      "Energy": 842.5, 
+      "ewidth": 4.3, 
+      "raw": [], 
+      "neighbours": [
+        168, 
+        170
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1612
+      ], 
+      "offset": -2732.0, 
+      "position": [
+        169, 
+        665.5, 
+        842.5
+      ], 
+      "channel": 169
+    }, 
+    {
+      "electronE": 669.5, 
+      "scale": 0.117, 
+      "Energy": 838.5, 
+      "ewidth": 4.4, 
+      "raw": [], 
+      "neighbours": [
+        169, 
+        171
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1597
+      ], 
+      "offset": -2718.0, 
+      "position": [
+        170, 
+        669.5, 
+        838.5
+      ], 
+      "channel": 170
+    }, 
+    {
+      "electronE": 673.6, 
+      "scale": 0.117, 
+      "Energy": 834.4, 
+      "ewidth": 4.4, 
+      "raw": [], 
+      "neighbours": [
+        170, 
+        172
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1613
+      ], 
+      "offset": -2732.0, 
+      "position": [
+        171, 
+        673.6, 
+        834.4
+      ], 
+      "channel": 171
+    }, 
+    {
+      "electronE": 677.6, 
+      "scale": 0.117, 
+      "Energy": 830.4, 
+      "ewidth": 4.4, 
+      "raw": [], 
+      "neighbours": [
+        171, 
+        173
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1598
+      ], 
+      "offset": -2717.0, 
+      "position": [
+        172, 
+        677.6, 
+        830.4
+      ], 
+      "channel": 172
+    }, 
+    {
+      "electronE": 681.7, 
+      "scale": 0.117, 
+      "Energy": 826.3, 
+      "ewidth": 4.5, 
+      "raw": [], 
+      "neighbours": [
+        172, 
+        174
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1614
+      ], 
+      "offset": -2724.0, 
+      "position": [
+        173, 
+        681.7, 
+        826.3
+      ], 
+      "channel": 173
+    }, 
+    {
+      "electronE": 685.8, 
+      "scale": 0.117, 
+      "Energy": 822.2, 
+      "ewidth": 4.5, 
+      "raw": [], 
+      "neighbours": [
+        173, 
+        175
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1599
+      ], 
+      "offset": -2712.0, 
+      "position": [
+        174, 
+        685.8, 
+        822.2
+      ], 
+      "channel": 174
+    }, 
+    {
+      "electronE": 689.8, 
+      "scale": 0.117, 
+      "Energy": 818.2, 
+      "ewidth": 4.5, 
+      "raw": [], 
+      "neighbours": [
+        174, 
+        176
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1615
+      ], 
+      "offset": -2726.0, 
+      "position": [
+        175, 
+        689.8, 
+        818.2
+      ], 
+      "channel": 175
+    }, 
+    {
+      "electronE": 693.9, 
+      "scale": 0.117, 
+      "Energy": 814.1, 
+      "ewidth": 4.5, 
+      "raw": [], 
+      "neighbours": [
+        175, 
+        177
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1600
+      ], 
+      "offset": -2725.0, 
+      "position": [
+        176, 
+        693.9, 
+        814.1
+      ], 
+      "channel": 176
+    }, 
+    {
+      "electronE": 698.1, 
+      "scale": 0.117, 
+      "Energy": 809.9, 
+      "ewidth": 4.5, 
+      "raw": [], 
+      "neighbours": [
+        176, 
+        178
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1616
+      ], 
+      "offset": -2718.0, 
+      "position": [
+        177, 
+        698.1, 
+        809.9
+      ], 
+      "channel": 177
+    }, 
+    {
+      "electronE": 702.1, 
+      "scale": 0.117, 
+      "Energy": 805.9, 
+      "ewidth": 4.4, 
+      "raw": [], 
+      "neighbours": [
+        177, 
+        179
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1601
+      ], 
+      "offset": -2724.0, 
+      "position": [
+        178, 
+        702.1, 
+        805.9
+      ], 
+      "channel": 178
+    }, 
+    {
+      "electronE": 706.2, 
+      "scale": 0.117, 
+      "Energy": 801.8, 
+      "ewidth": 4.4, 
+      "raw": [], 
+      "neighbours": [
+        178, 
+        180
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1617
+      ], 
+      "offset": -2712.0, 
+      "position": [
+        179, 
+        706.2, 
+        801.8
+      ], 
+      "channel": 179
+    }, 
+    {
+      "electronE": 710.3, 
+      "scale": 0.117, 
+      "Energy": 797.7, 
+      "ewidth": 4.4, 
+      "raw": [], 
+      "neighbours": [
+        179, 
+        181
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1602
+      ], 
+      "offset": -2729.0, 
+      "position": [
+        180, 
+        710.3, 
+        797.7
+      ], 
+      "channel": 180
+    }, 
+    {
+      "electronE": 714.4, 
+      "scale": 0.117, 
+      "Energy": 793.6, 
+      "ewidth": 4.5, 
+      "raw": [], 
+      "neighbours": [
+        180, 
+        182
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1618
+      ], 
+      "offset": -2722.0, 
+      "position": [
+        181, 
+        714.4, 
+        793.6
+      ], 
+      "channel": 181
+    }, 
+    {
+      "electronE": 718.5, 
+      "scale": 0.117, 
+      "Energy": 789.5, 
+      "ewidth": 4.5, 
+      "raw": [], 
+      "neighbours": [
+        181, 
+        183
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1603
+      ], 
+      "offset": -2725.0, 
+      "position": [
+        182, 
+        718.5, 
+        789.5
+      ], 
+      "channel": 182
+    }, 
+    {
+      "electronE": 722.7, 
+      "scale": 0.117, 
+      "Energy": 785.3, 
+      "ewidth": 4.5, 
+      "raw": [], 
+      "neighbours": [
+        182, 
+        184
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1619
+      ], 
+      "offset": -2724.0, 
+      "position": [
+        183, 
+        722.7, 
+        785.3
+      ], 
+      "channel": 183
+    }, 
+    {
+      "electronE": 726.8, 
+      "scale": 0.117, 
+      "Energy": 781.2, 
+      "ewidth": 4.6, 
+      "raw": [], 
+      "neighbours": [
+        183, 
+        185
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1604
+      ], 
+      "offset": -2730.0, 
+      "position": [
+        184, 
+        726.8, 
+        781.2
+      ], 
+      "channel": 184
+    }, 
+    {
+      "electronE": 730.9, 
+      "scale": 0.117, 
+      "Energy": 777.1, 
+      "ewidth": 4.6, 
+      "raw": [], 
+      "neighbours": [
+        184, 
+        186
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1620
+      ], 
+      "offset": -2718.0, 
+      "position": [
+        185, 
+        730.9, 
+        777.1
+      ], 
+      "channel": 185
+    }, 
+    {
+      "electronE": 735.1, 
+      "scale": 0.117, 
+      "Energy": 772.9, 
+      "ewidth": 4.6, 
+      "raw": [], 
+      "neighbours": [
+        185, 
+        187
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1605
+      ], 
+      "offset": -2725.0, 
+      "position": [
+        186, 
+        735.1, 
+        772.9
+      ], 
+      "channel": 186
+    }, 
+    {
+      "electronE": 739.2, 
+      "scale": 0.117, 
+      "Energy": 768.8, 
+      "ewidth": 4.6, 
+      "raw": [], 
+      "neighbours": [
+        186, 
+        188
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1621
+      ], 
+      "offset": -2720.0, 
+      "position": [
+        187, 
+        739.2, 
+        768.8
+      ], 
+      "channel": 187
+    }, 
+    {
+      "electronE": 743.4, 
+      "scale": 0.117, 
+      "Energy": 764.6, 
+      "ewidth": 4.5, 
+      "raw": [], 
+      "neighbours": [
+        187, 
+        189
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1606
+      ], 
+      "offset": -2721.0, 
+      "position": [
+        188, 
+        743.4, 
+        764.6
+      ], 
+      "channel": 188
+    }, 
+    {
+      "electronE": 747.5, 
+      "scale": 0.117, 
+      "Energy": 760.5, 
+      "ewidth": 4.5, 
+      "raw": [], 
+      "neighbours": [
+        188, 
+        190
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1622
+      ], 
+      "offset": -2717.0, 
+      "position": [
+        189, 
+        747.5, 
+        760.5
+      ], 
+      "channel": 189
+    }, 
+    {
+      "electronE": 751.6, 
+      "scale": 0.117, 
+      "Energy": 756.4, 
+      "ewidth": 4.5, 
+      "raw": [], 
+      "neighbours": [
+        189, 
+        191
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1607
+      ], 
+      "offset": -2716.0, 
+      "position": [
+        190, 
+        751.6, 
+        756.4
+      ], 
+      "channel": 190
+    }, 
+    {
+      "electronE": 755.8, 
+      "scale": 0.117, 
+      "Energy": 752.2, 
+      "ewidth": 4.5, 
+      "raw": [], 
+      "neighbours": [
+        190, 
+        192
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1623
+      ], 
+      "offset": -2711.0, 
+      "position": [
+        191, 
+        755.8, 
+        752.2
+      ], 
+      "channel": 191
+    }, 
+    {
+      "electronE": 760.0, 
+      "scale": 0.117, 
+      "Energy": 748.0, 
+      "ewidth": 4.5, 
+      "raw": [], 
+      "neighbours": [
+        191, 
+        193
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1624
+      ], 
+      "offset": -2713.0, 
+      "position": [
+        192, 
+        760.0, 
+        748.0
+      ], 
+      "channel": 192
+    }, 
+    {
+      "electronE": 764.1, 
+      "scale": 0.117, 
+      "Energy": 743.9, 
+      "ewidth": 4.6, 
+      "raw": [], 
+      "neighbours": [
+        192, 
+        194
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1640
+      ], 
+      "offset": -2725.0, 
+      "position": [
+        193, 
+        764.1, 
+        743.9
+      ], 
+      "channel": 193
+    }, 
+    {
+      "electronE": 768.3, 
+      "scale": 0.117, 
+      "Energy": 739.7, 
+      "ewidth": 4.6, 
+      "raw": [], 
+      "neighbours": [
+        193, 
+        195
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1625
+      ], 
+      "offset": -2720.0, 
+      "position": [
+        194, 
+        768.3, 
+        739.7
+      ], 
+      "channel": 194
+    }, 
+    {
+      "electronE": 772.5, 
+      "scale": 0.117, 
+      "Energy": 735.5, 
+      "ewidth": 4.6, 
+      "raw": [], 
+      "neighbours": [
+        194, 
+        196
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1641
+      ], 
+      "offset": -2727.0, 
+      "position": [
+        195, 
+        772.5, 
+        735.5
+      ], 
+      "channel": 195
+    }, 
+    {
+      "electronE": 776.6, 
+      "scale": 0.117, 
+      "Energy": 731.4, 
+      "ewidth": 4.6, 
+      "raw": [], 
+      "neighbours": [
+        195, 
+        197
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1626
+      ], 
+      "offset": -2740.0, 
+      "position": [
+        196, 
+        776.6, 
+        731.4
+      ], 
+      "channel": 196
+    }, 
+    {
+      "electronE": 780.8, 
+      "scale": 0.117, 
+      "Energy": 727.2, 
+      "ewidth": 4.7, 
+      "raw": [], 
+      "neighbours": [
+        196, 
+        198
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1642
+      ], 
+      "offset": -2731.0, 
+      "position": [
+        197, 
+        780.8, 
+        727.2
+      ], 
+      "channel": 197
+    }, 
+    {
+      "electronE": 785.0, 
+      "scale": 0.117, 
+      "Energy": 723.0, 
+      "ewidth": 4.7, 
+      "raw": [], 
+      "neighbours": [
+        197, 
+        199
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1627
+      ], 
+      "offset": -2736.0, 
+      "position": [
+        198, 
+        785.0, 
+        723.0
+      ], 
+      "channel": 198
+    }, 
+    {
+      "electronE": 789.2, 
+      "scale": 0.117, 
+      "Energy": 718.8, 
+      "ewidth": 4.7, 
+      "raw": [], 
+      "neighbours": [
+        198, 
+        200
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1643
+      ], 
+      "offset": -2729.0, 
+      "position": [
+        199, 
+        789.2, 
+        718.8
+      ], 
+      "channel": 199
+    }, 
+    {
+      "electronE": 793.5, 
+      "scale": 0.117, 
+      "Energy": 714.5, 
+      "ewidth": 4.6, 
+      "raw": [], 
+      "neighbours": [
+        199, 
+        201
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1628
+      ], 
+      "offset": -2744.0, 
+      "position": [
+        200, 
+        793.5, 
+        714.5
+      ], 
+      "channel": 200
+    }, 
+    {
+      "electronE": 797.6, 
+      "scale": 0.117, 
+      "Energy": 710.4, 
+      "ewidth": 4.5, 
+      "raw": [], 
+      "neighbours": [
+        200, 
+        202
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1644
+      ], 
+      "offset": -2752.0, 
+      "position": [
+        201, 
+        797.6, 
+        710.4
+      ], 
+      "channel": 201
+    }, 
+    {
+      "electronE": 801.8, 
+      "scale": 0.117, 
+      "Energy": 706.2, 
+      "ewidth": 4.6, 
+      "raw": [], 
+      "neighbours": [
+        201, 
+        203
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1629
+      ], 
+      "offset": -2744.0, 
+      "position": [
+        202, 
+        801.8, 
+        706.2
+      ], 
+      "channel": 202
+    }, 
+    {
+      "electronE": 806.0, 
+      "scale": 0.117, 
+      "Energy": 702.0, 
+      "ewidth": 4.6, 
+      "raw": [], 
+      "neighbours": [
+        202, 
+        204
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1645
+      ], 
+      "offset": -2751.0, 
+      "position": [
+        203, 
+        806.0, 
+        702.0
+      ], 
+      "channel": 203
+    }, 
+    {
+      "electronE": 810.2, 
+      "scale": 0.117, 
+      "Energy": 697.8, 
+      "ewidth": 4.6, 
+      "raw": [], 
+      "neighbours": [
+        203, 
+        205
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1630
+      ], 
+      "offset": -2742.0, 
+      "position": [
+        204, 
+        810.2, 
+        697.8
+      ], 
+      "channel": 204
+    }, 
+    {
+      "electronE": 814.4, 
+      "scale": 0.117, 
+      "Energy": 693.6, 
+      "ewidth": 4.7, 
+      "raw": [], 
+      "neighbours": [
+        204, 
+        206
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1646
+      ], 
+      "offset": -2750.0, 
+      "position": [
+        205, 
+        814.4, 
+        693.6
+      ], 
+      "channel": 205
+    }, 
+    {
+      "electronE": 818.6, 
+      "scale": 0.117, 
+      "Energy": 689.4, 
+      "ewidth": 4.7, 
+      "raw": [], 
+      "neighbours": [
+        205, 
+        207
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1631
+      ], 
+      "offset": -2745.0, 
+      "position": [
+        206, 
+        818.6, 
+        689.4
+      ], 
+      "channel": 206
+    }, 
+    {
+      "electronE": 822.9, 
+      "scale": 0.117, 
+      "Energy": 685.1, 
+      "ewidth": 4.7, 
+      "raw": [], 
+      "neighbours": [
+        206, 
+        208
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1647
+      ], 
+      "offset": -2735.0, 
+      "position": [
+        207, 
+        822.9, 
+        685.1
+      ], 
+      "channel": 207
+    }, 
+    {
+      "electronE": 827.1, 
+      "scale": 0.117, 
+      "Energy": 680.9, 
+      "ewidth": 4.7, 
+      "raw": [], 
+      "neighbours": [
+        207, 
+        209
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1632
+      ], 
+      "offset": -2727.0, 
+      "position": [
+        208, 
+        827.1, 
+        680.9
+      ], 
+      "channel": 208
+    }, 
+    {
+      "electronE": 831.3, 
+      "scale": 0.117, 
+      "Energy": 676.7, 
+      "ewidth": 4.7, 
+      "raw": [], 
+      "neighbours": [
+        208, 
+        210
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1648
+      ], 
+      "offset": -2723.0, 
+      "position": [
+        209, 
+        831.3, 
+        676.7
+      ], 
+      "channel": 209
+    }, 
+    {
+      "electronE": 835.5, 
+      "scale": 0.117, 
+      "Energy": 672.5, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        209, 
+        211
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1633
+      ], 
+      "offset": -2734.0, 
+      "position": [
+        210, 
+        835.5, 
+        672.5
+      ], 
+      "channel": 210
+    }, 
+    {
+      "electronE": 839.8, 
+      "scale": 0.117, 
+      "Energy": 668.2, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        210, 
+        212
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1649
+      ], 
+      "offset": -2724.0, 
+      "position": [
+        211, 
+        839.8, 
+        668.2
+      ], 
+      "channel": 211
+    }, 
+    {
+      "electronE": 844.1, 
+      "scale": 0.117, 
+      "Energy": 663.9, 
+      "ewidth": 4.7, 
+      "raw": [], 
+      "neighbours": [
+        211, 
+        213
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1634
+      ], 
+      "offset": -2736.0, 
+      "position": [
+        212, 
+        844.1, 
+        663.9
+      ], 
+      "channel": 212
+    }, 
+    {
+      "electronE": 848.2, 
+      "scale": 0.117, 
+      "Energy": 659.8, 
+      "ewidth": 4.6, 
+      "raw": [], 
+      "neighbours": [
+        212, 
+        214
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1650
+      ], 
+      "offset": -2729.0, 
+      "position": [
+        213, 
+        848.2, 
+        659.8
+      ], 
+      "channel": 213
+    }, 
+    {
+      "electronE": 852.5, 
+      "scale": 0.117, 
+      "Energy": 655.5, 
+      "ewidth": 4.6, 
+      "raw": [], 
+      "neighbours": [
+        213, 
+        215
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1635
+      ], 
+      "offset": -2732.0, 
+      "position": [
+        214, 
+        852.5, 
+        655.5
+      ], 
+      "channel": 214
+    }, 
+    {
+      "electronE": 856.7, 
+      "scale": 0.117, 
+      "Energy": 651.3, 
+      "ewidth": 4.6, 
+      "raw": [], 
+      "neighbours": [
+        214, 
+        216
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1651
+      ], 
+      "offset": -2729.0, 
+      "position": [
+        215, 
+        856.7, 
+        651.3
+      ], 
+      "channel": 215
+    }, 
+    {
+      "electronE": 861.0, 
+      "scale": 0.117, 
+      "Energy": 647.0, 
+      "ewidth": 4.7, 
+      "raw": [], 
+      "neighbours": [
+        215, 
+        217
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1636
+      ], 
+      "offset": -2744.0, 
+      "position": [
+        216, 
+        861.0, 
+        647.0
+      ], 
+      "channel": 216
+    }, 
+    {
+      "electronE": 865.2, 
+      "scale": 0.117, 
+      "Energy": 642.8, 
+      "ewidth": 4.7, 
+      "raw": [], 
+      "neighbours": [
+        216, 
+        218
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1652
+      ], 
+      "offset": -2728.0, 
+      "position": [
+        217, 
+        865.2, 
+        642.8
+      ], 
+      "channel": 217
+    }, 
+    {
+      "electronE": 869.4, 
+      "scale": 0.117, 
+      "Energy": 638.6, 
+      "ewidth": 4.7, 
+      "raw": [], 
+      "neighbours": [
+        217, 
+        219
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1637
+      ], 
+      "offset": -2730.0, 
+      "position": [
+        218, 
+        869.4, 
+        638.6
+      ], 
+      "channel": 218
+    }, 
+    {
+      "electronE": 873.7, 
+      "scale": 0.117, 
+      "Energy": 634.3, 
+      "ewidth": 4.7, 
+      "raw": [], 
+      "neighbours": [
+        218, 
+        220
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1653
+      ], 
+      "offset": -2727.0, 
+      "position": [
+        219, 
+        873.7, 
+        634.3
+      ], 
+      "channel": 219
+    }, 
+    {
+      "electronE": 878.0, 
+      "scale": 0.117, 
+      "Energy": 630.0, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        219, 
+        221
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1638
+      ], 
+      "offset": -2729.0, 
+      "position": [
+        220, 
+        878.0, 
+        630.0
+      ], 
+      "channel": 220
+    }, 
+    {
+      "electronE": 882.2, 
+      "scale": 0.117, 
+      "Energy": 625.8, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        220, 
+        222
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1654
+      ], 
+      "offset": -2728.0, 
+      "position": [
+        221, 
+        882.2, 
+        625.8
+      ], 
+      "channel": 221
+    }, 
+    {
+      "electronE": 886.5, 
+      "scale": 0.117, 
+      "Energy": 621.5, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        221, 
+        223
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1639
+      ], 
+      "offset": -2732.0, 
+      "position": [
+        222, 
+        886.5, 
+        621.5
+      ], 
+      "channel": 222
+    }, 
+    {
+      "electronE": 890.7, 
+      "scale": 0.117, 
+      "Energy": 617.3, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        222, 
+        224
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1655
+      ], 
+      "offset": -2727.0, 
+      "position": [
+        223, 
+        890.7, 
+        617.3
+      ], 
+      "channel": 223
+    }, 
+    {
+      "electronE": 895.1, 
+      "scale": 0.117, 
+      "Energy": 612.9, 
+      "ewidth": 4.7, 
+      "raw": [], 
+      "neighbours": [
+        223, 
+        225
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1656
+      ], 
+      "offset": -2720.0, 
+      "position": [
+        224, 
+        895.1, 
+        612.9
+      ], 
+      "channel": 224
+    }, 
+    {
+      "electronE": 899.3, 
+      "scale": 0.117, 
+      "Energy": 608.7, 
+      "ewidth": 4.6, 
+      "raw": [], 
+      "neighbours": [
+        224, 
+        226
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1672
+      ], 
+      "offset": -2725.0, 
+      "position": [
+        225, 
+        899.3, 
+        608.7
+      ], 
+      "channel": 225
+    }, 
+    {
+      "electronE": 903.5, 
+      "scale": 0.117, 
+      "Energy": 604.5, 
+      "ewidth": 4.7, 
+      "raw": [], 
+      "neighbours": [
+        225, 
+        227
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1657
+      ], 
+      "offset": -2728.0, 
+      "position": [
+        226, 
+        903.5, 
+        604.5
+      ], 
+      "channel": 226
+    }, 
+    {
+      "electronE": 907.8, 
+      "scale": 0.117, 
+      "Energy": 600.2, 
+      "ewidth": 4.7, 
+      "raw": [], 
+      "neighbours": [
+        226, 
+        228
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1673
+      ], 
+      "offset": -2727.0, 
+      "position": [
+        227, 
+        907.8, 
+        600.2
+      ], 
+      "channel": 227
+    }, 
+    {
+      "electronE": 912.1, 
+      "scale": 0.117, 
+      "Energy": 595.9, 
+      "ewidth": 4.7, 
+      "raw": [], 
+      "neighbours": [
+        227, 
+        229
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1658
+      ], 
+      "offset": -2730.0, 
+      "position": [
+        228, 
+        912.1, 
+        595.9
+      ], 
+      "channel": 228
+    }, 
+    {
+      "electronE": 916.3, 
+      "scale": 0.117, 
+      "Energy": 591.7, 
+      "ewidth": 4.7, 
+      "raw": [], 
+      "neighbours": [
+        228, 
+        230
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1674
+      ], 
+      "offset": -2729.0, 
+      "position": [
+        229, 
+        916.3, 
+        591.7
+      ], 
+      "channel": 229
+    }, 
+    {
+      "electronE": 920.6, 
+      "scale": 0.117, 
+      "Energy": 587.4, 
+      "ewidth": 4.7, 
+      "raw": [], 
+      "neighbours": [
+        229, 
+        231
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1659
+      ], 
+      "offset": -2729.0, 
+      "position": [
+        230, 
+        920.6, 
+        587.4
+      ], 
+      "channel": 230
+    }, 
+    {
+      "electronE": 924.9, 
+      "scale": 0.117, 
+      "Energy": 583.1, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        230, 
+        232
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1675
+      ], 
+      "offset": -2727.0, 
+      "position": [
+        231, 
+        924.9, 
+        583.1
+      ], 
+      "channel": 231
+    }, 
+    {
+      "electronE": 929.2, 
+      "scale": 0.117, 
+      "Energy": 578.8, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        231, 
+        233
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1660
+      ], 
+      "offset": -2730.0, 
+      "position": [
+        232, 
+        929.2, 
+        578.8
+      ], 
+      "channel": 232
+    }, 
+    {
+      "electronE": 933.4, 
+      "scale": 0.117, 
+      "Energy": 574.6, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        232, 
+        234
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1676
+      ], 
+      "offset": -2731.0, 
+      "position": [
+        233, 
+        933.4, 
+        574.6
+      ], 
+      "channel": 233
+    }, 
+    {
+      "electronE": 937.7, 
+      "scale": 0.117, 
+      "Energy": 570.3, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        233, 
+        235
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1661
+      ], 
+      "offset": -2722.0, 
+      "position": [
+        234, 
+        937.7, 
+        570.3
+      ], 
+      "channel": 234
+    }, 
+    {
+      "electronE": 942.0, 
+      "scale": 0.117, 
+      "Energy": 566.0, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        234, 
+        236
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1677
+      ], 
+      "offset": -2727.0, 
+      "position": [
+        235, 
+        942.0, 
+        566.0
+      ], 
+      "channel": 235
+    }, 
+    {
+      "electronE": 946.3, 
+      "scale": 0.117, 
+      "Energy": 561.7, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        235, 
+        237
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1662
+      ], 
+      "offset": -2719.0, 
+      "position": [
+        236, 
+        946.3, 
+        561.7
+      ], 
+      "channel": 236
+    }, 
+    {
+      "electronE": 950.6, 
+      "scale": 0.117, 
+      "Energy": 557.4, 
+      "ewidth": 4.7, 
+      "raw": [], 
+      "neighbours": [
+        236, 
+        238
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1678
+      ], 
+      "offset": -2729.0, 
+      "position": [
+        237, 
+        950.6, 
+        557.4
+      ], 
+      "channel": 237
+    }, 
+    {
+      "electronE": 954.8, 
+      "scale": 0.117, 
+      "Energy": 553.2, 
+      "ewidth": 4.7, 
+      "raw": [], 
+      "neighbours": [
+        237, 
+        239
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1663
+      ], 
+      "offset": -2721.0, 
+      "position": [
+        238, 
+        954.8, 
+        553.2
+      ], 
+      "channel": 238
+    }, 
+    {
+      "electronE": 959.1, 
+      "scale": 0.117, 
+      "Energy": 548.9, 
+      "ewidth": 4.7, 
+      "raw": [], 
+      "neighbours": [
+        238, 
+        240
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1679
+      ], 
+      "offset": -2724.0, 
+      "position": [
+        239, 
+        959.1, 
+        548.9
+      ], 
+      "channel": 239
+    }, 
+    {
+      "electronE": 963.4, 
+      "scale": 0.117, 
+      "Energy": 544.6, 
+      "ewidth": 4.7, 
+      "raw": [], 
+      "neighbours": [
+        239, 
+        241
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1664
+      ], 
+      "offset": -2723.0, 
+      "position": [
+        240, 
+        963.4, 
+        544.6
+      ], 
+      "channel": 240
+    }, 
+    {
+      "electronE": 967.7, 
+      "scale": 0.117, 
+      "Energy": 540.3, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        240, 
+        242
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1680
+      ], 
+      "offset": -2718.0, 
+      "position": [
+        241, 
+        967.7, 
+        540.3
+      ], 
+      "channel": 241
+    }, 
+    {
+      "electronE": 972.0, 
+      "scale": 0.117, 
+      "Energy": 536.0, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        241, 
+        243
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1665
+      ], 
+      "offset": -2727.0, 
+      "position": [
+        242, 
+        972.0, 
+        536.0
+      ], 
+      "channel": 242
+    }, 
+    {
+      "electronE": 976.3, 
+      "scale": 0.117, 
+      "Energy": 531.7, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        242, 
+        244
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1681
+      ], 
+      "offset": -2717.0, 
+      "position": [
+        243, 
+        976.3, 
+        531.7
+      ], 
+      "channel": 243
+    }, 
+    {
+      "electronE": 980.6, 
+      "scale": 0.117, 
+      "Energy": 527.4, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        243, 
+        245
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1666
+      ], 
+      "offset": -2732.0, 
+      "position": [
+        244, 
+        980.6, 
+        527.4
+      ], 
+      "channel": 244
+    }, 
+    {
+      "electronE": 984.9, 
+      "scale": 0.117, 
+      "Energy": 523.1, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        244, 
+        246
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1682
+      ], 
+      "offset": -2721.0, 
+      "position": [
+        245, 
+        984.9, 
+        523.1
+      ], 
+      "channel": 245
+    }, 
+    {
+      "electronE": 989.2, 
+      "scale": 0.117, 
+      "Energy": 518.8, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        245, 
+        247
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1667
+      ], 
+      "offset": -2722.0, 
+      "position": [
+        246, 
+        989.2, 
+        518.8
+      ], 
+      "channel": 246
+    }, 
+    {
+      "electronE": 993.4, 
+      "scale": 0.117, 
+      "Energy": 514.6, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        246, 
+        248
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1683
+      ], 
+      "offset": -2723.0, 
+      "position": [
+        247, 
+        993.4, 
+        514.6
+      ], 
+      "channel": 247
+    }, 
+    {
+      "electronE": 997.8, 
+      "scale": 0.117, 
+      "Energy": 510.20000000000005, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        247, 
+        249
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1668
+      ], 
+      "offset": -2723.0, 
+      "position": [
+        248, 
+        997.8, 
+        510.20000000000005
+      ], 
+      "channel": 248
+    }, 
+    {
+      "electronE": 1002.0, 
+      "scale": 0.117, 
+      "Energy": 506.0, 
+      "ewidth": 4.7, 
+      "raw": [], 
+      "neighbours": [
+        248, 
+        250
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1684
+      ], 
+      "offset": -2714.0, 
+      "position": [
+        249, 
+        1002.0, 
+        506.0
+      ], 
+      "channel": 249
+    }, 
+    {
+      "electronE": 1006.3, 
+      "scale": 0.117, 
+      "Energy": 501.70000000000005, 
+      "ewidth": 4.7, 
+      "raw": [], 
+      "neighbours": [
+        249, 
+        251
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1669
+      ], 
+      "offset": -2722.0, 
+      "position": [
+        250, 
+        1006.3, 
+        501.70000000000005
+      ], 
+      "channel": 250
+    }, 
+    {
+      "electronE": 1010.6, 
+      "scale": 0.117, 
+      "Energy": 497.4, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        250, 
+        252
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1685
+      ], 
+      "offset": -2715.0, 
+      "position": [
+        251, 
+        1010.6, 
+        497.4
+      ], 
+      "channel": 251
+    }, 
+    {
+      "electronE": 1014.9, 
+      "scale": 0.117, 
+      "Energy": 493.1, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        251, 
+        253
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1670
+      ], 
+      "offset": -2714.0, 
+      "position": [
+        252, 
+        1014.9, 
+        493.1
+      ], 
+      "channel": 252
+    }, 
+    {
+      "electronE": 1019.2, 
+      "scale": 0.117, 
+      "Energy": 488.79999999999995, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        252, 
+        254
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1686
+      ], 
+      "offset": -2711.0, 
+      "position": [
+        253, 
+        1019.2, 
+        488.79999999999995
+      ], 
+      "channel": 253
+    }, 
+    {
+      "electronE": 1023.5, 
+      "scale": 0.117, 
+      "Energy": 484.5, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        253, 
+        255
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1671
+      ], 
+      "offset": -2715.0, 
+      "position": [
+        254, 
+        1023.5, 
+        484.5
+      ], 
+      "channel": 254
+    }, 
+    {
+      "electronE": 1027.8, 
+      "scale": 0.117, 
+      "Energy": 480.20000000000005, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        254, 
+        256
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1687
+      ], 
+      "offset": -2710.0, 
+      "position": [
+        255, 
+        1027.8, 
+        480.20000000000005
+      ], 
+      "channel": 255
+    }, 
+    {
+      "electronE": 1032.1, 
+      "scale": 0.117, 
+      "Energy": 475.9000000000001, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        255, 
+        257
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1688
+      ], 
+      "offset": -2705.0, 
+      "position": [
+        256, 
+        1032.1, 
+        475.9000000000001
+      ], 
+      "channel": 256
+    }, 
+    {
+      "electronE": 1036.4, 
+      "scale": 0.117, 
+      "Energy": 471.5999999999999, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        256, 
+        258
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1704
+      ], 
+      "offset": -2725.0, 
+      "position": [
+        257, 
+        1036.4, 
+        471.5999999999999
+      ], 
+      "channel": 257
+    }, 
+    {
+      "electronE": 1040.7, 
+      "scale": 0.117, 
+      "Energy": 467.29999999999995, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        257, 
+        259
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1689
+      ], 
+      "offset": -2724.0, 
+      "position": [
+        258, 
+        1040.7, 
+        467.29999999999995
+      ], 
+      "channel": 258
+    }, 
+    {
+      "electronE": 1045.0, 
+      "scale": 0.117, 
+      "Energy": 463.0, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        258, 
+        260
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1705
+      ], 
+      "offset": -2716.0, 
+      "position": [
+        259, 
+        1045.0, 
+        463.0
+      ], 
+      "channel": 259
+    }, 
+    {
+      "electronE": 1049.3, 
+      "scale": 0.117, 
+      "Energy": 458.70000000000005, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        259, 
+        261
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1690
+      ], 
+      "offset": -2727.0, 
+      "position": [
+        260, 
+        1049.3, 
+        458.70000000000005
+      ], 
+      "channel": 260
+    }, 
+    {
+      "electronE": 1053.6, 
+      "scale": 0.117, 
+      "Energy": 454.4000000000001, 
+      "ewidth": 4.7, 
+      "raw": [], 
+      "neighbours": [
+        260, 
+        262
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1706
+      ], 
+      "offset": -2710.0, 
+      "position": [
+        261, 
+        1053.6, 
+        454.4000000000001
+      ], 
+      "channel": 261
+    }, 
+    {
+      "electronE": 1057.9, 
+      "scale": 0.117, 
+      "Energy": 450.0999999999999, 
+      "ewidth": 4.7, 
+      "raw": [], 
+      "neighbours": [
+        261, 
+        263
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1691
+      ], 
+      "offset": -2713.0, 
+      "position": [
+        262, 
+        1057.9, 
+        450.0999999999999
+      ], 
+      "channel": 262
+    }, 
+    {
+      "electronE": 1062.2, 
+      "scale": 0.117, 
+      "Energy": 445.79999999999995, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        262, 
+        264
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1707
+      ], 
+      "offset": -2716.0, 
+      "position": [
+        263, 
+        1062.2, 
+        445.79999999999995
+      ], 
+      "channel": 263
+    }, 
+    {
+      "electronE": 1066.5, 
+      "scale": 0.117, 
+      "Energy": 441.5, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        263, 
+        265
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1692
+      ], 
+      "offset": -2722.0, 
+      "position": [
+        264, 
+        1066.5, 
+        441.5
+      ], 
+      "channel": 264
+    }, 
+    {
+      "electronE": 1070.8, 
+      "scale": 0.117, 
+      "Energy": 437.20000000000005, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        264, 
+        266
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1708
+      ], 
+      "offset": -2713.0, 
+      "position": [
+        265, 
+        1070.8, 
+        437.20000000000005
+      ], 
+      "channel": 265
+    }, 
+    {
+      "electronE": 1075.1, 
+      "scale": 0.117, 
+      "Energy": 432.9000000000001, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        265, 
+        267
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1693
+      ], 
+      "offset": -2720.0, 
+      "position": [
+        266, 
+        1075.1, 
+        432.9000000000001
+      ], 
+      "channel": 266
+    }, 
+    {
+      "electronE": 1079.3, 
+      "scale": 0.117, 
+      "Energy": 428.70000000000005, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        266, 
+        268
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1709
+      ], 
+      "offset": -2727.0, 
+      "position": [
+        267, 
+        1079.3, 
+        428.70000000000005
+      ], 
+      "channel": 267
+    }, 
+    {
+      "electronE": 1083.6, 
+      "scale": 0.117, 
+      "Energy": 424.4000000000001, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        267, 
+        269
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1694
+      ], 
+      "offset": -2724.0, 
+      "position": [
+        268, 
+        1083.6, 
+        424.4000000000001
+      ], 
+      "channel": 268
+    }, 
+    {
+      "electronE": 1087.9, 
+      "scale": 0.117, 
+      "Energy": 420.0999999999999, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        268, 
+        270
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1710
+      ], 
+      "offset": -2730.0, 
+      "position": [
+        269, 
+        1087.9, 
+        420.0999999999999
+      ], 
+      "channel": 269
+    }, 
+    {
+      "electronE": 1092.2, 
+      "scale": 0.117, 
+      "Energy": 415.79999999999995, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        269, 
+        271
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1695
+      ], 
+      "offset": -2724.0, 
+      "position": [
+        270, 
+        1092.2, 
+        415.79999999999995
+      ], 
+      "channel": 270
+    }, 
+    {
+      "electronE": 1096.5, 
+      "scale": 0.117, 
+      "Energy": 411.5, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        270, 
+        272
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1711
+      ], 
+      "offset": -2725.0, 
+      "position": [
+        271, 
+        1096.5, 
+        411.5
+      ], 
+      "channel": 271
+    }, 
+    {
+      "electronE": 1100.9, 
+      "scale": 0.117, 
+      "Energy": 407.0999999999999, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        271, 
+        273
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1696
+      ], 
+      "offset": -2726.0, 
+      "position": [
+        272, 
+        1100.9, 
+        407.0999999999999
+      ], 
+      "channel": 272
+    }, 
+    {
+      "electronE": 1105.1, 
+      "scale": 0.117, 
+      "Energy": 402.9000000000001, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        272, 
+        274
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1712
+      ], 
+      "offset": -2720.0, 
+      "position": [
+        273, 
+        1105.1, 
+        402.9000000000001
+      ], 
+      "channel": 273
+    }, 
+    {
+      "electronE": 1109.4, 
+      "scale": 0.117, 
+      "Energy": 398.5999999999999, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        273, 
+        275
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1697
+      ], 
+      "offset": -2713.0, 
+      "position": [
+        274, 
+        1109.4, 
+        398.5999999999999
+      ], 
+      "channel": 274
+    }, 
+    {
+      "electronE": 1113.7, 
+      "scale": 0.117, 
+      "Energy": 394.29999999999995, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        274, 
+        276
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1713
+      ], 
+      "offset": -2709.0, 
+      "position": [
+        275, 
+        1113.7, 
+        394.29999999999995
+      ], 
+      "channel": 275
+    }, 
+    {
+      "electronE": 1118.0, 
+      "scale": 0.117, 
+      "Energy": 390.0, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        275, 
+        277
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1698
+      ], 
+      "offset": -2710.0, 
+      "position": [
+        276, 
+        1118.0, 
+        390.0
+      ], 
+      "channel": 276
+    }, 
+    {
+      "electronE": 1122.2, 
+      "scale": 0.117, 
+      "Energy": 385.79999999999995, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        276, 
+        278
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1714
+      ], 
+      "offset": -2713.0, 
+      "position": [
+        277, 
+        1122.2, 
+        385.79999999999995
+      ], 
+      "channel": 277
+    }, 
+    {
+      "electronE": 1126.5, 
+      "scale": 0.117, 
+      "Energy": 381.5, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        277, 
+        279
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1699
+      ], 
+      "offset": -2713.0, 
+      "position": [
+        278, 
+        1126.5, 
+        381.5
+      ], 
+      "channel": 278
+    }, 
+    {
+      "electronE": 1130.8, 
+      "scale": 0.117, 
+      "Energy": 377.20000000000005, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        278, 
+        280
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1715
+      ], 
+      "offset": -2720.0, 
+      "position": [
+        279, 
+        1130.8, 
+        377.20000000000005
+      ], 
+      "channel": 279
+    }, 
+    {
+      "electronE": 1135.1, 
+      "scale": 0.117, 
+      "Energy": 372.9000000000001, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        279, 
+        281
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1700
+      ], 
+      "offset": -2719.0, 
+      "position": [
+        280, 
+        1135.1, 
+        372.9000000000001
+      ], 
+      "channel": 280
+    }, 
+    {
+      "electronE": 1139.4, 
+      "scale": 0.117, 
+      "Energy": 368.5999999999999, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        280, 
+        282
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1716
+      ], 
+      "offset": -2706.0, 
+      "position": [
+        281, 
+        1139.4, 
+        368.5999999999999
+      ], 
+      "channel": 281
+    }, 
+    {
+      "electronE": 1143.7, 
+      "scale": 0.117, 
+      "Energy": 364.29999999999995, 
+      "ewidth": 5.0, 
+      "raw": [], 
+      "neighbours": [
+        281, 
+        283
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1701
+      ], 
+      "offset": -2712.0, 
+      "position": [
+        282, 
+        1143.7, 
+        364.29999999999995
+      ], 
+      "channel": 282
+    }, 
+    {
+      "electronE": 1147.9, 
+      "scale": 0.117, 
+      "Energy": 360.0999999999999, 
+      "ewidth": 5.0, 
+      "raw": [], 
+      "neighbours": [
+        282, 
+        284
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1717
+      ], 
+      "offset": -2706.0, 
+      "position": [
+        283, 
+        1147.9, 
+        360.0999999999999
+      ], 
+      "channel": 283
+    }, 
+    {
+      "electronE": 1152.3, 
+      "scale": 0.117, 
+      "Energy": 355.70000000000005, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        283, 
+        285
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1702
+      ], 
+      "offset": -2707.0, 
+      "position": [
+        284, 
+        1152.3, 
+        355.70000000000005
+      ], 
+      "channel": 284
+    }, 
+    {
+      "electronE": 1156.5, 
+      "scale": 0.117, 
+      "Energy": 351.5, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        284, 
+        286
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1718
+      ], 
+      "offset": -2708.0, 
+      "position": [
+        285, 
+        1156.5, 
+        351.5
+      ], 
+      "channel": 285
+    }, 
+    {
+      "electronE": 1160.8, 
+      "scale": 0.117, 
+      "Energy": 347.20000000000005, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        285, 
+        287
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1703
+      ], 
+      "offset": -2716.0, 
+      "position": [
+        286, 
+        1160.8, 
+        347.20000000000005
+      ], 
+      "channel": 286
+    }, 
+    {
+      "electronE": 1165.0, 
+      "scale": 0.117, 
+      "Energy": 343.0, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        286, 
+        288
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1719
+      ], 
+      "offset": -2703.0, 
+      "position": [
+        287, 
+        1165.0, 
+        343.0
+      ], 
+      "channel": 287
+    }, 
+    {
+      "electronE": 1169.3, 
+      "scale": 0.117, 
+      "Energy": 338.70000000000005, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        287, 
+        289
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1720
+      ], 
+      "offset": -2713.0, 
+      "position": [
+        288, 
+        1169.3, 
+        338.70000000000005
+      ], 
+      "channel": 288
+    }, 
+    {
+      "electronE": 1173.6, 
+      "scale": 0.117, 
+      "Energy": 334.4000000000001, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        288, 
+        290
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1736
+      ], 
+      "offset": -2715.0, 
+      "position": [
+        289, 
+        1173.6, 
+        334.4000000000001
+      ], 
+      "channel": 289
+    }, 
+    {
+      "electronE": 1177.9, 
+      "scale": 0.117, 
+      "Energy": 330.0999999999999, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        289, 
+        291
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1721
+      ], 
+      "offset": -2725.0, 
+      "position": [
+        290, 
+        1177.9, 
+        330.0999999999999
+      ], 
+      "channel": 290
+    }, 
+    {
+      "electronE": 1182.1, 
+      "scale": 0.117, 
+      "Energy": 325.9000000000001, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        290, 
+        292
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1737
+      ], 
+      "offset": -2733.0, 
+      "position": [
+        291, 
+        1182.1, 
+        325.9000000000001
+      ], 
+      "channel": 291
+    }, 
+    {
+      "electronE": 1186.4, 
+      "scale": 0.117, 
+      "Energy": 321.5999999999999, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        291, 
+        293
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1722
+      ], 
+      "offset": -2731.0, 
+      "position": [
+        292, 
+        1186.4, 
+        321.5999999999999
+      ], 
+      "channel": 292
+    }, 
+    {
+      "electronE": 1190.7, 
+      "scale": 0.117, 
+      "Energy": 317.29999999999995, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        292, 
+        294
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1738
+      ], 
+      "offset": -2737.0, 
+      "position": [
+        293, 
+        1190.7, 
+        317.29999999999995
+      ], 
+      "channel": 293
+    }, 
+    {
+      "electronE": 1194.9, 
+      "scale": 0.117, 
+      "Energy": 313.0999999999999, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        293, 
+        295
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1723
+      ], 
+      "offset": -2735.0, 
+      "position": [
+        294, 
+        1194.9, 
+        313.0999999999999
+      ], 
+      "channel": 294
+    }, 
+    {
+      "electronE": 1199.2, 
+      "scale": 0.117, 
+      "Energy": 308.79999999999995, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        294, 
+        296
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1739
+      ], 
+      "offset": -2730.0, 
+      "position": [
+        295, 
+        1199.2, 
+        308.79999999999995
+      ], 
+      "channel": 295
+    }, 
+    {
+      "electronE": 1203.5, 
+      "scale": 0.117, 
+      "Energy": 304.5, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        295, 
+        297
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1724
+      ], 
+      "offset": -2728.0, 
+      "position": [
+        296, 
+        1203.5, 
+        304.5
+      ], 
+      "channel": 296
+    }, 
+    {
+      "electronE": 1207.7, 
+      "scale": 0.117, 
+      "Energy": 300.29999999999995, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        296, 
+        298
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1740
+      ], 
+      "offset": -2735.0, 
+      "position": [
+        297, 
+        1207.7, 
+        300.29999999999995
+      ], 
+      "channel": 297
+    }, 
+    {
+      "electronE": 1212.0, 
+      "scale": 0.117, 
+      "Energy": 296.0, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        297, 
+        299
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1725
+      ], 
+      "offset": -2716.0, 
+      "position": [
+        298, 
+        1212.0, 
+        296.0
+      ], 
+      "channel": 298
+    }, 
+    {
+      "electronE": 1216.2, 
+      "scale": 0.117, 
+      "Energy": 291.79999999999995, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        298, 
+        300
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1741
+      ], 
+      "offset": -2722.0, 
+      "position": [
+        299, 
+        1216.2, 
+        291.79999999999995
+      ], 
+      "channel": 299
+    }, 
+    {
+      "electronE": 1220.5, 
+      "scale": 0.117, 
+      "Energy": 287.5, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        299, 
+        301
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1726
+      ], 
+      "offset": -2714.0, 
+      "position": [
+        300, 
+        1220.5, 
+        287.5
+      ], 
+      "channel": 300
+    }, 
+    {
+      "electronE": 1224.7, 
+      "scale": 0.117, 
+      "Energy": 283.29999999999995, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        300, 
+        302
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1742
+      ], 
+      "offset": -2720.0, 
+      "position": [
+        301, 
+        1224.7, 
+        283.29999999999995
+      ], 
+      "channel": 301
+    }, 
+    {
+      "electronE": 1229.0, 
+      "scale": 0.117, 
+      "Energy": 279.0, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        301, 
+        303
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1727
+      ], 
+      "offset": -2714.0, 
+      "position": [
+        302, 
+        1229.0, 
+        279.0
+      ], 
+      "channel": 302
+    }, 
+    {
+      "electronE": 1233.2, 
+      "scale": 0.117, 
+      "Energy": 274.79999999999995, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        302, 
+        304
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1743
+      ], 
+      "offset": -2730.0, 
+      "position": [
+        303, 
+        1233.2, 
+        274.79999999999995
+      ], 
+      "channel": 303
+    }, 
+    {
+      "electronE": 1237.4, 
+      "scale": 0.117, 
+      "Energy": 270.5999999999999, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        303, 
+        305
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1728
+      ], 
+      "offset": -2730.0, 
+      "position": [
+        304, 
+        1237.4, 
+        270.5999999999999
+      ], 
+      "channel": 304
+    }, 
+    {
+      "electronE": 1241.7, 
+      "scale": 0.117, 
+      "Energy": 266.29999999999995, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        304, 
+        306
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1744
+      ], 
+      "offset": -2719.0, 
+      "position": [
+        305, 
+        1241.7, 
+        266.29999999999995
+      ], 
+      "channel": 305
+    }, 
+    {
+      "electronE": 1245.9, 
+      "scale": 0.117, 
+      "Energy": 262.0999999999999, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        305, 
+        307
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1729
+      ], 
+      "offset": -2729.0, 
+      "position": [
+        306, 
+        1245.9, 
+        262.0999999999999
+      ], 
+      "channel": 306
+    }, 
+    {
+      "electronE": 1250.2, 
+      "scale": 0.117, 
+      "Energy": 257.79999999999995, 
+      "ewidth": 5.0, 
+      "raw": [], 
+      "neighbours": [
+        306, 
+        308
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1745
+      ], 
+      "offset": -2842.0, 
+      "position": [
+        307, 
+        1250.2, 
+        257.79999999999995
+      ], 
+      "channel": 307
+    }, 
+    {
+      "electronE": 1254.5, 
+      "scale": 0.117, 
+      "Energy": 253.5, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        307, 
+        309
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1730
+      ], 
+      "offset": -2726.0, 
+      "position": [
+        308, 
+        1254.5, 
+        253.5
+      ], 
+      "channel": 308
+    }, 
+    {
+      "electronE": 1258.6, 
+      "scale": 0.117, 
+      "Energy": 249.4000000000001, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        308, 
+        310
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1746
+      ], 
+      "offset": -2720.0, 
+      "position": [
+        309, 
+        1258.6, 
+        249.4000000000001
+      ], 
+      "channel": 309
+    }, 
+    {
+      "electronE": 1262.9, 
+      "scale": 0.117, 
+      "Energy": 245.0999999999999, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        309, 
+        311
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1731
+      ], 
+      "offset": -2727.0, 
+      "position": [
+        310, 
+        1262.9, 
+        245.0999999999999
+      ], 
+      "channel": 310
+    }, 
+    {
+      "electronE": 1267.1, 
+      "scale": 0.117, 
+      "Energy": 240.9000000000001, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        310, 
+        312
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1747
+      ], 
+      "offset": -2722.0, 
+      "position": [
+        311, 
+        1267.1, 
+        240.9000000000001
+      ], 
+      "channel": 311
+    }, 
+    {
+      "electronE": 1271.3, 
+      "scale": 0.117, 
+      "Energy": 236.70000000000005, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        311, 
+        313
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1732
+      ], 
+      "offset": -2723.0, 
+      "position": [
+        312, 
+        1271.3, 
+        236.70000000000005
+      ], 
+      "channel": 312
+    }, 
+    {
+      "electronE": 1275.5, 
+      "scale": 0.117, 
+      "Energy": 232.5, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        312, 
+        314
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1748
+      ], 
+      "offset": -2724.0, 
+      "position": [
+        313, 
+        1275.5, 
+        232.5
+      ], 
+      "channel": 313
+    }, 
+    {
+      "electronE": 1279.8, 
+      "scale": 0.117, 
+      "Energy": 228.20000000000005, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        313, 
+        315
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1733
+      ], 
+      "offset": -2725.0, 
+      "position": [
+        314, 
+        1279.8, 
+        228.20000000000005
+      ], 
+      "channel": 314
+    }, 
+    {
+      "electronE": 1284.0, 
+      "scale": 0.117, 
+      "Energy": 224.0, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        314, 
+        316
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1749
+      ], 
+      "offset": -2726.0, 
+      "position": [
+        315, 
+        1284.0, 
+        224.0
+      ], 
+      "channel": 315
+    }, 
+    {
+      "electronE": 1288.2, 
+      "scale": 0.117, 
+      "Energy": 219.79999999999995, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        315, 
+        317
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1734
+      ], 
+      "offset": -2727.0, 
+      "position": [
+        316, 
+        1288.2, 
+        219.79999999999995
+      ], 
+      "channel": 316
+    }, 
+    {
+      "electronE": 1292.4, 
+      "scale": 0.117, 
+      "Energy": 215.5999999999999, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        316, 
+        318
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1750
+      ], 
+      "offset": -2719.0, 
+      "position": [
+        317, 
+        1292.4, 
+        215.5999999999999
+      ], 
+      "channel": 317
+    }, 
+    {
+      "electronE": 1296.6, 
+      "scale": 0.117, 
+      "Energy": 211.4000000000001, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        317, 
+        319
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1735
+      ], 
+      "offset": -2730.0, 
+      "position": [
+        318, 
+        1296.6, 
+        211.4000000000001
+      ], 
+      "channel": 318
+    }, 
+    {
+      "electronE": 1300.8, 
+      "scale": 0.117, 
+      "Energy": 207.20000000000005, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        318, 
+        320
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1751
+      ], 
+      "offset": -2204.0, 
+      "position": [
+        319, 
+        1300.8, 
+        207.20000000000005
+      ], 
+      "channel": 319
+    }, 
+    {
+      "electronE": 1305.0, 
+      "scale": 0.117, 
+      "Energy": 203.0, 
+      "ewidth": 5.0, 
+      "raw": [], 
+      "neighbours": [
+        319, 
+        321
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1752
+      ], 
+      "offset": -4999.0, 
+      "position": [
+        320, 
+        1305.0, 
+        203.0
+      ], 
+      "channel": 320
+    }, 
+    {
+      "electronE": 1309.3, 
+      "scale": 0.117, 
+      "Energy": 198.70000000000005, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        320, 
+        322
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1768
+      ], 
+      "offset": -4999.0, 
+      "position": [
+        321, 
+        1309.3, 
+        198.70000000000005
+      ], 
+      "channel": 321
+    }, 
+    {
+      "electronE": 1313.4, 
+      "scale": 0.117, 
+      "Energy": 194.5999999999999, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        321, 
+        323
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1753
+      ], 
+      "offset": -4999.0, 
+      "position": [
+        322, 
+        1313.4, 
+        194.5999999999999
+      ], 
+      "channel": 322
+    }, 
+    {
+      "electronE": 1317.6, 
+      "scale": 0.117, 
+      "Energy": 190.4000000000001, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        322, 
+        324
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1769
+      ], 
+      "offset": -4999.0, 
+      "position": [
+        323, 
+        1317.6, 
+        190.4000000000001
+      ], 
+      "channel": 323
+    }, 
+    {
+      "electronE": 1321.8, 
+      "scale": 0.117, 
+      "Energy": 186.20000000000005, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        323, 
+        325
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1754
+      ], 
+      "offset": -4999.0, 
+      "position": [
+        324, 
+        1321.8, 
+        186.20000000000005
+      ], 
+      "channel": 324
+    }, 
+    {
+      "electronE": 1326.0, 
+      "scale": 0.117, 
+      "Energy": 182.0, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        324, 
+        326
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1770
+      ], 
+      "offset": -4999.0, 
+      "position": [
+        325, 
+        1326.0, 
+        182.0
+      ], 
+      "channel": 325
+    }, 
+    {
+      "electronE": 1330.2, 
+      "scale": 0.117, 
+      "Energy": 177.79999999999995, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        325, 
+        327
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1755
+      ], 
+      "offset": -4999.0, 
+      "position": [
+        326, 
+        1330.2, 
+        177.79999999999995
+      ], 
+      "channel": 326
+    }, 
+    {
+      "electronE": 1334.4, 
+      "scale": 0.117, 
+      "Energy": 173.5999999999999, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        326, 
+        328
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1771
+      ], 
+      "offset": -4999.0, 
+      "position": [
+        327, 
+        1334.4, 
+        173.5999999999999
+      ], 
+      "channel": 327
+    }, 
+    {
+      "electronE": 1338.6, 
+      "scale": 0.117, 
+      "Energy": 169.4000000000001, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        327, 
+        329
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1756
+      ], 
+      "offset": -4999.0, 
+      "position": [
+        328, 
+        1338.6, 
+        169.4000000000001
+      ], 
+      "channel": 328
+    }, 
+    {
+      "electronE": 1342.8, 
+      "scale": 0.117, 
+      "Energy": 165.20000000000005, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        328, 
+        330
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1772
+      ], 
+      "offset": -4999.0, 
+      "position": [
+        329, 
+        1342.8, 
+        165.20000000000005
+      ], 
+      "channel": 329
+    }, 
+    {
+      "electronE": 1346.9, 
+      "scale": 0.117, 
+      "Energy": 161.0999999999999, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        329, 
+        331
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1757
+      ], 
+      "offset": -4999.0, 
+      "position": [
+        330, 
+        1346.9, 
+        161.0999999999999
+      ], 
+      "channel": 330
+    }, 
+    {
+      "electronE": 1351.1, 
+      "scale": 0.117, 
+      "Energy": 156.9000000000001, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        330, 
+        332
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1773
+      ], 
+      "offset": -4999.0, 
+      "position": [
+        331, 
+        1351.1, 
+        156.9000000000001
+      ], 
+      "channel": 331
+    }, 
+    {
+      "electronE": 1355.3, 
+      "scale": 0.117, 
+      "Energy": 152.70000000000005, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        331, 
+        333
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1758
+      ], 
+      "offset": -4999.0, 
+      "position": [
+        332, 
+        1355.3, 
+        152.70000000000005
+      ], 
+      "channel": 332
+    }, 
+    {
+      "electronE": 1359.5, 
+      "scale": 0.117, 
+      "Energy": 148.5, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        332, 
+        334
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1774
+      ], 
+      "offset": -4999.0, 
+      "position": [
+        333, 
+        1359.5, 
+        148.5
+      ], 
+      "channel": 333
+    }, 
+    {
+      "electronE": 1363.7, 
+      "scale": 0.117, 
+      "Energy": 144.29999999999995, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        333, 
+        335
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1759
+      ], 
+      "offset": -4999.0, 
+      "position": [
+        334, 
+        1363.7, 
+        144.29999999999995
+      ], 
+      "channel": 334
+    }, 
+    {
+      "electronE": 1367.8, 
+      "scale": 0.117, 
+      "Energy": 140.20000000000005, 
+      "ewidth": 4.7, 
+      "raw": [], 
+      "neighbours": [
+        334, 
+        336
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1775
+      ], 
+      "offset": -4999.0, 
+      "position": [
+        335, 
+        1367.8, 
+        140.20000000000005
+      ], 
+      "channel": 335
+    }, 
+    {
+      "electronE": 1372.0, 
+      "scale": 0.117, 
+      "Energy": 136.0, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        335, 
+        337
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1760
+      ], 
+      "offset": -4999.0, 
+      "position": [
+        336, 
+        1372.0, 
+        136.0
+      ], 
+      "channel": 336
+    }, 
+    {
+      "electronE": 1376.1, 
+      "scale": 0.117, 
+      "Energy": 131.9000000000001, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        336, 
+        338
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1776
+      ], 
+      "offset": -4999.0, 
+      "position": [
+        337, 
+        1376.1, 
+        131.9000000000001
+      ], 
+      "channel": 337
+    }, 
+    {
+      "electronE": 1380.3, 
+      "scale": 0.117, 
+      "Energy": 127.70000000000005, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        337, 
+        339
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1761
+      ], 
+      "offset": -4999.0, 
+      "position": [
+        338, 
+        1380.3, 
+        127.70000000000005
+      ], 
+      "channel": 338
+    }, 
+    {
+      "electronE": 1384.4, 
+      "scale": 0.117, 
+      "Energy": 123.59999999999991, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        338, 
+        340
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1777
+      ], 
+      "offset": -4999.0, 
+      "position": [
+        339, 
+        1384.4, 
+        123.59999999999991
+      ], 
+      "channel": 339
+    }, 
+    {
+      "electronE": 1388.6, 
+      "scale": 0.117, 
+      "Energy": 119.40000000000009, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        339, 
+        341
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1762
+      ], 
+      "offset": -4999.0, 
+      "position": [
+        340, 
+        1388.6, 
+        119.40000000000009
+      ], 
+      "channel": 340
+    }, 
+    {
+      "electronE": 1392.7, 
+      "scale": 0.117, 
+      "Energy": 115.29999999999995, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        340, 
+        342
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1778
+      ], 
+      "offset": -4999.0, 
+      "position": [
+        341, 
+        1392.7, 
+        115.29999999999995
+      ], 
+      "channel": 341
+    }, 
+    {
+      "electronE": 1396.8, 
+      "scale": 0.117, 
+      "Energy": 111.20000000000005, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        341, 
+        343
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1763
+      ], 
+      "offset": -4999.0, 
+      "position": [
+        342, 
+        1396.8, 
+        111.20000000000005
+      ], 
+      "channel": 342
+    }, 
+    {
+      "electronE": 1401.0, 
+      "scale": 0.117, 
+      "Energy": 107.0, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        342, 
+        344
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1779
+      ], 
+      "offset": -4999.0, 
+      "position": [
+        343, 
+        1401.0, 
+        107.0
+      ], 
+      "channel": 343
+    }, 
+    {
+      "electronE": 1405.1, 
+      "scale": 0.117, 
+      "Energy": 102.90000000000009, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        343, 
+        345
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1764
+      ], 
+      "offset": -4999.0, 
+      "position": [
+        344, 
+        1405.1, 
+        102.90000000000009
+      ], 
+      "channel": 344
+    }, 
+    {
+      "electronE": 1409.2, 
+      "scale": 0.117, 
+      "Energy": 98.79999999999995, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        344, 
+        346
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1780
+      ], 
+      "offset": -4999.0, 
+      "position": [
+        345, 
+        1409.2, 
+        98.79999999999995
+      ], 
+      "channel": 345
+    }, 
+    {
+      "electronE": 1413.4, 
+      "scale": 0.117, 
+      "Energy": 94.59999999999991, 
+      "ewidth": 4.9, 
+      "raw": [], 
+      "neighbours": [
+        345, 
+        347
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1765
+      ], 
+      "offset": -4999.0, 
+      "position": [
+        346, 
+        1413.4, 
+        94.59999999999991
+      ], 
+      "channel": 346
+    }, 
+    {
+      "electronE": 1417.6, 
+      "scale": 0.117, 
+      "Energy": 90.40000000000009, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        346, 
+        348
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1781
+      ], 
+      "offset": -4999.0, 
+      "position": [
+        347, 
+        1417.6, 
+        90.40000000000009
+      ], 
+      "channel": 347
+    }, 
+    {
+      "electronE": 1421.6, 
+      "scale": 0.117, 
+      "Energy": 86.40000000000009, 
+      "ewidth": 4.7, 
+      "raw": [], 
+      "neighbours": [
+        347, 
+        349
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1766
+      ], 
+      "offset": -4999.0, 
+      "position": [
+        348, 
+        1421.6, 
+        86.40000000000009
+      ], 
+      "channel": 348
+    }, 
+    {
+      "electronE": 1425.7, 
+      "scale": 0.117, 
+      "Energy": 82.29999999999995, 
+      "ewidth": 4.7, 
+      "raw": [], 
+      "neighbours": [
+        348, 
+        350
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1782
+      ], 
+      "offset": -4999.0, 
+      "position": [
+        349, 
+        1425.7, 
+        82.29999999999995
+      ], 
+      "channel": 349
+    }, 
+    {
+      "electronE": 1429.8, 
+      "scale": 0.117, 
+      "Energy": 78.20000000000005, 
+      "ewidth": 4.7, 
+      "raw": [], 
+      "neighbours": [
+        349, 
+        351
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1767
+      ], 
+      "offset": -4999.0, 
+      "position": [
+        350, 
+        1429.8, 
+        78.20000000000005
+      ], 
+      "channel": 350
+    }, 
+    {
+      "electronE": 1434.0, 
+      "scale": 0.117, 
+      "Energy": 74.0, 
+      "ewidth": 4.8, 
+      "raw": [], 
+      "neighbours": [
+        350
+      ], 
+      "referenceID": 1400, 
+      "adc": [
+        1783
+      ], 
+      "offset": -4999.0, 
+      "position": [
+        351, 
+        1434.0, 
+        74.0
+      ], 
+      "channel": 351
+    }
+  ], 
+  "parameters": [
+    "Time"
+  ], 
+  "ignore": [], 
+  "references": [
+    [
+      1400
+    ]
+  ], 
+  "detector": "Tagger", 
+  "calEq": [
+    "[(y['raw']-y['offset']-ref[0])*y['scale'] for y in x]"
+  ]
+}
