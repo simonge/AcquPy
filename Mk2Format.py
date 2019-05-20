@@ -99,8 +99,16 @@ def FillEPICSArray(dataArray):
     for epicsBufferStart in np.where(dataArray==EEPICSBuffer)[0]:
         epicsBuffer  = dataArray[epicsBufferStart+1:]
         epicsInfo    = np.frombuffer(epicsBuffer, dtype=epicsHead, count=1)    #get the information from the header
+        index = epicsInfo.itemsize+2
+        for n in range(epicsInfo['nchan']):
+            pvInfo  = np.frombuffer(epicsBuffer, dtype=epicsChan,count=1,offset=index)[0]
+            name = pvInfo['pvname']
+            nBytes  = pvInfo['bytes']
+            index  += nBytes
         #epicsEnd     = epicsInfo[0]['len']/4+2 # Hard coded length while we sort out the short/int issue
-        epicsEnd     = 120264
+        #epicsEnd     = 30090
+        epicsEnd     = 30156
+        epicsEnd     = (index+6)/4
         epicsBuffer  = epicsBuffer[:epicsEnd]
         epicsBuffers += [epicsBuffer]
         epicsIndices += range(epicsBufferStart,epicsBufferStart+epicsEnd)

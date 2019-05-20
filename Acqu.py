@@ -142,9 +142,9 @@ def processHeader():
 
     # Remove trailing data, and header buffer then reshape the data into a buffer array
     bufferLocs = np.where(fp==df.EDataBuff)[0]
-    print bufferLocs
-    print fileInfo['fRecLen'][0]
-    print df.recSize/32
+    #print bufferLocs
+    #print fileInfo['fRecLen'][0]
+    #print df.recSize/32
 
     #Fuck you messing up my code
     fp = fp[:np.where(fp==EEndBuff)[0][0]].reshape(-1,bufferLocs[0])[1:]

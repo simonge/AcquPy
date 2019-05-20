@@ -16,7 +16,7 @@ from rootpy.plotting import histogram, Hist2D,Hist,  Canvas
 
 #canvas      = Canvas()
 adchist     = Hist(10000,0,10000,name='adcs')
-adchist2d   = Hist2D(5,200,205,68000,0,68000,name='adcvalues')
+adchist2d   = Hist2D(500,0,500,68000,0,68000,name='adcvalues')
 taggerchan  = Hist(366,0,366)
 #taggertime  = Hist(10240,0,10240)
 tpxXY1      = Hist2D(256,0,256,256,0,256)
@@ -66,7 +66,7 @@ def main():
         middle = time.time()
         print('Open file: ',middle-start)
         #aq.runFunction(fillTP3,0,20000)
-        aq.runFunction(fillADCHist)
+        aq.runFunction(fillADCHist,0,100000)
         print aq.eventNo
         #aq.runEPICSFunction(printEpics)
         #aq.listEpicsPVs()
