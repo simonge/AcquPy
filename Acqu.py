@@ -142,9 +142,9 @@ def processHeader():
 
     # Remove trailing data, and header buffer then reshape the data into a buffer array
     bufferLocs = np.where(fp==df.EDataBuff)[0]
-    #print bufferLocs
-    #print fileInfo['fRecLen'][0]
-    #print df.recSize/32
+    #print(bufferLocs)
+    #print(fileInfo['fRecLen'][0])
+    #print(df.recSize/32)
 
     #Fuck you messing up my code
     fp = fp[:np.where(fp==EEndBuff)[0][0]].reshape(-1,bufferLocs[0])[1:]
@@ -214,10 +214,10 @@ def runEPICSFunction(function,minEvents=0,maxEvents=0):
         epicsBuffer  = fp[epicsBufferStart+1:]
         epicsInfo    = np.frombuffer(epicsBuffer, dtype=df.epicsHead, count=1)    #get the information from the header
         #epicsEnd     = epicsInfo[0]['len']/4+2 # Hard coded length while we sort out the short/int issue
-        print epicsInfo
+        print(epicsInfo)
         epicsEnd     = 120264
         epicsBuffers = [epicsBuffer[:epicsEnd]]
-        print epicsBuffers
+        print(epicsBuffers)
         
         function()
 
@@ -294,9 +294,9 @@ def processEvent(eventData):
 def dumpEpicsBuffer(buffNo=0):
     
     eInfo = np.frombuffer(epicsBuffers[buffNo], dtype=epicsHead, count=1)[0]    #get the information from the header
-    print eInfo
+    print(eInfo)
     time= eInfo['time']
-    print datetime.datetime.fromtimestamp(time)
+    print(datetime.datetime.fromtimestamp(time))
           
     index = eInfo.itemsize+2
     for pv in range(eInfo['nchan']):
@@ -305,12 +305,12 @@ def dumpEpicsBuffer(buffNo=0):
         eType   = pvInfo['type']
         nElem   = pvInfo['nelem']
         nBytes  = pvInfo['bytes']
-        print eType
+        print(eType)
         pvStart = index+pvInfo.itemsize
         pvData  = np.frombuffer(epicsBuffers[buffNo], dtype=epicsTypes[eType], count=nElem,offset=pvStart)
-        print pvInfo
-        print pvName
-        print pvData
+        print(pvInfo)
+        print(pvName)
+        print(pvData)
         index += nBytes
 
 '''
@@ -320,7 +320,7 @@ def dumpEpicsBuffer(buffNo=0):
 def getEpicsPV(pv,buffNo=0):    
     eInfo = np.frombuffer(epicsBuffers[buffNo], dtype=df.epicsHead, count=1)[0]    #get the information from the header
     if(isinstance(pv, int) and eInfo['nchan']<pv):
-        print 'channel number',pv,'does not exist'
+        print('channel number',pv,'does not exist')
         return 0
         
     index = eInfo.itemsize+2
@@ -334,7 +334,7 @@ def getEpicsPV(pv,buffNo=0):
             nElem   = pvInfo['nelem']
             pvStart = index+pvInfo.itemsize
             pvData  = np.frombuffer(epicsBuffers[buffNo], dtype=df.epicsTypes[eType], count=nElem,offset=pvStart)
-            #print pvData
+            #print(pvData)
             if(nElem==1):
                 return pvData[0]
             else:
@@ -364,7 +364,7 @@ def listEpicsPVs():
             index += nBytes
             if not pvName in epicsPVs: epicsPVs.append(pvName)
 
-    print epicsPVs
+    print(epicsPVs)
     return epicsPVs
 '''
         
@@ -408,14 +408,14 @@ def getEvent():
         
     eventInfo = np.frombuffer(fp,dtype=eventHead,count=1,offset=buffIndex*2)
     evEnd = buffIndex+eventInfo[0]['evLen']/2
-    #print "eventInfo", eventInfo
-    #print eventCount
+    #print("eventInfo", eventInfo)
+    #print(eventCount)
     buffIndex += 6
-    #    print "eventInfo", eventInfo
+    #    print("eventInfo", eventInfo)
 
     while (buffIndex < evEnd):
-        #print "gen", buffIndex,hex(buffIndex),hex(fp[buffIndex]),hex(fp[buffIndex+1]),hex(fp[buffIndex+2]),hex(fp[buffIndex+3]) 
-        #print "gen", buffIndex,buffIndex,fp[buffIndex],fp[buffIndex+1],fp[buffIndex+2],fp[buffIndex+3]
+        #print("gen", buffIndex,hex(buffIndex),hex(fp[buffIndex]),hex(fp[buffIndex+1]),hex(fp[buffIndex+2]),hex(fp[buffIndex+3]))
+        #print("gen", buffIndex,buffIndex,fp[buffIndex],fp[buffIndex+1],fp[buffIndex+2],fp[buffIndex+3])
         
         if(fp[buffIndex]==EEndEvent):
              if(fp[buffIndex+1]==EEndEvent):
@@ -427,9 +427,9 @@ def getEvent():
                 buffIndex+=2                                                                #skip past the marker
                 EpicsOffset=buffIndex*2                                                     #save the index of the EPICS buffer
                 epicsInfo=np.frombuffer(fp, dtype=epicsHead, count=1,offset=buffIndex*2)    #get the information from the header
-                print epicsInfo
-                print "eventInfo", eventInfo
-                print eventCount
+                print(epicsInfo)
+                print("eventInfo", eventInfo)
+                print(eventCount)
                 EpicsLen=epicsInfo[0]['len']
                 IsEpicsEvent=1
                 buffIndex+=EpicsLen/2
@@ -439,34 +439,34 @@ def getEvent():
                 buffIndex+=2                                                                    #skip past the marker
                 scalerInfo   = np.frombuffer(fp, dtype='uint32', count=1,offset=buffIndex*2)    #get the information from the header
                 buffIndex+=2                                                                    #skip past the marker
-                print "scalerInfo", hex(buffIndex*2),scalerInfo
-                print "eventInfo", eventInfo
-                print eventCount
+                print("scalerInfo", hex(buffIndex*2),scalerInfo)
+                print("eventInfo", eventInfo)
+                print(eventCount)
                 while((fp[buffIndex]!=EScalerBuffer) and (fp[buffIndex+1]!=EScalerBuffer)):
                     scalerData = np.frombuffer(fp, dtype=scalerBuff, count=1,offset=buffIndex*2)
                     ScalerCurr[scalerData[0]['index']]=scalerData[0]['datum']
-                    #print buffIndex*2,hex(scalerData[0]['index']), hex(scalerData[0]['datum'])
+                    #print(buffIndex*2,hex(scalerData[0]['index']), hex(scalerData[0]['datum']))
                     buffIndex+=4
                     IsScalerEvent=1
                 buffIndex+=2
 
         elif(fp[buffIndex]==EReadError):
             if(fp[buffIndex+1]==EReadError):
-                print "eek"                        
+                print("eek")
                         
         else:
             ADC[fp[buffIndex]]=fp[buffIndex+1]
-            #print "ADC", fp[buffIndex],fp[buffIndex+1]
+            #print("ADC", fp[buffIndex],fp[buffIndex+1])
             buffIndex += 2
         
     eventCount+=1
-    #print "evEnded", buffIndex,buffEnd, eventCount
-    #print "bufferEnd",buffIndex,fp[buffIndex],fp[buffIndex+1],fp[buffIndex+2],fp[buffIndex+3]
+    #print("evEnded", buffIndex,buffEnd, eventCount)
+    #print("bufferEnd",buffIndex,fp[buffIndex],fp[buffIndex+1],fp[buffIndex+2],fp[buffIndex+3])
     buffIndex+=4
-    #print "bufferEnd",buffIndex,buffIndex,fp[buffIndex],fp[buffIndex+1],fp[buffIndex+2],fp[buffIndex+3]
+    #print("bufferEnd",buffIndex,buffIndex,fp[buffIndex],fp[buffIndex+1],fp[buffIndex+2],fp[buffIndex+3])
     if(buffIndex>=buffEnd):
-        print "eventInfo", eventInfo
-        #print "bufferEnd",fp.size,buffIndex,buffEnd,fp[buffIndex],fp[buffIndex+1],fp[buffIndex+2],fp[buffIndex+3]
+        print("eventInfo", eventInfo)
+        #print("bufferEnd",fp.size,buffIndex,buffEnd,fp[buffIndex],fp[buffIndex+1],fp[buffIndex+2],fp[buffIndex+3])
         
         nextBuffer()
         #buffIndex+=4
