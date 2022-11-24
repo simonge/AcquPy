@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 import numpy as np
 import Acqu as aq
-import AcquDetector as aqdet
+#import AcquDetector as aqdet
 import argparse 
 import time
 import ROOT
@@ -12,13 +12,8 @@ adchist2d   = ROOT.TH2F('adcvalues','adcvalues',500,0,500,68000,0,68000)
 taggerchan  = ROOT.TH1F('tagchans','tagchans',366,0,366)
 
 taggerchantime  = ROOT.TH2F("taggerchantime","taggerchantime",2000,-1000,1000,366,0,366)
-cbchanenergy    = ROOT.TH2F("cbchanenergy","cbchanenergy",100,0,1200,720,0,720)
-cbchantime      = ROOT.TH2F("cbchantime","cbchantime",2000,-1000,1000,720,0,720)
-tapschanenergy  = ROOT.TH2F("tapschanenergy","tapschanenergy",100,0,1200,384,0,384)
-tapschantime    = ROOT.TH2F("tapschantime","tapschantime",2000,-1000,1000,384,0,384)
 
 def main():       
-    global adchist                                             
     parser = argparse.ArgumentParser()
     parser.add_argument("fileName", help="AcquDAQ data file")  #Add args and opts
     args = parser.parse_args()                                 #parse them
@@ -33,13 +28,13 @@ def main():
         print(aq.fileInfo)
 
         #Load JSON files for detectors here
-        aqdet.LoadDetectors(['DetectorSettings/taggerNew.json'])
+        #aqdet.LoadDetectors(['DetectorSettings/taggerNew.json'])
         
         middle = time.time()
         print('Open file: ',middle-start)
         # Run function
         #aq.runFunction(fillADCHist,0,100000)
-        aq.runFunction(fillTagger,0,100000)     
+        #aq.runFunction(fillTagger,0,100000)     
         print(aq.eventNo)
         
         end = time.time()
@@ -55,7 +50,7 @@ def main():
 def fillTagger():
     #np.set_printoptions(threshold=np.nan)
     print("HI0")
-    aqdet.Calibrate(aq.adcArray)
+    #aqdet.Calibrate(aq.adcArray)
     print("HI")
     
     number   = np.size(data['tagger'][['channel']])
@@ -76,6 +71,8 @@ def fillADCHist():
     weights = np.ones(number)
     adcs    = aq.adcArray['adc'].astype(float)
     values  = aq.adcArray['val'].astype(float)
+
+    #Fill hists
     adchist.FillN(number,adcs,weights)
     adchist2d.FillN(number,adcs,values,weights)    
     #adchist2d.FillN(np.vstack((aq.adcArray['adc'],aq.adcArray['val'])).T)    
