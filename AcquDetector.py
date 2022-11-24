@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 import igraph as ig
 import plotly.graph_objs as go
-from pandas.io.json import json_normalize
+from pandas import json_normalize
 import json
 
 pd.set_option('display.max_rows', 10)
@@ -64,7 +64,7 @@ def LoadDetectors(jsonFileArray):
 ##################################################################
 def DefineFunction(funcString):
     funcString = 'def func(parameter,x,ref,i): x[parameter] = ' + funcString
-    exec(funcString)
+    exec(funcString,globals())
     return func
 
 ##################################################################
@@ -77,7 +77,9 @@ def MakeGraph(array):
         matrix[channel['channel']][channel['neighbours']] = True
     graph = ig.Graph.Adjacency(matrix.tolist(),mode=1)
     for name in array.dtype.names:
+        #print(array[name])
         graph.vs[name] = np.array(array[name].tolist())
+        #print(graph.vs[name])
         
     return graph
 
@@ -102,18 +104,22 @@ def Calibrate(adcArray,detlist=[]):
         subgraph = {}
 
         for i, equation, param in zip(range(len(detequ[detector])),detequ[detector],detparams[detector]):
-            
-            sort = np.argsort(detmask[detector][:,i])
-            filt = np.searchsorted(detmask[detector][:,i],adcArray['adc'],sorter=sort)
 
+            print(detequ[detector])
+            sort = np.argsort(detmask[detector][:,i])
+            print(sort)
+            filt = np.searchsorted(detmask[detector][:,i],adcArray['adc'],sorter=sort)
+            print(filt)
             
             filt[filt==len(detmask[detector])] = 0
             filt[detmask[detector][sort][filt,i] != adcArray['adc']] = -1
+            print(filt)
                         
             rawValues               = CollapseArray(adcArray[(filt+1).astype(np.bool)])
+            print(rawValues)
             subgraph[param]         = ig.VertexSeq(detgraphs[detector],np.unique(sort[filt[filt!=-1]]))
             subgraph[param]['raw']  = rawValues
-            
+            print(subgraph[param])
             #Get reference values
             refs = []
             if(len(detref[detector][i])):
@@ -123,7 +129,11 @@ def Calibrate(adcArray,detlist=[]):
                 if(len(refs)!= len(detref[detector][i])):
                     refs = np.zeros(len(detref[detector][i]))
 
+
+            print("AAAARGH")
+
             equation(param,subgraph[param],refs,i)
+            print("AAAARGH2")
 
         Arrays[detector] = subgraph
         
