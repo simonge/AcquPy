@@ -182,8 +182,8 @@ def runFunction(function,minEvents=0,maxEvents=0):
             print(i, 'Bad data format or file end')
             return
         
-        # Set event limits
-        eventBuffers = np.append([1],np.where(dataBuffer==df.EEndEvent)[0]+1)
+        # Set event limits — np.concatenate avoids the extra copy that np.append makes
+        eventBuffers = np.concatenate(([1], np.where(dataBuffer==df.EEndEvent)[0]+1))
 
         # Loop over events in buffer
         for j, (start,stop) in enumerate(zip(eventBuffers[0:-1],eventBuffers[1:])):
@@ -260,7 +260,8 @@ def processEvent(eventData):
     # Get Epics Data in event
     if(df.EPICSExist):
         epicsBuffers, epicsIndices, epicsInfo = df.FillEPICSArray(eventArray)
-        eventArray = np.delete(eventArray,epicsIndices)
+        if len(epicsIndices):
+            eventArray = np.delete(eventArray, epicsIndices)
         if(len(epicsBuffers)):
             epicsEvent=1
 
@@ -268,17 +269,16 @@ def processEvent(eventData):
     #Separate scaler data out
     if(df.ScalersExist):
         scalerBuffers, scalerIndices = df.FillScalerArray(eventArray)
-        #if(len(scalerBuffers)):
-        eventArray = np.delete(eventArray,scalerIndices)
+        if len(scalerIndices):
+            eventArray = np.delete(eventArray, scalerIndices)
         if(len(scalerBuffers)):
             scalerEvent=1
 
 
     # Check for errors
     errorIndices = df.CheckErrors(eventArray)
-    eventArray   = np.delete(eventArray,errorIndices)
     if len(errorIndices):
-        #print(eventArray.view(np.uint16).reshape(-1,2)
+        eventArray = np.delete(eventArray, errorIndices)
         return 0
     
     #adcArray   = eventArray.view(np.uint16).reshape(-1,2)

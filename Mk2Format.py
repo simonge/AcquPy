@@ -78,18 +78,26 @@ readError     = np.dtype ( [ ('fHeader', '<u4'),        #error block header
                              ('fTrailer', '<u4') ])     #end of error block marker
 
 def FillScalerArray(dataArray):
-    
-    scalerIndices = []
-    scalerHeaders = []
+
     scalerLocations = np.where(dataArray==EScalerBuffer)[0]
-    if(len(scalerLocations)):        
-        scalerLocations = scalerLocations.reshape((-1,2),order='C')
-        for indeces in scalerLocations:
-            scalerHeaders += [indeces[0],indeces[0]+1]
-            scalerIndices += range(indeces[0]+2,indeces[1])
-        scalerArray = np.take(dataArray,scalerIndices).reshape((-1,2))
-        return scalerArray, scalerIndices+scalerHeaders
-    return [], []
+    if not len(scalerLocations):
+        return [], []
+
+    scalerLocations = scalerLocations.reshape((-1, 2), order='C')
+    starts = scalerLocations[:, 0]
+    ends   = scalerLocations[:, 1]
+    counts = (ends - starts - 2).astype(np.intp)
+    total  = int(np.sum(counts))
+
+    # Fully vectorised ragged range: replaces Python for-loop list builds
+    bases   = np.repeat(starts + 2, counts)
+    cum     = np.concatenate([[0], np.cumsum(counts[:-1])])
+    offsets = np.arange(total, dtype=np.intp) - np.repeat(cum, counts)
+    scalerIndices = bases + offsets
+
+    scalerHeaders = np.ravel(np.column_stack([starts, starts + 1]))
+    scalerArray = dataArray[scalerIndices].reshape((-1, 2))
+    return scalerArray, np.concatenate([scalerIndices, scalerHeaders])
 
 def FillEPICSArray(dataArray):
         
@@ -112,13 +120,13 @@ def FillEPICSArray(dataArray):
         epicsEnd     = int((index+6)/4)
         epicsBuffer  = epicsBuffer[:epicsEnd]
         epicsBuffers += [epicsBuffer]
-        epicsIndices += range(epicsBufferStart,epicsBufferStart+epicsEnd)
+        epicsIndices.append(np.arange(epicsBufferStart, epicsBufferStart+epicsEnd, dtype=np.intp))
+    epicsIndices = np.concatenate(epicsIndices) if epicsIndices else np.array([], dtype=np.intp)
     return epicsBuffers, epicsIndices, epicsInfo
 
 def CheckErrors(dataArray):
-    errorIndices = []
-    for errorMark in np.where(dataArray==EReadError)[0]:
-        #print errorMark
-        #print np.frombuffer(dataArray[errorMark:], dtype=readError, count=1)
-        errorIndices += range(errorMark,errorMark+5)
-    return errorIndices
+    errorMarks = np.where(dataArray==EReadError)[0]
+    if not len(errorMarks):
+        return []
+    # Vectorised: broadcast each error mark across offsets 0..4
+    return (errorMarks[:, np.newaxis] + np.arange(5, dtype=np.intp)).ravel()
