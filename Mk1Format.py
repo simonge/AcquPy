@@ -89,26 +89,27 @@ def MakeScalerArray(moduleList,scalerList):
 
 def FillScalerArray(dataArray):
     
-    #np.set_printoptions(threshold=np.nan)
-    scalerHeaders = []
-    scalerIndices = []
     scalerLocations = np.where(dataArray==EScalerBuffer)[0]
-    if(len(scalerLocations)):
-        if(len(scalerLocations)!=len(NScalerBlock)):
-            print('Bad scaler block')
-            return [], []
-        for i, index in enumerate(scalerLocations):
-            scalerHeaders += [index,index+1]
-            scalerIndices += range(index+2,index+2+NScalerBlock[i])
-        scalerArray = np.column_stack((np.arange(NScaler),np.take(dataArray,scalerIndices)))
-        dataArray
-        return scalerArray, scalerIndices+scalerHeaders
-    return [], []
-    
+    if not len(scalerLocations):
+        return [], []
+    if len(scalerLocations) != len(NScalerBlock):
+        print('Bad scaler block')
+        return [], []
+
+    block_sizes = np.asarray(NScalerBlock, dtype=np.intp)
+    # Fully vectorised ragged range: replaces Python for-loop list builds
+    bases   = np.repeat(scalerLocations + 2, block_sizes)
+    cum     = np.concatenate([[0], np.cumsum(block_sizes[:-1])])
+    offsets = np.arange(NScaler, dtype=np.intp) - np.repeat(cum, block_sizes)
+    scalerIndices = bases + offsets
+
+    scalerHeaders = np.ravel(np.column_stack([scalerLocations, scalerLocations + 1]))
+    scalerArray = np.column_stack((np.arange(NScaler), dataArray[scalerIndices]))
+    return scalerArray, np.concatenate([scalerIndices, scalerHeaders])
+
 def CheckErrors(dataArray):
-    errorIndices = []
-    for errorMark in np.where(dataArray==EReadError)[0]:
-        #print errorMark
-        #print np.frombuffer(dataArray[errorMark:], dtype=readError, count=1)
-        errorIndices += range(errorMark,errorMark+4)
-    return errorIndices
+    errorMarks = np.where(dataArray==EReadError)[0]
+    if not len(errorMarks):
+        return []
+    # Vectorised: broadcast each error mark across offsets 0..3
+    return (errorMarks[:, np.newaxis] + np.arange(4, dtype=np.intp)).ravel()
